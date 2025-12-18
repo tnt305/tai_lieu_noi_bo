@@ -1,0 +1,21 @@
+# Chính trị Singapore
+
+| Chính trị và chính phủ Singapore |
+| Hiến pháp |
+| Ngoại giao |
+
+Căn cứ Hiến pháp Singapore, Singapore có một chế độ cộng hòa đại nghị. Tổng thống là nguyên thủ quốc gia, chìa khoá thứ hai mà trữ sẵn để dùng khi cần đến của quốc gia, do phổ thông đầu phiếu bầu ra, nhiệm kỳ là sáu năm. Tổng thống bổ nhiệm lãnh đạo đảng đa số ở Quốc hội làm thủ tướng. Tổng thống có quyền phủ quyết dự toán tài chính công và sự bổ nhiệm chức vị ban ngành công vụ của chính phủ; có thể thẩm tra quyền lực mà chính phủ sử dụng và thi hành Luật An ninh nội bộ (ISA) và Luật Hoà hợp tôn giáo (MRHA) cùng với vụ việc kiện tụng điều tra tham nhũng. Hội đồng cố vấn tổng thống (CPA) có nhiệm vụ bàn bạc và đưa ra kiến nghị cho tổng thống. Tổng thống lúc thực hiện các quyền hạn nào đó, ví như ra lệnh bổ nhiệm công chức chủ yếu, trước tiên cần phải hỏi xin ý kiến của Hội đồng cố vấn tổng thống. Tổng thống và Quốc hội cùng nhau thực hiện quyền lập pháp. Quốc hội gồm một viện. Nghị sĩ do phổ thông đầu phiếu bầu ra, nhiệm kỳ là năm năm, đảng chiếm đa số ở Quốc hội thành lập chính phủ.
+
+Từ khi Singapore được quyền tự quản vào năm 1959, Đảng Hành động Nhân dân nắm giữ chính quyền và lấy đa số mang tính áp chế để thao túng Quốc hội, do đó có ý kiến cho rằng Singapore trên thực tế là một quốc gia chuyên chế hoặc một đảng. Tuy nhiên, bởi vì nghị sĩ Quốc hội Singapore do cử tri bầu trực tiếp nên (khu vực bầu cử một thành viên và khu vực bầu cử tập thể) trong nước cũng có nhiều đảng và đảng đối lập được phép tồn tại, hơn nữa sau khi Lí Hiển Long lên đảm nhiệm, lãnh đạo của đảng đối lập có không gian thêm lớn so với trước đây, cho phép phát ngôn và tổ chức trên mạng, nhưng mà không cho phép tụ tập cùng nhau, do đó có ý kiến cho rằng Singapore cũng thuộc về dân chủ một phần.[1] Chế độ chính trị của Singapore có sẵn đặc trưng của nước dân chủ: có sự tồn tại của đảng đối lập, có Quốc hội do cử tri bầu ra, có sự phân lập quyền lực giữa các cơ cấu chính phủ (thực hành hệ thống Westminster và tam quyền phân lập[2]), truyền thông tin tức cũng độc lập với chính phủ. Nhưng mà cũng không hoàn toàn dân chủ, dù cho dân chúng vẫn có quyền công dân tương đối tự do.
+
+## Nguyên thủ quốc gia
+
+[sửa | sửa mã nguồn]Singapore theo hệ thống Westminster của Anh, do đó tổng thống là nguyên thủ quốc gia tượng trưng. Trước năm 1991, tổng thống do Quốc hội bầu ra. Sau khi Hiến pháp được sửa đổi vào năm 1991, tổng thống do cử tri bầu ra, nhiệm kỳ là sáu năm. Hiến pháp sửa đổi quy định cho tổng thống quyền hạn thêm nhiều, bao gồm phủ quyết tất cả dự luật của chính phủ mà có thể làm tổn hại đến an ninh quốc gia hoặc hoà hợp chủng tộc, ra lệnh bổ nhiệm quan chức nội các và thủ trưởng ban ngành dưới sự tiến cử của thủ tướng, cùng với khởi động trình tự điều tra tham nhũng.
+
+Cuộc bầu cử trực tiếp tổng thống lần đầu tiên của Singapore được tổ chức vào ngày 28 tháng 8 năm 1993, người trúng cử là Vương Đỉnh Xương. Tổng thống do cử tri bầu ra lần thứ hai là Sellapan Ramanathan là tổng thống thứ sáu lên giữ chức trải qua tuyển cử vào năm 1999. Ngày 1 tháng 9 năm 2011, tiến sĩ Trần Khánh Viêm tuyên thệ nhậm chức tổng thống thứ bảy của Singapore.
+
+Hội đồng cố vấn tổng thống là cơ quan do Tu chính án Hiến pháp năm 1991 thành lập, tổng thống cần phải đầu tiên hỏi ý kiến của Hội đồng đó trước khi sử dụng bất kể quyền lực gì. Hội đồng gồm 6 thành viên, trong đó 2 người do tổng thống bổ nhiệm, 2 người do thủ tướng bổ nhiệm, 1 người do chánh án tối cao bổ nhiệm, có 1 người do Chủ tịch Uỷ ban Dịch vụ công mà chủ trì quản lí nhân viên công vụ bổ nhiệm. Chủ tịch Hội đồng cố vấn tổng thống hiện tại là Thẩm Cơ Văn, là thành viên hội đồng quản trị của Temasek Holdings, ông thay thế nguyên thủ thực hiện chức trách vào lúc tổng thống không thể thực hiện chức trách của nguyên thủ. Vào lúc Chủ tịch Hội đồng cố vấn tổng thống cũng không thể thực hiện chức trách của nguyên thủ, thì do Chủ tịch Quốc hội thực hiện.
+
+## Tham khảo
+
+[sửa | sửa mã nguồn]**^**"Học giả Kỉ Uân: Singpore bị Trung Quốc giảng giải sai lầm lại một lần nữa". Liên hợp Tảo báo. ngày 13 tháng 3 năm 2013.**^**"Bản sao đã lưu trữ". Bản gốc lưu trữ ngày 8 tháng 7 năm 2017. Truy cập ngày 20 tháng 5 năm 2017.

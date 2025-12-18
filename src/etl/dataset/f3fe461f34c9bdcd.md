@@ -1,0 +1,23 @@
+# Biên đạo múa
+
+Giao diện
+
+**Biên đạo múa** (tiếng Anh: *choreography*) là môn nghệ thuật thiết kế nên một chuỗi các chuyển động cơ thể. Người làm biên đạo múa là người sáng tạo ra các vũ đạo thông qua hoạt động biên đạo. Biên đạo múa có ảnh hưởng đến nhiều lĩnh vực, bao gồm nhạc kịch, cổ vũ, điện ảnh, thể dục dụng cụ, trình diễn thời trang, trượt băng, ban nhạc diễu hành, hợp xướng, sân khấu, bơi lội đồng bộ, sản xuất trò chơi điện tử và nghệ thuật hoạt hình.[1]
+
+## Biên đạo múa nổi tiếng
+
+[sửa | sửa mã nguồn]### Thế giới
+
+[sửa | sửa mã nguồn]- Fred Astaire (1899 - 1987) là một vũ công sân khấu kịch Broadway, biên đạo múa, ca sĩ và diễn viên từng giành được giải Oscar người Mỹ. Cuộc đời sân khấu và điện ảnh của ông kéo dài 76 năm, trong đó ông cho ra đời 30 bộ phim âm nhạc. Astaire có quan hệ đặc biệt với Ginger Rogers, người đóng 10 bộ phim cùng ông.
+- Dương Lệ Bình (sinh 1958) là vũ công, biên đạo múa người Bạch tộc, Vân Nam, Trung Quốc. Bà đã thực hiện hàng nghìn buổi biểu diễn và lưu diễn đến hơn 50 quốc gia và khu vực, bao gồm Philippine, Singapore, Nga, Mỹ, Canada, Đài Loan. Nhật Bản, Úc,... Bà hiện là Phó chủ tịch Hiệp hội vũ đạo Trung Quốc.
+
+### Việt Nam
+
+[sửa | sửa mã nguồn]- Chu Thuý Quỳnh (sinh 1941) là một Nghệ sĩ nhân dân, biên đạo múa và đạo diễn chương trình, từng là chủ tịch Hội Nghệ sĩ múa Việt Nam, nguyên Giám đốc Nhà hát ca múa nhạc Việt Nam.
+[2][3] - Nguyễn Thị Hoài Anh (sinh 1982) là một nghệ sĩ, biên đạo múa nổi tiếng trong lĩnh vực Sân khấu Việt Nam hiện nay. Biên đạo múa Hoài Anh nhiều năm liền đảm nhiệm vai trò biên đạo múa tại Nhà hát Chèo Hà Nội và là cộng tác viên cho một số Nhà hát nghệ thuật khác ở khu vực miền Bắc như nhà hát Kịch VN, nhà hát Cải lương HN, các nhà hát Chèo Hải Dương, Hà Nam,...
+[4] - Trần Ly Ly (sinh năm 1978)- Giám đốc Nhà hát Nhạc vũ kịch Việt Nam.
+[5]
+
+## Tham khảo
+
+[sửa | sửa mã nguồn]**^**Cơ hội và thách thức với những tài năng biên đạo múa trẻ**^**"Nữ đại biểu Quốc hội đầu tiên của ngành múa Việt Nam". Tuổi Trẻ Online. Truy cập ngày 2 tháng 9 năm 2024.**^**"Nghệ sĩ Nhân dân Chu Thúy Quỳnh: Nữ đại biểu Quốc hội đầu tiên trong ngành Múa". Báo Dân tộc và Phát triển. ngày 10 tháng 1 năm 2018. Truy cập ngày 2 tháng 9 năm 2024.**^**Biên đạo múa 28 năm đắm đuối với nghệ thuật truyền thống**^**NSƯT Trần Ly Ly: Vàng mười của múa

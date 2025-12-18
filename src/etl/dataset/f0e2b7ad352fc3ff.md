@@ -1,0 +1,113 @@
+# Tra cứu bảng giá đất quận Hai Bà Trưng (cũ) Hà Nội 2026 mới nhất
+
+## Mua bán Đất tại Hà Nội
+
+### Nội dung chính
+
+## Tra cứu bảng giá đất quận Hai Bà Trưng (cũ) Hà Nội 2026 mới nhất
+
+Ngày 26/11/2025, Hội đồng nhân dân thành phố Hà Nội đã thông qua Nghị quyết 52/2025/NQ-HĐND quy định bảng giá đất lần đầu để công bố và áp dụng từ ngày 01/01/2026 trên địa bàn thành phố Hà Nội.
+
+Theo đó, ban hành kèm theo đó là bảng giá đất ở Hà Nội 2026 chi tiết 17 khu vực, trong đó khu vực quận Hai Bà Trưng (cũ) Hà Nội gồm **các phường sau sáp nhập: Hai Bà Trưng, Vĩnh Tuy, Bạch Mai** được xếp vào **Khu vực 1 và Khu vực 2** bảng giá đất Hà Nội 2026.
+
+Dưới đây là bảng giá đất quận Hai Bà Trưng (cũ) Hà Nội 2026 mới nhất:
+
+|
+| |
+| Bảng giá đất nông nghiệp | |
+Hai Bà Trưng | ||
+Vĩnh Tuy, Bạch Mai | TRA CỨU |
+
+**(*)** Hướng dẫn tra cứu bảng giá đất: Bấm Ctrl + F tên đường thuộc xã/phường cần tra cứu.
+
+*Lưu ý: Quận Hai Bà Trưng (cũ) trước sáp nhập có 15 đơn vị hành chính trực thuộc, bao gồm 15 phường: Bách Khoa, Bạch Mai, Đồng Nhân, Thanh Nhàn, Nguyễn Du, Lê Đại Hành, Minh Khai, Phố Huế, Quỳnh Mai, Thanh Lương, Trương Định, Vĩnh Tuy, Đồng Tâm, Phạm Đình Hổ, Bạch Đằng.*
+
+*Tra cứu bảng giá đất quận Hai Bà Trưng (cũ) Hà Nội 2026 mới nhất (Hình từ Internet)*
+
+## Tiêu chí xác định vị trí thửa đất (khu đất) trong bảng giá đất quận Hai Bà Trưng (cũ) Hà Nội 2026
+
+Căn cứ Điều 3 Nghị quyết 52/2025/NQ-HĐND quy định tiêu chí xác định vị trí thửa đất (khu đất) trong bảng giá đất quận Hai Bà Trưng (cũ) Hà Nội 2026 như sau:
+
+**(1) Tiêu chí chung:** Thực hiện theo khoản 1 Điều 20 Nghị định 71/2024/NĐ-CP.
+
+**(2) Tiêu chí cụ thể xác định vị trí đất phi nông nghiệp.**
+
+*(*) Tiêu chí xác định vị trí thửa đất (khu đất).*
+
+- Vị trí 1 (VT1): áp dụng đối với thửa đất (khu đất) có ít nhất một cạnh (mặt) giáp với đường, phố, ngõ có tên trong bảng giá đất (sau đây gọi chung là đường có tên trong Bảng giá đất) ban hành kèm theo Nghị quyết 52/2025/NQ-HĐND.
+
+- Vị trí 2 (VT2): áp dụng đối với thửa đất (khu đất) có ít nhất một cạnh (mặt) giáp với ngõ (không có tên trong Bảng giá đất), ngách, hẻm, lối đi có mặt cắt nhỏ nhất tính từ chỉ giới hè đường hiện trạng có tên trong Bảng giá đất tới mốc giới đầu tiên của thửa đất (khu đất) tiếp giáp với ngõ ngách, hẻm, lối đi từ 3,5m trở lên.
+
+- Vị trí 3 (VT3): áp dụng đối với thửa đất (khu đất) có ít nhất một cạnh (mặt) giáp với ngõ, ngách, hẻm, lối đi (không có tên trong Bảng giá đất) có mặt cắt nhỏ nhất tính từ chỉ giới hè đường hiện trạng có tên trong Bảng giá đất tới mốc giới đầu tiên của thửa đất (khu đất) tiếp giáp với ngõ, ngách, hẻm, lối đi từ 2m đến dưới 3,5m.
+
+- Vị trí 4 (VT4): áp dụng đối với thửa đất (khu đất) có ít nhất một cạnh (mặt) giáp với ngõ, ngách, hẻm, lối đi (không có tên trong Bảng giá đất), có mặt cắt nhỏ nhất tính từ chỉ giới hè đường hiện trạng có tên trong Bảng giá đất tới mốc giới đầu tiên của thửa đất (khu đất) tiếp giáp với ngõ, ngách, hẻm, lối đi dưới 2m.
+
+*(*) Tiêu chí xác định vị trí thửa đất (khu đất) đối với các trường hợp đặc biệt:*
+
+- Đối với thửa đất (khu đất) có các cạnh (mặt) tiếp giáp từ hai đường, phố, ngõ trở lên thì giá đất được nhân hệ số như sau:
+
++ Thửa đất (khu đất) có ít nhất 4 cạnh (mặt) tiếp giáp với đường, phố, ngõ có tên trong Bảng giá đất thì được nhân hệ số K = 1,3 của đường, phố, ngõ có giá đất cao nhất.
+
++ Thửa đất (khu đất) có 3 cạnh (mặt) tiếp giáp với đường, phố, ngõ có tên trong Bảng giá đất thì được nhân hệ số K = 1,25 của đường, phố, ngõ có giá đất cao nhất.
+
++ Thửa đất (khu đất) có 2 cạnh (mặt) tiếp giáp với đường, phố, ngõ có tên trong Bảng giá đất thì được nhân hệ số K = 1,2 của đường, phố, ngõ có giá đất cao nhất.
+
++ Thửa đất (khu đất) có một cạnh (mặt) tiếp giáp với đường, phố, ngõ có tên trong Bảng giá đất và có một cạnh (mặt) khác tiếp giáp với ngõ, ngách, hẻm, lối đi (có mặt cắt nhỏ nhất từ 3,5 m trở lên tính từ chỉ giới hè đường hiện trạng có tên trong Bảng giá đất tới mốc giới đầu tiên của thửa đất tiếp giáp với ngõ, ngách, hẻm, lối đi) thì được nhân hệ số K = 1,15 của đường, phố, ngõ có tên trong Bảng giá đất.
+
++ Thửa đất (khu đất) có một cạnh (mặt) tiếp giáp với đường, phố, ngõ có tên trong Bảng giá đất và có một cạnh (mặt) khác tiếp giáp với ngõ, ngách, hẻm, lối đi (có mặt cắt nhỏ nhất từ 2 m đến dưới 3,5 m tính từ chỉ giới hè đường hiện trạng có tên trong Bảng giá đất tới mốc giới đầu tiên của thửa đất tiếp giáp với ngõ, ngách, hẻm, lối đi) thì được nhân hệ số K = 1,1 của đường, phố, ngõ có tên trong Bảng giá đất.
+
++ Thửa đất (khu đất) có một cạnh (mặt) tiếp giáp với đường, phố, ngõ có tên trong Bảng giá đất và có một cạnh (mặt) khác tiếp giáp với ngõ, ngách, hẻm, lối đi (có mặt cắt nhỏ nhất dưới 2 m tính từ chỉ giới hè đường hiện trạng có tên trong Bảng giá đất tới mốc giới đầu tiên của thửa đất tiếp giáp với ngõ, ngách, hẻm, lối đi) thì được nhân hệ số K = 1,05 của đường, phố, ngõ có tên trong Bảng giá đất.
+
+- Đối với thửa đất (khu đất) tại vị trí 2, vị trí 3 và vị trí 4 từ Phụ lục số 01 đến Phụ lục số 12 (không bao gồm các thửa đất (khu đất) thuộc địa giới hành chính các xã Đoài Phương, Phúc Lộc, Phúc Thọ, Hát Môn) thuộc các khu dân cư cũ (không nằm trong dự án đầu tư xây dựng: khu đô thị mới, khu đấu giá, khu tái định cư, khu nhà ở, điểm công nghiệp, cụm công nghiệp hoặc khu công nghiệp) nếu có khoảng cách theo đường hiện trạng từ mốc giới đầu tiên của thửa đất đến đường có tên trong bảng giá ≥ 200m thì giá đất được giảm trừ như sau:
+
++ Khoảng cách từ 200m đến dưới 300m: giảm 5% so với giá đất quy định.
+
++ Khoảng cách từ 300m đến dưới 400m: giảm 10% so với giá đất quy định.
+
++ Khoảng cách từ 400m đến dưới 500m: giảm 15% so với giá đất quy định.
+
++ Khoảng cách từ 500 m trở lên: giảm 20% so với giá đất quy định.
+
+- Đối với thửa đất tại vị trí 2, vị trí 3 và vị trí 4 tại Phụ lục số 12 (chỉ áp dụng đối với các thửa đất (khu đất) thuộc địa giới hành chính các xã Đoài Phương, Phúc Lộc, Phúc Thọ, Hát Môn) đến Phụ lục số 17 thuộc các khu dân cư cũ (không nằm trong dự án đầu tư xây dựng: khu đô thị mới, khu đấu giá, khu tái định cư, khu nhà ở, điểm công nghiệp, cụm công nghiệp hoặc khu công nghiệp) nếu có khoảng cách theo đường hiện trạng từ mốc giới đầu tiên của thửa đất (khu đất) đến đường có tên trong Bảng giá đất ≥ 200m thì giá đất được xác định như sau:
+
++ Khoảng cách từ 200m đến dưới 300m: giảm 5% so với giá đất quy định.
+
++ Khoảng cách từ 300m đến dưới 400m: giảm 10% so với giá đất quy định.
+
++ Khoảng cách từ 400m đến dưới 500m: giảm 15% so với giá đất quy định.
+
++ Khoảng cách từ 500m trở lên được áp dụng giá đất khu dân cư nông thôn.
+
+- Đối với thửa đất (khu đất) có vị trí tiếp giáp với đường gom giao thông (không có tên tại Bảng giá đất) và không có cạnh (mặt) tiếp giáp với đường, phố giao thông chính (có tên trong Bảng giá đất) thì giá đất được xác định theo vị trí 2 của đường giao thông chính có tên tại Bảng giá đất.
+
+- Đối với các thửa đất (khu đất) của một chủ sử dụng tại các vị trí 2, vị trí 3, vị trí 4 có đường nối thông với nhiều đường, phố, ngõ có tên trong Bảng giá đất có giá đất khác nhau thì áp dụng theo vị trí của đường, phố, ngõ gần nhất. Nếu thửa đất có khoảng cách đến các đường, phố, ngõ có tên trong Bảng giá đất bằng nhau thì áp dụng theo đường, phố, ngõ có mức giá cao nhất.
+
+- Đối với thửa đất (khu đất) không nằm trong dự án đầu tư xây dựng: khu đô thị mới, khu đấu giá, khu tái định cư, khu nhà ở, điểm công nghiệp, cụm công nghiệp hoặc khu công nghiệp mà có cạnh (mặt) tiếp giáp với đường, phố, ngõ, ngách, hẻm, lối đi có chiều sâu thửa đất tính từ chỉ giới hè đường, phố, ngõ, ngách, hẻm, lối đi > 100 m được chia lớp để tính giá đất như sau:
+
++ Lớp 1: Tính từ chỉ giới hè đường, phố, ngõ, ngách, hẻm, lối đi đến dưới 100 m tính bằng 100% giá đất quy định.
+
++ Lớp 2: Tính từ chỉ giới hè đường, phố, ngõ, ngách, hẻm, lối đi từ 100 m đến dưới 200 m, giảm 10% so với giá đất của lớp 1.
+
++ Lớp 3: Tính từ chỉ giới hè đường, phố, ngõ, ngách, hẻm, lối đi từ 200 m đến dưới 300 m giảm 20% so với giá đất của lớp 1.
+
++ Lớp 4: Tính từ chỉ giới hè đường, phố, ngõ, ngách, hẻm, lối đi từ 300 m trở lên giảm 30% so với giá đất của lớp 1.
+
+Trường hợp thửa đất (khu đất) có nhiều mặt tiếp giáp với nhiều đường, phố, ngõ, ngách, hẻm, lối đi thì việc chia lớp được tính theo mặt cắt đường, phố, ngõ, ngách, hẻm, lối đi có giá đất cao nhất.
+
+- Trường hợp thửa đất (khu đất) có hình thể đặc thù, bị che khuất (không bao gồm các trường hợp nằm trong dự án đầu tư xây dựng: khu đô thị mới, khu đấu giá, khu tái định cư, khu nhà ở, điểm công nghiệp, cụm công nghiệp hoặc khu công nghiệp) có mặt (cạnh) tiếp giáp với đường, phố, ngõ, ngách, hẻm, lối đi thì phần diện tích tiếp giáp với đường, phố, ngõ, ngách, hẻm, lối đi tính từ mặt tiền đến hết chiều sâu của thửa đất được tính giá đất theo đúng vị trí, mục đích quy định tại các tiết a, b, c, d, đ điểm 2.2 khoản 2 Điều 3 và Điều 4 Nghị quyết 52/2025/NQ-HĐND; phần diện tích còn lại giá đất được áp dụng hệ số K như sau:
+
++ Thửa đất (khu đất) có vị trí 1: K = 0,9 của giá đất theo quy định.
+
++ Thửa đất (khu đất) có vị trí 2: K = 0,8 của giá đất theo quy định.
+
++ Thửa đất (khu đất) có vị trí 3, vị trí 4: K = 0,7 của giá đất theo quy định.
+
+- Đối với các thửa đất có vị trí 1, vị trí 2 và vị trí 3: Giá đất của thửa đất sau khi áp dụng hệ số K và chia lớp tại các tiết đ, e điểm 2.2 khoản 2 Điều 3 Nghị quyết 52/2025/NQ-HĐND không thấp hơn giá đất vị trí liền kề của đường, phố, ngõ, ngách, hẻm, lối đi áp dụng để chia lớp và giá đất theo vị trí của các đường, phố, ngõ tiếp giáp còn lại; trường hợp thấp hơn thì áp dụng theo giá đất vị trí liền kề cao nhất.
+
+- Trường hợp thửa đất (khu đất) giáp ranh giữa các khu vực trong Bảng giá đất thì giá đất được xác định theo vị trí của khu vực có mức giá cao nhất; nguyên tắc xác định vị trí và giá đất các trường hợp này tuân thủ quy định tại các tiết a, b, c, d, đ, e, g điểm 2.2 khoản 2 Điều 3 và Điều 4 Nghị quyết 52/2025/NQ-HĐND.
+
+- Giá đất tại các tuyến đường, phố chưa có tên trong Bảng giá đất ban hành kèm theo Nghị quyết 52/2025/NQ-HĐND được xác định theo các nguyên tắc tại khoản 1, 2 Điều 3 Nghị quyết 52/2025/NQ-HĐND và tương ứng với mức giá đất của đường, phố có tên tương đương gần nhất.
+
+**(3) **Giá đất trong bảng giá đất đối với đất sử dụng có thời hạn thực hiện theo quy định tại khoản 3 Điều 12 Nghị định 71/2024/NĐ-CP.
+
+**(4) **Các trường hợp được Nhà nước giao đất, cho thuê đất tại các khu dân cư nông thôn để sử dụng vào mục đích: đầu tư sản xuất kinh doanh, điểm công nghiệp, cụm công nghiệp, khu công nghiệp, khu công nghệ cao, khu đô thị mới, khu đấu giá, khu tái định cư, khu nhà ở thì căn cứ vào đường hiện trạng để áp dụng giá đất theo 4 vị trí của đường, phố, ngõ có tên trong Bảng giá đất và không được áp dụng giá đất khu dân cư nông thôn.

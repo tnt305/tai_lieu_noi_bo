@@ -1,0 +1,37 @@
+# Hướng dẫn điền Mẫu số 01/PLI Nghị định 145/2020 mẫu báo cáo tình hình sử dụng lao động cuối năm 2025
+
+### Nội dung chính
+
+## Hướng dẫn điền Mẫu số 01/PLI Nghị định 145/2020 mẫu báo cáo tình hình sử dụng lao động cuối năm 2025
+
+Theo Điều 71 Nghị định 129/2025/NĐ-CP thì mẫu báo cáo tình hình sử dụng lao động cuối năm 2025 là Mẫu số 01/PLI Nghị định 145/2020/NĐ-CP.
+
+Sau đây là hướng dẫn điền Mẫu số 01/PLI Nghị định 145/2020 mẫu báo cáo tình hình sử dụng lao động cuối năm 2025:
+
+**Ghi chú (1)** Sở Lao động - Thương binh và Xã hội (Nay là Sở Nội vụ); cơ quan bảo hiểm xã hội cấp quận, huyện nơi đặt trụ sở, chi nhánh, văn phòng đại diện
+
+**Ghi chú (2)** Vị trí việc làm phân loại theo:
+
+- Cột **(8)** Nhà quản lý: Nhóm này bao gồm những nhà lãnh đạo, quản lý làm việc trong các ngành, các cấp và trong các cơ quan, tổ chức, doanh nghiệp có giữ các chức vụ, có quyền quản lý, chỉ huy, điều hành từ trung ương tới cấp xã;
+
+- Cột **(9)** Chuyên môn kỹ thuật bậc cao: Nhóm này bao gồm những nghề đòi hỏi phải có kiến thức chuyên môn, nghiệp vụ và kinh nghiệm ở trình độ cao (đại học trở lên) trong lĩnh vực khoa học và kỹ thuật, sức khỏe, giáo dục, kinh doanh và quản lý, công nghệ thông tin và truyền thông, luật pháp, văn hóa, xã hội;
+
+- Cột **(10)** Chuyên môn kỹ thuật bậc trung: Nhóm này bao gồm những nghề đòi hỏi kiến thức và kinh nghiệm ở trình độ bậc trung (cao đẳng, trung cấp) về các lĩnh vực khoa học và kỹ thuật, sức khỏe, kinh doanh và quản lý, luật pháp, văn hóa, xã hội, thông tin và truyền thông, giáo viên, giáo dục, công nghệ thông tin.
+
+*Hướng dẫn điền Mẫu số 01/PLI Nghị định 145/2020 mẫu báo cáo tình hình sử dụng lao động cuối năm 2025 (Hình từ Internet)*
+
+## Hạn chót nộp Mẫu số 01/PLI Nghị định 145/2020 mẫu báo cáo tình hình sử dụng lao động cuối năm 2025 là khi nào?
+
+Căn cứ Điều 71 Nghị định 129/2025/NĐ-CP quy định báo cáo sử dụng lao động như sau:
+
+Điều 71. Báo cáo sử dụng lao động
+
+Việc định kỳ báo cáo tình hình thay đổi về lao động theo quy định tại khoản 2 Điều 4 Nghị định số 145/2020/NĐ-CP ngày 14 tháng 12 năm 2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Bộ luật Lao động về điều kiện lao động và quan hệ lao động (được sửa đổi, bổ sung bởi khoản 1 Điều 73 Nghị định số 35/2022/NĐ-CP ngày 28 tháng 5 năm 2022 của Chính phủ quy định quản lý khu công nghiệp và khu kinh tế) như sau:
+
+Định kỳ 06 tháng (trước ngày 05 tháng 6) và hằng năm (trước ngày 05 tháng 12), người sử dụng lao động phải báo cáo tình hình thay đổi lao độngđến Sở Nội vụ thông qua cổng Dịch vụ công Quốc gia theo Mẫu số 01/PLI Phụ lục I ban hành kèm theo Nghị định số 145/2020/NĐ-CP và thông báo đến cơ quan bảo hiểm xã hội khu vực nơi đặt trụ sở, chi nhánh, văn phòng đại diện. Trường hợp người sử dụng lao động không thể báo cáo tình hình thay đổi lao động thông qua cổng Dịch vụ công Quốc gia thì gửi báo cáo bằng bản giấy theo Mẫu số 01/PLI Phụ lục I ban hành kèm theo Nghị định số 145/2020/NĐ-CP đến Sở Nội vụ và thông báo đến cơ quan bảo hiểm xã hội khu vực nơi đặt trụ sở, chi nhánh, văn phòng đại diện. Đối với lao động làm việc trong khu công nghiệp, khu kinh tế, người sử dụng lao động phải báo cáo tình hình thay đổi lao động đến Sở Nội vụ, cơ quan bảo hiểm xã hội khu vực nơi đặt trụ sở, chi nhánh, văn phòng đại diện và Ban quản lý khu công nghiệp, khu kinh tế để theo dõi.
+
+Sở Nội vụ có trách nhiệm tổng hợp tình hình thay đổi về lao động trong trường hợp người sử dụng lao động gửi báo cáo bằng bản giấy để cập nhật đầy đủ thông tin theo Mẫu số 02/PLI Phụ lục I ban hành kèm theo Nghị định số 145/2020/NĐ-CP.
+
+Như vậy, hạn chót nộp Mẫu số 01/PLI Nghị định 145/2020 mẫu báo cáo tình hình sử dụng lao động cuối năm 2025 là **ngày 04/12/2025.**
+
+**Trên đây là hướng dẫn điền Mẫu số 01/PLI Nghị định 145/2020 mẫu báo cáo tình hình sử dụng lao động cuối năm 2025.*

@@ -1,0 +1,148 @@
+# Trường Sĩ quan không quân (Việt Nam)
+
+Giao diện
+
+Bài viết này cần thêm chú thích nguồn gốc để kiểm chứng thông tin. (tháng 4/2023) |
+
+Bài viết hoặc đoạn này cần được wiki hóa để đáp ứng tiêu chuẩn quy cách định dạng và văn phong của Wikipedia. (tháng 4/2023) |
+
+| Trường Sĩ quan Không quân | |
+|---|---|
+| Bộ Quốc phòng | |
+Chỉ huy | |
+| Quốc gia | Việt Nam |
+| Thành lập | 20 tháng 8 năm 1959 |
+| Quân chủng | Phòng không – Không quân |
+| Binh chủng hợp thành | Không quân Hải quân Không quân vận tải Tiêm kích Cường kích Đổ bộ đường không |
+| Phân cấp | Đại học Công lập (Nhóm 5) |
+| Nhiệm vụ | Đào tạo phi công quân sự, sĩ quan kỹ thuật hàng không trình độ đại học quân sự và cao đẳng kỹ thuật |
+| Quy mô | 3.000 người |
+| Bộ chỉ huy | Cổng 3, đường Biệt Thự Nha Trang, Khánh Hòa |
+| Tên khác | KGH |
+| Thành tích | Anh hùng Lực lượng vũ trang nhân dân |
+| Website | http://tsqkq.edu.vn/ |
+| Chỉ huy | |
+| Hiệu trưởng | |
+| Chính ủy | |
+
+**Trường Sĩ quan Không quân** (**KGH**) là trường đại học quân sự trực thuộc Quân chủng Phòng không- Không quân- Bộ Quốc phòng Việt Nam, chuyên đào tạo phi công quân sự, nhân viên kỹ thuật hàng không trình độ cao đẳng và trung cấp kỹ thuật cho Quân đội nhân dân Việt Nam.
+
+- Ngày truyền thống: 20/08/1959
+[1]ngày thành lập trường Hàng không Việt Nam. - Trụ sở chính: Cổng số 03 - Đường Biệt Thự - phường Nha Trang - Khánh Hòa
+
+## Lịch sử hình thành
+
+[sửa | sửa mã nguồn]- Ngày 20/08/1959, Bộ Quốc phòng ra Nghị định số 427/NĐ thành lập Trường Huấn luyện hàng không (tiền thân của Trường Sĩ quan Không quân) tại sân bay Cát Bi, thành phố Hải Phòng.
+- Tính đến tháng 8 năm 1965, Trường đã hoàn thành 5 khoá đào tạo phi công trên các loại máy bay cánh quạt, trực thăng và vận tải quân sự. Ngoài công tác đào tạo, Trường còn trực tiếp tham gia vận tải đường không cho tuyến vận tải chiến lược 559 và chiến trường Lào (1960 -1962).
+- Từ tháng 9 năm 1965 đến tháng 5 năm 1975, Trường sơ tán ra nước ngoài (Trung Quốc) tiếp tục làm nhiệm vụ đào tạo phi công vận tải cánh quạt và đào tạo phi công phản lực chiến đấu MiG-17; đồng thời làm nhiệm vụ bảo quản các loại máy bay dự trữ chiến đấu cho Không quân.
+- Sau đại thắng mùa Xuân 1975, Trường tiếp quản các sân bay Nha Trang, Cam Ranh, Phan Rang. Hợp nhất các đơn vị: Trung đoàn 910 và Phân hiệu đào tạo sĩ quan Tham mưu (thuộc Trường Không quân), khoa Không quân và Tiểu đoàn kỹ thuật Không quân (thuộc Trường trung cấp kỹ thuật Phòng không-Không quân) thành Trường Đại học Sĩ quan Không quân. Đến tháng 1 năm 1981 Trường được đổi tên thành Trường Sĩ quan Chỉ huy-Kỹ thuật Không quân.
+- Trong giai đoạn từ 1975 đến 1994, Trường có nhiệm vụ đào tạo phi công các loại máy bay cánh quạt, trực thăng và phản lực chiến đấu; đào tạo sĩ quan tham mưu, chính trị, kỹ thuật và nhân viên trung cấp kỹ thuật hàng không.
+- Theo quyết định số 392/QĐ-QP ngày 31/12/1994 của Bộ Quốc phòng, Trường được đổi tên thành Trường Huấn luyện bay-Kỹ thuật Không quân có nhiệm vụ đào tạo nhân viên kỹ thuật hàng không trình độ cao đẳng.
+- Năm 1995, Trường Đại học Sĩ quan Không quân đã liên kết với Học viện Không quân đào tạo phi công quân sự có trình độ đại học (Trường đảm nhiệm giai đoạn đào tạo chuyên ngành và thực hành bay; đào tạo nhân viên kỹ thuật hàng không trình độ cao đẳng. Học viện Không quân đảm nhiệm giai đoạn đào tạo đại học đại cương, một phần chuyên ngành và cấp bằng tốt nghiệp).
+- Ngày 25/02/ 2002, Bộ Quốc phòng ra quyết định số 31/2002/QĐ-BQP về việc đổi tên Trường Huấn luyện bay - Kỹ thuật Không quân thành Trường Đại học Sĩ quan Không quân; có nhiệm vụ tiếp tục liên kết với Học viện Phòng không - Không quân đào tạo phi công quân sự trình độ đại học và tích cực hoàn thiện các điều kiện đào tạo phi công quân sự có trình độ đại học một cách độc lập; đào tạo nhân viên kỹ thuật hàng không trình độ cao đẳng.
+- Ngày 05/01/2006 Thủ tướng Chính phủ ký Quyết định số 03/2006/QĐ-TTg giao nhiệm vụ đào tạo đại học cho Trường Sĩ quan Không quân.
+
+## Ban Giám hiệu
+
+[sửa | sửa mã nguồn]- Hiệu trưởng: Thiếu tướng Ngô Vĩnh Phúc
+- Chính ủy: Thiếu tướng Lê Văn Uy
+- PHT. TMT: Đại tá Nguyễn Quang Hùng
+- PHT. Đào tạo: Đại tá Lại Công Hoan
+- PHT.IT : Đại tá Nguyễn Thành Vinh
+- PHT. Kỹ Thuật: Đại tá Nguyễn Trường Thành
+- Phó Chính ủy: Đại tá Vũ Hồng Trung
+
+## Chức năng, Nhiệm vụ
+
+[sửa | sửa mã nguồn]- Đào tạo phi công quân sự, sĩ quan Dù-Tìm kiếm cứu nạn
+- Tổ chức nghiên cứu khoa học
+- Đào tạo chuyên môn kỹ thuật phi công quân sự trình độ đại học;
+- Đào tạo sĩ quan Dù-Tìm kiếm cứu nạn đường không trình độ đại học;
+- Đào tạo nhân viên chuyên môn kỹ thuật Không quân trình độ cao đẳng, trung cấp, sơ cấp các chuyên ngành kỹ thuật hàng không
+- Đào tạo học viên Quốc tế (phi công quân sự, nhân viên công tác trên không, nhân viên các chuyên ngành KTHK Lào và Campuchia);
+- Nghiên cứu, ứng dụng và phát triển khoa học quân sự các chuyên ngành;
+- Xây dựng Nhà trường cách mạng, chính quy, từng bước hiện đại, có môi trường văn hóa lành mạnh. Thực hiện nghiêm các quy định, chỉ thị của cấp trên, điều lệnh, điều lệ của Quân đội, pháp luật của Nhà nước;
+- Sẵn sàng chiến đấu, phòng chống thiên tai.
+
+## Khối cơ quan: Gồm 6 phòng và 4 ban trực thuộc
+
+[sửa | sửa mã nguồn]- Phòng Đào tạo
+- Phòng Quân huấn
+- Phòng Chính trị
+- Phòng Tham mưu
+- Phòng Hậu cần-Kỹ thuật
+- Ban Tài chính
+- Ban Khoa học, công nghệ và môi trường
+- Ban Khảo thí và đảm bảo chất lượng giáo dục đào tạo
+- Ban Vật tư kỹ thuật
+
+## Tổ chức các khoa, bộ môn
+
+[sửa | sửa mã nguồn]Gồm có 10 khoa và 1 Trung tâm huấn luyện thực hành
+
+- Khoa Cơ bản
+- Khoa Kỹ thuật cơ sở
+- Khoa Khoa học xã hội & nhân văn
+- Khoa Chỉ huy Tham mưu
+- Khoa Quân sự - Thể thao
+- Khoa Máy bay - Động cơ
+- Khoa Vũ khí hàng không
+- Khoa Thiết bị hàng không
+- Khoa Vô tuyến điện tử
+- Trung tâm Huấn luyện thực hành
+- Khoa Ngoại ngữ
+
+## Khối các đơn vị huấn luyện bay
+
+[sửa | sửa mã nguồn]- Trung đoàn 910: Huấn luyện thực hành bay trên các loại máy bay phản lực
+- Trung đoàn 915: Huấn luyện thực hành bay trên trực thăng
+- Trung đoàn 920: Huấn luyện thực hành bay trên loại máy bay cánh quạt
+- Trung đoàn 940: Huấn luyện thực hành bay trên các loại máy bay phản lực
+
+## Khối các đơn vị quản lý học viên
+
+[sửa | sửa mã nguồn]- Tiểu đoàn 1: Quản lý học viên cao đẳng, trung cấp kỹ thuật hàng không
+- Tiểu đoàn 2: Quản lý học viên Quốc tế
+- Tiểu đoàn 3: Quản lý học viên Phi công, Sĩ quan Dù - Tìm kiếm cứu nạn
+
+## Ngành đào tạo
+
+[sửa | sửa mã nguồn]- Phi công quân sự trình độ đại học
+- Sĩ quan Dù - Tìm kiếm cứu nạn đường không trình độ đại học
+- Cao đẳng kỹ thuật hàng không gồm 4 nhóm ngành
+
++ Kỹ thuật cơ khí: Phục vụ khai thác sửa chữa máy bay, động cơ
+
++ Kỹ thuật điện: Phục vụ khai thác, sửa chữa thiết bị điện máy bay
+
++ Kỹ thuật điện tử: Phục vụ khai thác, sửa chữa vô tuyến-ra đa máy bay
+
++ Kỹ thuật điện - cơ: Phục vụ khai thác sửa chữa thiết bị vũ khí hàng không
+
+- Đào tạo nhân viên trung cấp, sơ cấp các chuyên ngành kỹ thuật hàng không cho các đơn vị, nhà máy trong quân đội
+
+## Thành tích
+
+[sửa | sửa mã nguồn]- Ngoài nhiệm vụ Giáo dục-Đào tạo, Trường còn hoàn thành tốt nhiều nhiệm vụ, như: quản lý vùng trời trách nhiệm, cơ động chuyển sân, tham gia diễn tập, tiếp thu, phóng hành các máy bay quân sự, máy bay chuyên cơ chở lãnh đạo Đảng, Nhà nước, Quân đội; bay thăm dò địa chất, cấp cứu chống bão lụt, phun thuốc trừ sâu, bay biểu diễn phục vụ các ngày lễ lớn của Dân tộc và các nhiệm vụ khác được giao.
+- Trong quá trình xây dựng, phát triển, nhiều cán bộ, học viên của Trường đã trưởng thành, đảm nhiệm cương vị lãnh đạo ch huy cấp quân chủng, sư đoàn, trung đoàn không quân. Nhiều đồng chí giảng viên và học viên phi công về các đơn vị chiến đấu đã lập công xuất sắc, bắn rơi nhiều máy bay địch. Có 01 Trung đoàn (Trung đoàn không quân 910), 10 giảng viên, học viên được tặng danh hiệu Anh hùng lực lượng Vũ trang Nhân dân; có 6 đồng chí là cán bộ cấp tướng trong Quân đội, 04 đồng chí giảng viên được tặng danh hiệu Nhà giáo ưu tú; 80 cán bộ, giảng viên, công nhân viên được tặng huy chương vì sự nghiệp Giáo dục, nhiều cán bộ, giảng viên bay được tặng thưởng huân chương chiến công hạng 1,2,3. Trường được tặng thưởng: 1 Huân chương Quân công hạng Nhất, 3 Huân chương Chiến công, nhiều cờ thưởng, lẵng hoa của Chủ tịch nước, nhiều bằng khen, giấy khen về thành tích Giáo dục-Đào tạo và hoàn thành tốt nhiệm vụ; được Nhà nước Lào tặng thưởng Huân chương Hữu nghị và Huân chương Itxala về thành tích đào tạo phi công và cán bộ cho nước bạn. Ngày 23 tháng 5 năm 2005, Nhà trường vinh dự được Chủ tịch nước ký Quyết định phong tặng danh hiệu Anh hùng lực lượng Vũ trang Nhân dân trong thời kỳ chống Mỹ cứu nước.
+- Trong quan hệ quốc tế, Trường được sự giúp đỡ của nhiều đoàn chuyên gia về bay và kỹ thuật hàng không các nước Liên Xô (cũ), Trung Quốc, Tiệp Khắc (cũ), Rumani, Ukraina...Nhà trường đã đón tiếp nhiều Đoàn đại biểu cấp cao của Đảng và Nhà nước Lào, Campuchia; các Đoàn đại biểu quân sự của Liên Xô (cũ), Tiệp Khắc (cũ), Cuba, Ấn Độ, Indonesia, Thái Lan, Bộ tư lệnh Không quân nước Cộng hoà Pháp, Học viện Không quân Mỹ đến thăm và trao đổi kinh nghiệm đào tạo phi công và nhân viên kỹ thuật hàng không.
+- Trong quá trình phát triển, Trường Sĩ quan Không quân đã trở thành một trung tâm đào tạo phi công, sĩ quan lái máy bay quân sự và cán bộ nhân viên kỹ thuật các chuyên ngành không quân.
+
+## Hiệu trưởng qua các thời kỳ
+
+[sửa | sửa mã nguồn]- Vũ Ngọc Đỉnh, Đại tá
+- Trần Thông Hào, Đại tá
+- Nguyễn Phương Anh, Đại tá
+- Nguyễn Thăng Thắng, Đại tá
+- Nguyễn Duy Cường, Thiếu tướng
+- Ngô Vĩnh Phúc, Đại tá (đương nhiệm)
+
+## Chính ủy qua các thời kỳ
+
+[sửa | sửa mã nguồn]- Nguyễn Tử Bình, Thiếu tướng
+- Nguyễn Minh Tuấn, Đại tá
+- Lê Uy (đương nhiệm)
+
+## Tham khảo
+
+[sửa | sửa mã nguồn]**^**"(VTV9)- 55 năm thành lập Trường Sĩ quan Không quân". Bản gốc lưu trữ ngày 10 tháng 9 năm 2014. Truy cập ngày 10 tháng 9 năm 2014.

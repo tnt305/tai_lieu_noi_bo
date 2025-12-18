@@ -1,0 +1,19 @@
+models:
+  small:
+    llmApiName: "LLM small"
+    tokenKey: "ENV_VAR_REQUIRED"
+    authorization: "ENV_VAR_REQUIRED"
+    tokenId: "ENV_VAR_REQUIRED"
+
+  large:
+    llmApiName: "LLM large"
+    tokenKey: "ENV_VAR_REQUIRED"
+    authorization: "ENV_VAR_REQUIRED"
+    tokenId: "ENV_VAR_REQUIRED"
+
+  embeddings:
+    llmApiName: "LLM embedings"
+    tokenKey: "ENV_VAR_REQUIRED"
+    authorization: "ENV_VAR_REQUIRED"
+    tokenId: "ENV_VAR_REQUIRED"
+

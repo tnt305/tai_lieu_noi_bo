@@ -1,0 +1,11 @@
+# Hậu Lương
+
+Giao diện
+
+(Đổi hướng từ Nhà Hậu Lương)
+
+**Hậu Lương** có thể là:
+
+- Hậu Lương (後凉, 386-403), một quốc gia tồn tại vào thời Ngũ Hồ thập lục quốc tại khu vực tỉnh Cam Túc ngày nay.
+- Hậu Lương (後梁, 555-587), một chính quyền tồn tại vào thời Nam-Bắc triều tại khu vực nay thuộc tỉnh Hồ Bắc, tuyên bố là chính thể kế thừa của Nam triều Lương, cũng có khi gọi là Tây Lương.
+- Hậu Lương (後梁, 907-923), một triều đại trong Ngũ Đại, thống trị miền Bắc Trung Quốc.

@@ -1,0 +1,59 @@
+# Full đáp án đề thi vào lớp 10 tỉnh Bình Dương năm 2025 môn Toán, Văn, Anh? Toàn bộ đề thi kèm đáp án thi vào lớp 10 tỉnh Bình Dương năm học 2025 2026?
+
+**Full đáp án đề thi vào lớp 10 tỉnh Bình Dương năm 2025 môn Toán, Văn, Anh? Toàn bộ đề thi kèm đáp án thi vào lớp 10 tỉnh Bình Dương năm học 2025 2026?**
+
+**Full đáp án đề thi vào lớp 10 tỉnh Bình Dương năm 2025 môn Toán, Văn, Anh? Toàn bộ đề thi kèm đáp án thi vào lớp 10 tỉnh Bình Dương năm học 2025 2026?**
+
+**>> Đáp án đề thi vào lớp 10 Ngữ Văn 2025 TP Hồ Chí Minh**
+
+**>> Full Đề và đáp án thi tuyển sinh lớp 10 TPHCM 2025 môn Toán, Văn, Anh**
+
+**>> Cách tính điểm thi vào lớp 10 năm 2025 2026 63 tỉnh thành**
+
+**(I) ****Đáp án đề thi vào lớp 10 tỉnh Bình Dương năm 2025 môn Văn**** ****TẠI ĐÂY**
+
+**(II) ****Đáp án đề thi vào lớp 10 tỉnh Bình Dương năm 2025 môn Toán ****TẠI ĐÂY**
+
+**(III) ****Đáp án đề thi vào lớp 10 tỉnh Bình Dương năm 2025 môn Anh**** TẠI ĐÂY**
+
+**Lưu ý:** Đáp án đề thi vào lớp 10 tỉnh Bình Dương năm 2025 chỉ mang tính chất tham khảo.*
+
+**>> Tổng hợp điểm chuẩn lớp 10 63 tỉnh thành**
+
+**>>**** Khi nào công bố điểm thi lớp 10 Bình Dương năm học 2025 2026?**
+
+*Full đáp án đề thi vào lớp 10 tỉnh Bình Dương năm 2025 môn Toán, Văn, Anh? Toàn bộ đề thi kèm đáp án thi vào lớp 10 tỉnh Bình Dương năm học 2025 2026? (Hình từ internet)*
+
+**Quy trình tuyển sinh trung học phổ thông ra sao?**
+
+Quy trình tuyển sinh trung học phổ thông được quy định tại Điều 12 Quy chế ban hành kèm theo Thông tư 30/2024/TT-BGDĐT, cụ thể như sau:
+
+- Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh) phê duyệt kế hoạch tuyển sinh trung học phổ thông.
+
++ Kế hoạch tuyển sinh trung học phổ thông bao gồm các nội dung cơ bản sau: đối tượng tuyển sinh; chỉ tiêu và địa bàn tuyển sinh; phương thức tuyển sinh; chế độ tuyển thẳng, ưu tiên, khuyến khích; thời gian xét tuyển và công bố kết quả tuyển sinh. Kế hoạch tuyển sinh trung học phổ thông được công bố trước ngày 31 tháng 3 hằng năm.
+
++ Đối với các trường trung học phổ thông thuộc Bộ Giáo dục và Đào tạo, đại học, trường đại học, viện nghiên cứu, kế hoạch tuyển sinh trung học phổ thông do Bộ trưởng Bộ Giáo dục và Đào tạo, Giám đốc đại học, Hiệu trưởng trường đại học, Viện trưởng viện nghiên cứu trực tiếp quản lí quyết định sau khi thống nhất với Sở Giáo dục và Đào tạo nơi trường đặt trụ sở.
+
+- Căn cứ kế hoạch tuyển sinh trung học phổ thông đã được phê duyệt, Hội đồng tuyển sinh trung học phổ thông xây dựng và thông báo công khai kế hoạch tuyển sinh của nhà trường; tổ chức việc đăng kí tuyển sinh, tiếp nhận và chuẩn bị nội dung đăng kí tuyển sinh.
+
+- Hội đồng tuyển sinh trung học phổ thông tổ chức việc tuyển sinh theo kế hoạch tuyển sinh đã được phê duyệt; đề xuất danh sách học sinh trúng tuyển với Hiệu trưởng nhà trường để trình Giám đốc Sở Giáo dục và Đào tạo phê duyệt.
+
++ Đối với các trường trung học phổ thông thuộc Bộ Giáo dục và Đào tạo, đại học, trường đại học, viện nghiên cứu, danh sách học sinh trúng tuyển do Bộ trưởng Bộ Giáo dục và Đào tạo, Giám đốc đại học, Hiệu trưởng trường đại học, Viện trưởng viện nghiên cứu trực tiếp quản lí phê duyệt.
+
+**Việc coi thi tuyển sinh trung học phổ thông ra sao?**
+
+Việc coi thi tuyển sinh trung học phổ thông được quy định tại khoản 3 Điều 13 Quy chế ban hành kèm theo Thông tư 30/2024/TT-BGDĐT, cụ thể như sau:
+
+- Công tác coi thi phải bảo đảm công bằng, an toàn, nghiêm túc. Quy trình coi thi và phân công trách nhiệm các thành phần tham gia coi thi phải đầy đủ, rõ ràng, bảo đảm tính độc lập, khách quan giữa các khâu; có biện pháp hiệu quả để chống gian lận trong thi cử.
+
++ Bố trí cơ cấu giám thị coi thi, giám thị giám sát coi thi phù hợp với số lượng phòng thi. Số lượng thí sinh trong mỗi phòng thi không quá 24 (hai mươi bốn) thí sinh, mỗi phòng thi bố trí 02 (hai) giám thị coi thi.
+
+- Hội đồng coi thi do Giám đốc Sở Giáo dục và Đào tạo quyết định thành lập, thành phần gồm: Chủ tịch Hội đồng là Hiệu trưởng hoặc Phó hiệu trưởng trường trung học phổ thông hoặc trường trung học cơ sở; Phó chủ tịch Hội đồng là Hiệu trưởng, Phó hiệu trưởng, Tổ trưởng chuyên môn trường trung học phổ thông hoặc trường trung học cơ sở; thư kí và giám thị coi thi, giám thị giám sát coi thi là giảng viên, giáo viên, chuyên viên; lực lượng công an; nhân viên phục vụ, y tế, bảo vệ.
+
+Đối với các trường trung học phổ thông thuộc Bộ Giáo dục và Đào tạo, đại học, trường đại học, viện nghiên cứu có tổ chức thi tuyển, Hội đồng coi thi do Bộ trưởng Bộ Giáo dục và Đào tạo, Giám đốc đại học, Hiệu trưởng trường đại học, Viện trưởng viện nghiên cứu trực tiếp quản lí quyết định thành lập.
+
+- Trách nhiệm và quyền hạn của Hội đồng coi thi: xây dựng kế hoạch làm việc của Hội đồng; phân công nhiệm vụ cho các thành viên của Hội đồng; tổ chức cho các thành viên của Hội đồng và thí sinh học tập, nắm vững, thực hiện đúng quy định, hướng dẫn tổ chức thi và các văn bản khác liên quan; tổ chức coi thi; xử lí hoặc đề nghị xử lí các sự cố bất thường trong quá trình coi thi; lập và lưu trữ hồ sơ của Hội đồng;
+
+Bảo đảm an ninh, an toàn, bảo mật đề thi theo quy định; xem xét, quyết định hoặc đề nghị hình thức khen thưởng, kỉ luật đối với các thí sinh và các thành viên của Hội đồng theo quy định.
+
+Quý khách cần hỏi thêm thông tin về có thể đặt câu hỏi tại đây.

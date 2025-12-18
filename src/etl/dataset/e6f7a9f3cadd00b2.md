@@ -1,0 +1,709 @@
+# Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIII
+
+Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIII 2021 - 2026 | |
+|---|---|
+30 tháng 1 năm 2021 – nay 4 năm, 315 ngày | |
+| Cơ cấu tổ chức | |
+| Tổng Bí thư | Nguyễn Phú Trọng (1/2021 - 7/2024) Tô Lâm (8/2024 - nay) |
+| Thường trực Ban Bí thư | Võ Văn Thưởng (2/2021-3/2023) Trương Thị Mai (3/2023-5/2024) Lương Cường (5/2024-10/2024) Trần Cẩm Tú (10/2024-nay) |
+| Bộ Chính trị | 16 ủy viên |
+| Ban Bí thư | 11 ủy viên |
+| Số Ủy viên Trung ương | chính thức: 145 ủy viêndự khuyết: 18 ủy viên |
+
+**Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIII** (còn được gọi **Ban Chấp hành Trung ương Đảng khóa XIII**, **Trung ương Đảng khóa XIII**) là cơ quan do Đại hội Đại biểu Đảng Cộng sản Việt Nam khóa XIII bầu ra ngày 30 tháng 1 năm 2021.[1]
+
+## Giới thiệu nhân sự
+
+[sửa | sửa mã nguồn]Chiều ngày 30 tháng 1 năm 2021, tại Đại hội Đại biểu toàn quốc Đảng Cộng sản Việt Nam khóa XIII, các đại biểu tham dự đã bầu các ứng viên cho 180 ghế ủy viên chính thức và 20 ghế ủy viên dự khuyết.[2][3]
+
+## Trường hợp đặc biệt
+
+[sửa | sửa mã nguồn]Trong danh sách ứng cử Ban Chấp hành Trung ương khóa XIII có 10 trường hợp "đặc biệt" (quá tuổi) được Trung ương khóa XII giới thiệu và đều trúng cử:[4]
+
+- Nguyễn Phú Trọng (77 tuổi), Tổng Bí thư, Chủ tịch nước
+- Nguyễn Xuân Phúc (67 tuổi), Thủ tướng Chính phủ
+- Lê Minh Trí (61 tuổi), Viện trưởng Viện Kiểm sát Nhân dân tối cao
+- Phan Văn Giang (61 tuổi), Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam
+- Võ Văn Dũng (61 tuổi), Phó Trưởng ban Thường trực Ban Nội chính Trung ương
+- Nguyễn Chí Dũng (61 tuổi), Bộ trưởng Bộ Kế hoạch và Đầu tư
+- Phạm Gia Túc (56 tuổi), Phó Trưởng Ban Nội chính Trung ương
+- Nguyễn Duy Ngọc (57 tuổi), Thứ trưởng Bộ Công an
+- Lương Tam Quang (56 tuổi), Thứ trưởng Bộ Công an
+- Nguyễn Tiến Hải (56 tuổi), Bí thư Tỉnh ủy Cà Mau
+
+Sáu trường hợp đầu là ủy viên Trung ương khóa XII *quá tuổi* *tái cử* ủy viên Trung ương khóa XIII (quy định là không quá 60 tuổi), riêng trường hợp 1 và 2 còn *quá tuổi* *tái cử* Bộ Chính trị (quy định là không quá 65 tuổi).[4][5]
+
+Bốn trường hợp sau là *quá tuổi* *lần đầu* tham gia Ban Chấp hành Trung ương Đảng (quy định là không quá 55 tuổi).[4]
+
+## Các hội nghị Trung ương Đảng
+
+[sửa | sửa mã nguồn]| Hội nghị BCHTW lần thứ |
+Bắt đầu-Kết thúc | Thời gian | Nội dung chính | Nguồn |
+|---|---|---|---|---|
+| Nhất | 31/01/2021 | 1 ngày | Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng tái đắc cử làm Tổng Bí thư khóa XIII. Hội nghị bầu ra 18 ủy viên Bộ Chính trị, 5 ủy viên Ban Bí thư, 19 ủy viên Ủy ban Kiểm tra Trung ương và Chủ nhiệm Ủy ban Kiểm tra Trung ương khóa XIII là Trần Cẩm Tú. | [6]
+|
+| Hai | 08-09/03/2021 | 2 ngày | Hội nghị bàn về chương trình làm việc toàn khóa của Ban Chấp hành Trung ương khóa XIII; việc giới thiệu nhân sự ứng cử các chức danh Chủ tịch nước, Thủ tướng Chính phủ, Chủ tịch Quốc hội, đồng thời báo cáo xin ý kiến Trung ương trước khi Bộ Chính trị chính thức giới thiệu nhân sự đối với các chức danh khác để Quốc hội xem xét, bầu hoặc phê chuẩn theo thẩm quyền và một số vấn đề quan trọng khác. | [7]
+|
+| Ba | 05-08/07/2021 | 4 ngày | Thảo luận, quyết định một số vấn đề quan trọng như: Kế hoạch phát triển kinh tế - xã hội giai đoạn 5 năm 2021-2025; xem xét, ban hành quy chế làm việc của Ban Chấp hành Trung ương, Bộ Chính trị, Ban Bí thư và quy chế làm việc của Ủy ban Kiểm tra Trung ương nhiệm kỳ khóa XIII; quy định thi hành Điều lệ Đảng và Quy định về công tác kiểm tra, giám sát, kỷ luật của Đảng nhiệm kỳ khóa XIII. Tiếp tục kiện toàn nhân sự các chức danh lãnh đạo của các cơ quan Nhà nước nhiệm kỳ Quốc hội khóa XV để Quốc hội bầu hoặc phê chuẩn tại kỳ họp thứ nhất, Quốc hội khóa XV. Quyết định thi hành kỷ luật ông Vũ Huy Hoàng bằng hình thức khai trừ ra khỏi Đảng và ông Trần Văn Nam bằng hình thức cách chức tất cả chức vụ trong Đảng. | [8]
+|
+| Tư | 04-07/10/2021 | Thảo luận, cho ý kiến về: Tình hình phòng, chống đại dịch COVID-19 và quan điểm, chủ trương về phòng, chống dịch trong tình hình mới; tình hình kinh tế - xã hội năm 2021, dự kiến Kế hoạch phát triển kinh tế - xã hội năm 2022; tình hình thực hiện ngân sách nhà nước năm 2021, dự toán ngân sách nhà nước năm 2022 và Kế hoạch tài chính - ngân sách nhà nước 3 năm 2022 - 2024; chủ trương lùi thời điểm thực hiện cải cách chính sách tiền lương theo Nghị quyết số 27-NQ/TW của Hội nghị Trung ương 7 khóa XII; tiếp tục đẩy mạnh xây dựng, chỉnh đốn Đảng, ngăn chặn, đẩy lùi sự suy thoái về tư tưởng chính trị, đạo đức, lối sống, những biểu hiện "tự diễn biến", "tự chuyển hóa" trong nội bộ; sửa đổi, bổ sung Quy định số 47-QĐ/TW, ngày 01/11/2011 của Ban Chấp hành Trung ương về những điều đảng viên không được làm; một số vấn đề quan trọng khác. | [9]
+| |
+| Năm | 04-10/05/2022 | 6 ngày | Thảo luận cho ý kiến và quyết định về các nội dung: (1) Tổng kết 10 năm thực hiện Nghị quyết Hội nghị Trung ương 6 khóa XI về tiếp tục đổi mới chính sách, pháp luật về đất đai trong thời kỳ đẩy mạnh toàn diện công cuộc đổi mới. (2) Tổng kết 15 năm thực hiện Nghị quyết Hội nghị Trung ương 7 khóa X về nông nghiệp, nông dân, nông thôn. (3) Tổng kết 20 năm thực hiện Nghị quyết Hội nghị Trung ương 5 khóa IX về tiếp tục đổi mới, phát triển và nâng cao hiệu quả kinh tế tập thể. (4) Đề án xây dựng tổ chức cơ sở đảng và đảng viên. (5) Đề án thành lập Ban Chỉ đạo cấp tỉnh về phòng, chống tham nhũng, tiêu cực. (6) Báo cáo kiểm điểm sự lãnh đạo, chỉ đạo của Bộ Chính trị, Ban Bí thư năm 2021; và một số vấn đề quan trọng khác. | [10]
+|
+Bất thường (lần 1) |
+06/06/2022 | 0,5 ngày | Xem xét, thi hành kỉ luật Khai trừ ra khỏi Đảng đối với ông Chu Ngọc Anh, Ủy viên Trung ương Đảng, Phó Bí thư Thành ủy, Bí thư Ban cán sự Đảng, Chủ tịch Ủy ban nhân dân thành phố Hà Nội, nguyên Bí thư Ban cán sự Đảng, nguyên Bộ trưởng Bộ Khoa học và Công nghệ; và ông Nguyễn Thanh Long, Ủy viên Trung ương Đảng, Bí thư Ban cán sự Đảng, Bộ trưởng Bộ Y tế. | [11]
+|
+| Sáu | 03-09/10/2022 | 7 ngày | Xem xét, thảo luận, cho ý kiến về tình hình kinh tế - xã hội, ngân sách nhà nước năm 2022, dự kiến kế hoạch phát triển kinh tế - xã hội, dự toán ngân sách nhà nước năm 2023 và kế hoạch tài chính - ngân sách nhà nước ba năm 2023-2025; định hướng Quy hoạch tổng thể quốc gia thời kỳ 2021-2030, tầm nhìn đến năm 2050; tiếp tục đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước đến năm 2030, tầm nhìn đến năm 2045; tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam trong giai đoạn mới; tổng kết 15 năm thực hiện Nghị quyết Trung ương 5 khóa X về tiếp tục đổi mới phương thức lãnh đạo của Đảng đối với hoạt động của hệ thống chính trị và biểu quyết, thống nhất để ba Ủy viên Trung ương Đảng gồm ông Nguyễn Thành Phong, Bùi Nhật Quang và Huỳnh Tấn Việt thôi tham gia Ban Chấp hành Trung ương Đảng khoá XIII, khai trừ ra khỏi Đảng đối với ông Phạm Xuân Thăng. | [12]
+|
+Bất thường (lần 2) |
+30/12/2022 | 0,5 ngày | Biểu quyết, thống nhất để các nhân sự sau thôi giữ chức vụ: ông Phạm Bình Minh thôi giữ chức vụ ủy viên Bộ Chính trị, ủy viên Trung ương Đảng khoá XIII, ông Vũ Đức Đam thôi giữ chức vụ ủy viên Trung ương Đảng khoá XIII. Cho ý kiến về 2 nhân sự để Bộ Chính trị quyết định giới thiệu Quốc hội khoá XV phê chuẩn chức danh Phó Thủ tướng Chính phủ nhiệm kỳ 2021 - 2026 theo quy định. Quyết định thi hành kỷ luật khai trừ ra khỏi Đảng đối với ông Trần Đình Thành, nguyên Ủy viên Trung ương Đảng, nguyên Bí thư Tỉnh ủy, nguyên Chủ tịch Hội đồng nhân dân tỉnh Đồng Nai. | [13]
+|
+Bất thường (lần 3) |
+17/01/2023 | Đồng ý về việc cho thôi giữ các chức vụ, nghỉ công tác và nghỉ hưu của ông Nguyễn Xuân Phúc, Ủy viên Bộ Chính trị, Ủy viên Ban Chấp hành Trung ương Đảng khóa XIII, Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam, Chủ tịch Hội đồng Quốc phòng và an ninh nhiệm kỳ 2021 - 2026. | [14]
+| |
+Bất thường (lần 4) |
+01/03/2023 | 1 ngày | Quyết định giới thiệu nhân sự để bầu giữ chức Chủ tịch nước nhiệm kỳ 2021-2026, bầu bổ sung ba ủy viên Ủy ban Kiểm tra Trung ương gồm các ông Nguyễn Mạnh Hùng, Vụ trưởng Vụ Địa bàn I, Cơ quan Ủy ban Kiểm tra Trung ương; Đinh Hữu Thành, Ủy viên Ban Thường vụ Tỉnh ủy, Chủ nhiệm Ủy ban Kiểm tra Tỉnh ủy Quảng Bình; Lê Văn Thành, Ủy viên Ban Thường vụ Thành ủy, Chủ nhiệm Ủy ban Kiểm tra Thành ủy Cần Thơ. | [15]
+|
+| Bảy (Giữa nhiệm kỳ) | 15-17/05/2023 | 3 ngày | Cho ý kiến về các nội dung: Báo cáo kiểm điểm sự lãnh đạo, chỉ đạo của Bộ Chính trị, Ban Bí thư giữa nhiệm kỳ và một số nhiệm vụ trọng tâm đến hết nhiệm kỳ Đại hội XIII của Đảng; lấy phiếu tín nhiệm của Ban Chấp hành Trung ương đối với các Ủy viên Bộ Chính trị, Ban Bí thư khóa XIII; thống nhất để ông Nguyễn Phú Cường, Chủ nhiệm Ủy ban Tài chính - Ngân sách của Quốc hội được thôi chức Ủy viên Trung ương khóa XIII; thi hành kỷ luật khai trừ ra khỏi Đảng đối với ông Nguyễn Văn Vịnh - nguyên Ủy viên Trung ương Đảng, nguyên Bí thư Tỉnh ủy, nguyên Chủ tịch UBND tỉnh Lào Cai. | [16]
+|
+| Tám | 02-08/10/2023 | 7 ngày | Bàn và cho ý kiến kết luận về các vấn đề sau: Tình hình kinh tế - xã hội, ngân sách Nhà nước năm 2023, kế hoạch năm 2024; Kế hoạch tài chính - ngân sách Nhà nước 3 năm 2024 - 2026 và lộ trình thực hiện chế độ tiền lương mới; Tổng kết 10 năm thực hiện Nghị quyết Trung ương 5 khoá XI về một số vấn đề chính sách xã hội giai đoạn 2012 – 2020; Tổng kết 20 năm thực hiện Nghị quyết Trung ương 7 khoá IX về phát huy sức mạnh đại đoàn kết toàn dân tộc vì dân giàu, nước mạnh, xã hội công bằng, dân chủ, văn minh; Tổng kết 15 năm thực hiện Nghị quyết Trung ương 7 khoá X về xây dựng đội ngũ trí thức trong thời kỳ đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước; Tổng kết 10 năm thực hiện Nghị quyết Trung ương 8 khoá XI về Chiến lược bảo vệ Tổ quốc trong tình hình mới; Quy hoạch Ban Chấp hành Trung ương Đảng khoá XIV; biểu quyết, thống nhất để ông Điểu K'ré, Phó Bí thư Thường trực Tỉnh ủy Đắk Nông, thôi giữ chức vụ ủy viên Trung ương Đảng khóa XIII; quyết định thi hành kỷ luật cách chức tất cả các chức vụ trong Đảng đối với ông Lê Đức Thọ, Bí thư Tỉnh ủy Bến Tre và ông Trịnh Văn Chiến, nguyên Bí thư Tỉnh ủy tỉnh Thanh Hóa. Bầu bổ sung ông Lê Hoài Trung giữ chức Ủy viên Ban Bí thư Trung ương Đảng khóa XIII. Bầu bổ sung Ủy viên Ủy ban Kiểm tra Trung ương khóa XIII, gồm các ông Đào Thế Hoằng - Vụ trưởng Vụ Địa bàn VI; ông Lê Nguyễn Nam Ninh - Vụ trưởng Vụ Nghiên cứu và Thiếu tướng Vũ Hồng Văn - Cục trưởng Cục An ninh chính trị nội bộ, Bộ Công an. Thành lập 5 Tiểu ban chuẩn bị Đại hội XIV của Đảng, bao gồm: Tiểu ban Văn kiện, Tiểu ban Kinh tế - Xã hội, Tiểu ban Nhân sự, Tiểu ban Điều lệ Đảng, Tiểu ban Tổ chức phục vụ Đại hội. | [17]
+|
+Bất thường (lần 5) |
+31/01/2024 | 0,5 ngày | Xem xét, thi hành kỉ luật Khai trừ ra khỏi Đảng ông Trần Đức Quận, ủy viên Trung ương Đảng, Bí thư Tỉnh ủy Lâm Đồng và ông Nguyễn Nhân Chiến, nguyên ủy viên Trung ương Đảng, Bí thư Tỉnh ủy Bắc Ninh, nguyên Bí thư Ban cán sự Đảng, Chủ tịch UBND tỉnh. Đồng ý về việc cho thôi giữ các chức vụ, nghỉ công tác và nghỉ hưu của ông Trần Tuấn Anh, Ủy viên Bộ Chính trị, Ủy viên Ban Chấp hành Trung ương Đảng khóa XIII, Trưởng Ban kinh tế Trung ương và ông Phan Việt Cường, Ủy viên Ban Chấp hành Trung ương Đảng khóa XIII, Bí thư Tỉnh ủy Quảng Nam. | [18]
+|
+Bất thường (lần 6) |
+20/03/2024 | 0,5 ngày | Đồng ý về việc cho thôi giữ các chức vụ, nghỉ công tác của ông Võ Văn Thưởng, Ủy viên Bộ Chính trị, Ủy viên Ban Chấp hành Trung ương Đảng khóa XIII, Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam, Chủ tịch Hội đồng Quốc phòng và An ninh nhiệm kỳ 2021-2026. Quyết định, thi hành kỉ luật Khai trừ ra khỏi Đảng bà Hoàng Thị Thúy Lan - Ủy viên Ban Chấp hành Trung ương Đảng khóa XIII, nguyên Bí thư Tỉnh ủy, nguyên Chủ tịch HĐND tỉnh Vĩnh Phúc. | [19]
+|
+Bất thường (lần 7) |
+26/04/2024 | 0,5 ngày | Đồng ý về việc cho thôi giữ các chức vụ, nghỉ công tác của ông Vương Đình Huệ, Ủy viên Bộ Chính trị, Ủy viên Ban Chấp hành Trung ương Đảng khóa XIII, Chủ tịch Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, nhiệm kỳ 2021-2026. Quyết định thi hành kỷ luật ông Lê Viết Chữ - nguyên Ủy viên Trung ương Đảng khóa XII, nguyên Bí thư Tỉnh ủy Quảng Ngãi bằng hình thức Khai trừ ra khỏi Đảng. | [20]
+|
+| Chín | 16-18/05/2024 | 3 ngày | Bàn các nội dung: Đề cương các văn kiện trình Đại hội XIV của Đảng; chuẩn bị cho việc chỉ đạo tiến hành đại hội đảng bộ các cấp tiến tới Đại hội XIV của Đảng. Báo cáo Ban Chấp hành Trung ương Đảng về việc Bộ Chính trị đã quyết định phân công Đại tướng Lương Cường tham gia Ban Bí thư và giữ chức vụ Thường trực Ban Bí thư; ông Lê Minh Hưng giữ chức vụ Trưởng ban Tổ chức Trung ương, Chánh Văn phòng Trung ương Đảng. Đồng ý về việc cho thôi giữ các chức vụ, nghỉ công tác của bà Trương Thị Mai, Ủy viên Bộ Chính trị, Ủy viên Ban Chấp hành Trung ương Đảng khóa XIII. Quyết định giới thiệu nhân sự để Quốc hội khóa XV bầu giữ chức Chủ tịch nước và Chủ tịch Quốc hội. Bầu bổ sung 4 Ủy viên Bộ Chính trị khóa XIII: Lê Minh Hưng, Nguyễn Trọng Nghĩa, Bùi Thị Minh Hoài, Đỗ Văn Chiến. Quyết định thi hành kỷ luật ông Lê Thanh Hải bằng hình thức Cách chức tất cả các chức vụ trong Đảng; thi hành kỷ luật ông Dương Văn Thái và Mai Tiến Dũng bằng hình thức Khai trừ ra khỏi Đảng. | [21]
+|
+Bất thường (lần 8) |
+21/06/2024 | 0,5 ngày | Đồng ý để ông Đinh Tiến Dũng thôi giữ chức vụ Ủy viên Bộ Chính trị, Ủy viên Ban Chấp hành Trung ương Đảng khóa XIII. Cho ý kiến về nhân sự để Bộ Chính trị quyết định giới thiệu Quốc hội khóa XV bầu giữ chức Ủy viên Ủy ban Thường vụ Quốc hội khóa XV, nhiệm kỳ 2021 - 2026. | [22]
+|
+Bất thường (lần 9) |
+03/08/2024 | 1 ngày | Bầu ông Tô Lâm - Ủy viên Bộ Chính trị, Chủ tịch nước Cộng hòa xã hội Chủ nghĩa Việt Nam làm Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIII. Đồng ý để ông Lê Minh Khái thôi giữ chức vụ: Bí thư Trung ương Đảng, ủy viên Ban Chấp hành Trung ương Đảng khoá XIII; đồng ý để các ông: Đặng Quốc Khánh, Nguyễn Xuân Ký, Chẩu Văn Lâm thôi giữ chức ủy viên Trung ương Đảng khoá XIII. | [23]
+|
+Bất thường (lần 10) |
+16/08/2024 | 1 ngày | Giới thiệu nhân sự kiện toàn lãnh đạo một số cơ quan nhà nước nhiệm kỳ 2021 - 2026 theo quy định. Bầu bổ sung ủy viên Bộ Chính trị đối với Thượng tướng Lương Tam Quang, Bộ trưởng Bộ Công an; bầu bổ sung ủy viên Ban Bí thư gồm: Nguyễn Duy Ngọc; Thượng tướng Trịnh Văn Quyết; Lê Minh Trí. | [24]
+|
+| Mười | 18-20/09/2024 | 3 ngày | Thảo luận, cho ý kiến về 10 nội dung thuộc hai nhóm vấn đề chiến lược và một số việc cụ thể. Về công tác chuẩn bị Đại hội XIV của Đảng có 3 vấn đề: Báo cáo chính trị là trung tâm; Tổng kết 40 năm đổi mới là báo cáo quan trọng để chắt lọc tinh hoa đưa vào Văn kiện Đại hội XIV; Báo cáo chiến lược phát triển kinh tế - xã hội, Báo cáo công tác xây dựng Đảng và thi hành điều lệ Đảng là các báo cáo chuyên đề. Báo cáo tổng kết công tác nhân sự Ban Chấp hành Trung ương Đảng khóa XIII và xây dựng phương hướng nhân sự Ban Chấp hành Trung ương Đảng khóa XIV là cơ sở cho việc chuẩn bị nhân sự tham gia Ban Chấp hành trung ương, Bộ chính trị, Ban bí thư, Ủy ban Kiểm tra Trung ương khóa XIV và nhân sự lãnh đạo chủ chốt các cơ quan Đảng, nhà nước nhiệm kỳ 2026-2031. Thảo luận, cho ý kiến đánh giá kết quả đã đạt được, những hạn chế vướng mắc, những đề xuất phương hướng nhiệm vụ giải pháp xây dựng Đảng nhiệm kỳ khóa XIV về công tác xây dựng Đảng và thi hành điều lệ Đảng. Bầu bổ sung 2 ủy viên Ủy ban Kiểm tra Trung ương, gồm ông Hà Quốc Trị và ông Đinh Văn Cường. Ghi phiếu giới thiệu nhân sự quy hoạch Bộ Chính trị, Ban Bí thư khóa XIV, nhiệm kỳ 2026 - 2031 và bổ sung quy hoạch Ban Chấp hành Trung ương Đảng khóa XIV, nhiệm kỳ 2026 - 2031. Thảo luận, cho ý kiến về chủ trương đối với đề án thành lập thành phố Huế trực thuộc Trung ương. | [25]
+|
+Bất thường (lần 11) |
+25/11/2024 | 0,5 ngày | Về tổng kết thực hiện Nghị quyết số 18-NQ/TW, ngày 25/10/2017 của Ban Chấp hành Trung ương Đảng khoá XII "Một số vấn đề về tiếp tục đổi mới, sắp xếp tổ chức bộ máy của hệ thống chính trị tinh gọn, hoạt động hiệu lực, hiệu quả": Ban Chấp hành Trung ương Đảng khoá XIII xác định đây là nhiệm vụ đặc biệt quan trọng, là cuộc cách mạng về tinh gọn tổ chức bộ máy của hệ thống chính trị, cần thống nhất rất cao về nhận thức và hành động trong toàn Đảng và toàn hệ thống chính trị. Ban Chấp hành Trung ương Đảng đã cơ bản thống nhất nguyên tắc, mục tiêu, yêu cầu, tiến độ tổng kết Nghị quyết số 18-NQ/TW và một số nội dung gợi ý, định hướng để các cấp ủy, tổ chức đảng, cơ quan, đơn vị trực thuộc Trung ương nghiên cứu, đề xuất sắp xếp, hoàn thiện tổ chức bộ máy tinh gọn, hoạt động hiệu lực, hiệu quả. Giao Bộ Chính trị, Ban Chỉ đạo Trung ương về tổng kết Nghị quyết số 18-NQ/TW: (1) Quyết định sắp xếp theo thẩm quyền đối với những cơ quan, tổ chức đã có phương án sắp xếp, chuẩn bị kỹ lưỡng. (2) Chỉ đạo xây dựng Báo cáo tổng kết; đề xuất nhiệm vụ, giải pháp đổi mới, sắp xếp tổ chức bộ máy của hệ thống chính trị tinh gọn, hoạt động hiệu lực, hiệu quả, trình Ban Chấp hành Trung ương Đảng khoá XIII thông qua. Ban Chấp hành Trung ương Đảng cơ bản thống nhất chủ trương tái khởi động Dự án điện hạt nhân Ninh Thuận và tiếp tục nghiên cứu Chương trình điện hạt nhân tại Việt Nam nhằm bảo đảm vững chắc an ninh năng lượng quốc gia, đáp ứng mục tiêu phát triển kinh tế - xã hội, tăng cường tiềm lực khoa học, công nghệ và phát triển bền vững đất nước. Giao Bộ Chính trị chỉ đạo các cơ quan, địa phương có liên quan nghiên cứu, xây dựng Đề án phát triển điện hạt nhân tại Việt Nam trong thời gian tới; trước mắt tiếp tục nghiên cứu Dự án Nhà máy điện hạt nhân Ninh Thuận, báo cáo cấp có thẩm quyền xem xét, quyết định. Cho ý kiến về nhân sự để Bộ Chính trị quyết định giới thiệu Quốc hội khoá XV phê chuẩn chức danh Bộ trưởng Bộ Tài chính, Bộ trưởng Bộ Giao thông vận tải; bầu ủy viên ủy ban Thường vụ, Tổng Thư ký Quốc hội, Chủ nhiệm Văn phòng Quốc hội. Ban Chấp hành Trung ương Đảng quyết định thi hành kỷ luật các ông Phạm Văn Vọng, Ngô Đức Vượng, Nguyễn Doãn Khánh bằng hình thức Khai trừ ra khỏi Đảng. Đồng ý để các ông: Bùi Văn Cường, Nguyễn Văn Thể thôi giữ chức ủy viên Trung ương Đảng khoá XIII. | [26]
+|
+Bất thường (lần 12) |
+23-24/1/2025 | 1,5 ngày | Thống nhất cao với Báo cáo tổng kết Nghị quyết 18-NQ/TW và phương án sắp xếp tinh gọn tổ chức bộ máy của hệ thống chính trị. Bộ Chính trị xác định sắp xếp tinh gọn tổ chức bộ máy của hệ thống chính trị đảm bảo hiệu năng, hiệu lực, hiệu quả là một cuộc cách mạng. Thống nhất với các Đề án bổ sung phát triển kinh tế - xã hội năm 2025 với mục tiêu tăng trưởng đạt 8% trở lên và tăng trưởng giai đoạn 2026 - 2030 liên tục đạt 2 con số. Đồng ý với phương án của Bộ Chính trị về giới thiệu, bố trí cán bộ các cơ quan sau khi sắp xếp, kiện toàn tổ chức bộ máy mới. Trung ương cũng đã thống nhất với báo cáo kiểm điểm sự chỉ đạo, điều hành của Bộ Chính trị, Ban Bí thư năm 2024. Thống nhất để ông Trần Cẩm Tú thôi giữ chức Chủ nhiệm Ủy ban Kiểm tra Trung ương để tập trung thực hiện nhiệm vụ Thường trực Ban Bí thư. Bầu bổ sung 3 Ủy viên Ủy ban Kiểm tra Trung ương khóa XIII, gồm các đồng chí: Nguyễn Duy Ngọc, Nguyễn Hồng Lĩnh, Đoàn Anh Dũng. Bầu ông Nguyễn Duy Ngọc giữ chức Chủ nhiệm Ủy ban Kiểm tra Trung ương. Bầu bổ sung ông Nguyễn Duy Ngọc giữ chức Ủy viên Bộ Chính trị khóa XIII; ông Trần Lưu Quang giữ chức Ủy viên Ban Bí thư khóa XIII. Đồng ý để ông Dương Văn An thôi giữ chức Ủy viên Ban Chấp hành Trung ương Đảng khóa XIII. | [27]
+|
+| Mười một | 10-12/4/2025 | 3 ngày | Thảo luận, cho ý kiến đối với các nội dung tập trung vào hai nhóm vấn đề chính: Nhóm vấn đề về tiếp tục sắp xếp tổ chức bộ máy của hệ thống chính trị, sắp xếp đơn vị hành chính và tổ chức chính quyền địa phương hai cấp. Nhóm vấn đề về tiếp tục chuẩn bị cho Đại hội lần thứ XIV của Đảng và bầu cử đại biểu Quốc hội khóa 16, Hội đồng nhân dân các cấp nhiệm kỳ 2026-2031. Thống nhất cao chủ trương tổ chức chính quyền địa phương 2 cấp: cấp tỉnh (tỉnh, thành phố trực thuộc Trung ương), cấp xã (xã, phường, đặc khu trực thuộc tỉnh, thành phố). Số lượng đơn vị hành chính cấp tỉnh sau sáp nhập là 34 tỉnh, thành phố (28 tỉnh và 6 thành phố trực thuộc Trung ương) với tên gọi và trung tâm hành chính-chính trị xác định theo các nguyên tắc nêu tại các tờ trình và đề án. Kết thúc hoạt động của đơn vị hành chính cấp huyện sau khi Quốc hội quyết nghị sửa đổi, bổ sung một số điều của Hiến pháp năm 2013 và Luật Tổ chức chính quyền địa phương năm 2025 (sửa đổi); sáp nhập đơn vị hành chính cấp xã bảo đảm cả nước giảm khoảng 60-70% số lượng đơn vị hành chính cấp xã hiện nay. Thống nhất chủ trương sắp xếp, tinh gọn, hợp nhất cơ quan Mặt trận Tổ quốc Việt Nam, các tổ chức chính trị-xã hội, các hội quần chúng do Đảng, Nhà nước giao nhiệm vụ ở cấp Trung ương, cấp tỉnh và cấp xã nêu tại Tờ trình và Đề án của Đảng ủy Mặt trận Tổ quốc Việt Nam, các đoàn thể Trung ương; chủ trương kết thúc hoạt động của công đoàn viên chức, công đoàn lực lượng vũ trang, giảm mức đóng góp công đoàn phí của cán bộ, công chức, viên chức và người lao động. Đồng ý chủ trương tiếp tục sắp xếp, tinh gọn bộ máy Tòa án nhân dân, Viện Kiểm sát nhân dân; kết thúc hoạt động của Tòa án Nhân dân, Viện Kiểm sát Nhân dân cấp cao và cấp huyện; xác lập hệ thống tổ chức Tòa án Nhân dân, Viện Kiểm sát Nhân dân có 3 cấp. Cơ bản thống nhất, thông qua dự thảo Phương hướng công tác nhân sự Ban Chấp hành Trung ương Đảng khóa XIV; bổ sung nhân sự quy hoạch Ban Chấp hành Trung ương Đảng khóa XIV; các nội dung sửa đổi, bổ sung Quy định của Ban Chấp hành Trung ương về thi hành Điều lệ Đảng; Quy định về công tác kiểm tra, giám sát và kỷ luật của Đảng; các nội dung sửa đổi, bổ sung Chỉ thị số 35-CT/TW ngày 14/6/2024 và Kết luận số 118-KL/TW ngày 18/1/2025 của Bộ Chính trị về đại hội đảng bộ các cấp tiến tới Đại hội đại biểu toàn quốc lần thứ XIV của Đảng; Phương hướng bầu cử đại biểu Quốc hội khóa XVI, đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031.Nghe báo cáo về tình hình đất nước, tình hình thế giới và khu vực; những công việc quan trọng Bộ Chính trị, Ban Bí thư đã giải quyết từ sau Hội nghị Trung ương 10 đến nay; các chuyên đề về hoàn thiện thể chế, về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia. Đồng ý để ông Nguyễn Văn Hiếu thôi giữ chức Ủy viên dự khuyết Trung ương Đảng khóa XIII. Xem xét, quyết định thi hành kỷ luật ông Trương Hòa Bình bằng hình thức Cách chức tất cả các chức vụ trong Đảng. | [28]
+|
+| Mười hai | 18-19/7/2025 | 2 ngày | Thống nhất cơ bản về phương hướng công tác nhân sự Đại hội đại biểu toàn quốc lần thứ XIV của Đảng bao gồm định hướng phân bổ cơ cấu, số lượng Ủy viên Trung ương Đảng chính thức khóa 14; Tiêu chuẩn, cơ cấu, số lượng và nguyên tắc phân bổ đại biểu dự Đại hội đại biểu toàn quốc lần thứ 14 của Đảng; cho ý kiến về nhân sự bổ sung quy hoạch Bộ Chính trị, Ban Bí thư khóa 14 nhiệm kỳ 2026 - 2031. Đồng ý chủ trương hợp nhất 3 Báo cáo gồm: Báo cáo chính trị, Báo cáo kinh tế - xã hội, Báo cáo về tổng kết xây dựng Đảng và thi hành Điều lệ Đảng (nội dung công tác xây dựng Đảng); thông qua nội dung cơ bản dự thảo các văn kiện trình Đại hội 14. Thống nhất các nội dung đề xuất của Đảng ủy Chính phủ về một số nội dung sửa đổi, bổ sung các nghị quyết, kết luận của Trung ương. Thi hành kỷ luật bằng hình thức Cách chức tất cả các chức vụ trong Đảng đối với các ông: Nguyễn Xuân Phúc, Võ Văn Thưởng, Vương Đình Huệ, Lê Minh Khái; khai trừ ra khỏi Đảng đối với bà Nguyễn Thị Kim Tiến. Đồng ý để ông Đỗ Đức Duy thôi giữ chức Ủy viên Ban Chấp hành Trung ương Đảng khóa 13 và ông Võ Chí Công thôi giữ chức Ủy viên dự khuyết Ban Chấp hành Trung ương Đảng khóa 13. Cho ý kiến về nhân sự để Bộ Chính trị quyết định giới thiệu Quốc hội khóa XV phê chuẩn giữ chức Bộ trưởng Bộ Nông nghiệp và Môi trường nhiệm kỳ 2021 - 2026. | [29]
+|
+| Mười ba | 06-08/10/2025 | 3 ngày | Thảo luận, cho ý kiến về các nhóm vấn đề: Công tác chuẩn bị Đại hội XIV của Đảng; phát triển kinh tế - xã hội; những công việc Bộ Chính trị xem xét, giải quyết từ sau Hội nghị Trung ương lần thứ 12 đến nay và cho ý kiến vào tờ trình về kết quả và phương án giới thiệu nhân sự tham gia Ban Chấp hành Trung ương khóa XIV, tham gia Ủy viên Ủy ban Kiểm tra Trung ương khóa XIV và tiến hành lấy phiếu biểu quyết theo quy định. Bầu bổ sung 4 Ủy viên Ủy ban Kiểm tra Trung ương khoá XIII, gồm: Nguyễn Mạnh Hùng, Phó Bí thư Tỉnh ủy Hưng Yên; Thiếu tướng Trần Văn Phúc, Giám đốc Công an tỉnh Quảng Ninh; Trịnh Thế Bình, Vụ trưởng, Thư ký Thường trực Ban Bí thư; Trần Quốc Bình, Vụ trưởng Vụ Địa bàn III. Đồng ý để ông Lê Quang Huy thôi giữ chức Ủy viên Ban Chấp hành Trung ương Đảng khoá XIII theo nguyện vọng cá nhân. Thi hành kỷ luật bằng hình thức cách chức tất cả các chức vụ trong Đảng đối với ông Đỗ Trọng Hưng. Cho ý kiến về nhân sự để Bộ Chính trị quyết định giới thiệu Quốc hội khoá XV bầu các chức danh: Tổng Thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội; Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội; Ủy viên Ủy ban Thường vụ Quốc hội; Chủ nhiệm Ủy ban Công tác đại biểu của Quốc hội và phê chuẩn các chức danh: Phó Thủ tướng Chính phủ; Bộ trưởng Ngoại giao; Bộ trưởng Nội vụ. | [30]
+|
+| Mười bốn | 05-06/11/2025 | 1,5 ngày | Thảo luận, cho ý kiến về hai nội dung lớn: Nhóm vấn đề về công tác Đại hội XIV của Đảng; nhóm vấn về xây dựng Đảng và hệ thống chính trị. Cho ý kiến về số lượng Ủy viên Bộ Chính trị, Ủy viên Ban Bí thư nhiệm kỳ Đại hội XIV và lựa chọn nhân sự giới thiệu tham gia Bộ Chính trị, Ban Bí thư khóa XIV. Thống nhất để ông Nguyễn Duy Ngọc thôi tham gia Ủy ban Kiểm tra Trung ương, thôi giữ chức Chủ nhiệm Ủy ban Kiểm tra Trung ương khóa XIII để tập trung cho nhiệm vụ Bí thư Thành ủy Hà Nội. Thực hiện quy trình giới thiệu nhân sự một số chức danh: Phó Chủ tịch Quốc hội khóa XV, Chủ nhiệm Ủy ban Kiểm tra Trung ương khóa XIII và Chánh án Tòa án nhân dân tối cao nhiệm kỳ 2021-2026. Bầu ông Trần Sỹ Thanh tham gia Ủy ban Kiểm tra Trung ương và giữ chức Chủ nhiệm Ủy ban Kiểm tra Trung ương khóa XIII. Giới thiệu nhân sự Đoàn Chủ tịch, Đoàn Thư ký, Ban Thẩm tra tư cách đại biểu Đại hội đại biểu toàn quốc lần thứ XIV của Đảng. Thống nhất số lượng nhân sự Bộ Chính trị, Ban Bí thư khóa XIV; nhân sự giới thiệu tham gia hai cơ quan lãnh đạo này, cùng một số nội dung liên quan nhân sự cấp cao của Đảng, Nhà nước và các vấn đề chuẩn bị tổ chức Đại hội XIV của Đảng. | [31]
+|
+
+## Các ban Đảng Trung ương
+
+[sửa | sửa mã nguồn]| Các Ban Đảng Trung ương | Chức vụ | Lãnh đạo | Kiêm nhiệm | Nhiệm kỳ | Nguồn |
+|---|---|---|---|---|---|
+Ban Tổ chức Trung ương
+|
+Trưởng ban | Phạm Minh Chính | Ủy viên Bộ Chính trị
+Bí thư Trung ương Đảng |
+5/2/2016-8/4/2021 5 năm, 62 ngày |
+[32]
+|
+| Trương Thị Mai | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng |
+8/4/2021-15/5/2024 3 năm, 37 ngày |
+[33]
+| ||
+| Lê Minh Hưng | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng |
+16/5/2024-nay 1 năm, 209 ngày |
+[34]
+| ||
+Ủy ban Kiểm tra Trung ương
+|
+Chủ nhiệm | Trần Cẩm Tú | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng |
+9/5/2018-23/1/2025 6 năm, 259 ngày |
+[35]
+|
+| Nguyễn Duy Ngọc | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng |
+23/1/2025-5/11/2025 286 ngày |
+[36]
+| ||
+| Trần Sỹ Thanh | Ủy viên Trung ương Đảng | 5/11/2025-nay 36 ngày |
+[37]
+| ||
+Ban Tuyên giáo và Dân vận Trung ương
+(thành lập từ Ban Tuyên giáo Trung ương ngày 3/2/2025) |
+Trưởng ban | Võ Văn Thưởng | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng |
+5/2/2016-19/2/2021 5 năm, 14 ngày |
+[38]
+|
+| Nguyễn Trọng Nghĩa | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng |
+19/2/2021-4/11/2025 4 năm, 258 ngày |
+[39]
+| ||
+| Trịnh Văn Quyết | Bí thư Trung ương Đảng | 4/11/2025-nay 37 ngày |
+[40]
+| ||
+Hội đồng Lý luận Trung ương
+|
+Chủ tịch | Nguyễn Xuân Thắng | Ủy viên Bộ Chính trị | 2/3/2018-nay 7 năm, 284 ngày |
+[41]
+|
+Ban Dân vận Trung ương
+(đã chấm dứt hoạt động, hợp nhất với Ban Tuyên giáo Trung ương từ ngày 3/2/2025) |
+Trưởng ban | Trương Thị Mai | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng |
+4/2/2016-8/4/2021 5 năm, 63 ngày |
+[42]
+|
+| Bùi Thị Minh Hoài | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng |
+8/4/2021-17/7/2024 3 năm, 100 ngày |
+[43]
+| ||
+| Mai Văn Chính | Ủy viên Trung ương Đảng | 16/8/2024-3/2/2025 1 năm, 117 ngày |
+[44]
+| ||
+Văn phòng Trung ương Đảng
+|
+Chánh Văn phòng | Lê Minh Hưng | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng |
+15/10/2020-3/6/2024 3 năm, 232 ngày |
+[45]
+|
+| Nguyễn Duy Ngọc | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng |
+3/6/2024-3/2/2025 245 ngày |
+[46]
+| ||
+| Lê Hoài Trung | Bí thư Trung ương Đảng | 3/2/2025-29/8/2025 207 ngày |
+|||
+| Phạm Gia Túc | Ủy viên Trung ương Đảng | 29/8/2025-nay 104 ngày |
+|||
+Ban Nội chính Trung ương
+|
+Trưởng ban | Phan Đình Trạc | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng |
+29/2/2016-nay 9 năm, 286 ngày |
+[47]
+|
+Ban Đối ngoại Trung ương
+(đã chấm dứt hoạt động từ ngày 3/2/2025) |
+Trưởng ban | Hoàng Bình Quân | Ủy viên Trung ương Đảng khoá XII | 25/6/2009-18/3/2021 11 năm, 266 ngày |
+[48]
+|
+| Lê Hoài Trung | Bí thư Trung ương Đảng | 18/3/2021-3/2/2025 3 năm, 322 ngày |
+[49]
+| ||
+Ban Chính sách, chiến lược Trung ương
+(Ban Kinh tế Trung ương trước ngày 3/2/2025) |
+Trưởng ban | Nguyễn Văn Bình | Ủy viên Bộ Chính trị,
+Bí thư Trung ương Đảng khoá XII |
+11/4/2016-5/2/2021 4 năm, 300 ngày |
+[50]
+|
+| Trần Tuấn Anh | Ủy viên Bộ Chính trị | 5/2/2021-31/1/2024 2 năm, 360 ngày |
+[51]
+| ||
+| Trần Lưu Quang | Bí thư Trung ương Đảng | 16/8/2024-24/8/2025 1 năm, 8 ngày |
+|||
+| Nguyễn Thanh Nghị | Ủy viên Trung ương Đảng | 25/8/2025-nay 108 ngày |
+|||
+Báo Nhân dân |
+Tổng Biên tập | Thuận Hữu | Ủy viên Trung ương Đảng khóa XII | 8/2/2011-19/5/2021 9 năm, 33 ngày |
+[52]
+|
+| Lê Quốc Minh | Ủy viên Trung ương Đảng | 20/5/2021-nay 4 năm, 205 ngày |
+[53]
+| ||
+Ban Bảo vệ, Chăm sóc sức khỏe cán bộ Trung ương
+(đã chấm dứt hoạt động từ ngày 3/2/2025) |
+Trưởng ban | Nguyễn Thị Kim Tiến | 5/7/2019-19/11/2021 2 năm, 137 ngày |
+[54]
+| |
+| Nguyễn Thanh Long | Ủy viên Trung ương Đảng | 11/12/2021-6/6/2022 177 ngày |
+[55]
+|
+
+## Đảng bộ trực thuộc Trung ương
+
+[sửa | sửa mã nguồn]| Đảng bộ trực thuộc |
+Chức vụ | Lãnh đạo | Kiêm nhiệm | Nhiệm kỳ | Nguồn |
+|---|---|---|---|---|---|
+Đảng bộ Quân đội |
+Bí thư Quân ủy Trung ương | Nguyễn Phú Trọng | Tổng Bí thư | 19/1/2011-19/7/2024 13 năm, 182 ngày |
+[56]
+|
+| Tô Lâm | Tổng Bí thư | 03/8/2024-nay 1 năm, 130 ngày |
+|||
+Đảng bộ Công an Trung ương |
+Bí thư Đảng ủy Công an Trung ương | Tô Lâm | Ủy viên Bộ Chính trị Bộ trưởng Bộ Công an |
+4/5/2016-11/6/2024 8 năm, 38 ngày |
+[57]
+|
+| Lương Tam Quang | Ủy viên Bộ Chính trị Bộ trưởng Bộ Công an |
+11/6/2024-nay 1 năm, 183 ngày |
+[58]
+| ||
+Đảng bộ các cơ quan Đảng Trung ương
+(thành lập ngày 3/2/2025) |
+Bí thư Đảng ủy các cơ quan Đảng Trung ương | Trần Cẩm Tú | Ủy viên Bộ Chính trị Thường trực Ban Bí thư |
+3/2/2025-nay 311 ngày |
+[59]
+|
+Đảng bộ Chính phủ
+(thành lập từ Ban Cán sự Đảng Chính phủ ngày 3/2/2025) |
+Bí thư Đảng ủy Chính phủ | Phạm Minh Chính | Ủy viên Bộ Chính trị Thủ tướng Chính phủ |
+3/2/2025-nay 311 ngày |
+[59]
+|
+Đảng bộ Quốc hội
+(thành lập từ Đảng đoàn Quốc hội ngày 3/2/2025) |
+Bí thư Đảng ủy Quốc hội | Trần Thanh Mẫn | Ủy viên Bộ Chính trị Chủ tịch Quốc hội |
+3/2/2025-nay 311 ngày |
+[59]
+|
+Đảng bộ Mặt trận Tổ quốc, các đoàn thể Trung ương
+(thành lập từ Đảng đoàn Mặt trận Tổ quốc Việt Nam ngày 3/2/2025) |
+Bí thư Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương | Đỗ Văn Chiến | Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam | 3/2/2025-4/11/2025 274 ngày |
+[59]
+|
+| Bùi Thị Minh Hoài | Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam | 4/11/2025-nay 37 ngày |
+[60]
+| ||
+Đảng bộ Khối các cơ quan Trung ương
+|
+Bí thư Đảng ủy Khối các cơ quan Trung ương |
+Huỳnh Tấn Việt | Ủy viên Trung ương Đảng | 29/10/2020-6/10/2022 1 năm, 342 ngày |
+[61]
+|
+| Nguyễn Văn Thể | Ủy viên Trung ương Đảng | 21/10/2022-25/11/2024 2 năm, 35 ngày |
+[62]
+| ||
+Đảng bộ Khối Doanh nghiệp Trung ương
+|
+Bí thư Đảng ủy Khối Doanh nghiệp Trung ương |
+Y Thanh Hà Niê Kđăm | Ủy viên Trung ương Đảng | 4/3/2019-6/8/2021 2 năm, 155 ngày |
+[63]
+|
+| Nguyễn Long Hải | Ủy viên dự khuyết Trung ương Đảng | 6/8/2021-9/12/2024 3 năm, 125 ngày |
+[64]
+|
+
+- Đảng bộ tỉnh, thành phố trực thuộc trung ương
+
+Đảng bộ tỉnh, thành phố trực thuộc trung ương hay còn được gọi Tỉnh ủy, Thành ủy là những đảng bộ trực thuộc Trung ương Đảng, do Trung ương Đảng quản lý, giám sát.
+
+## Ủy viên chính thức Ban Chấp hành Trung ương (145)
+
+[sửa | sửa mã nguồn]Ủy viên nữ: 17 (10,4%) (gồm cả chính thức lẫn dự khuyết): Nguyễn Thúy Anh, Nguyễn Thị Thu Hà, Nguyễn Thanh Hải, Bùi Thị Minh Hoài, Nguyễn Thị Hồng, Đào Hồng Lan, Giàng Páo Mỷ, Hà Thị Nga, Lê Thị Nga, Lâm Thị Phương Thanh, Nguyễn Thị Thanh, Lê Thị Thủy, Phạm Thị Thanh Trà, Nguyễn Thị Tuyến, Bùi Thị Quỳnh Vân, Võ Thị Ánh Xuân, Tôn Ngọc Hạnh.
+
+|
+|
+
+## Ủy viên dự khuyết Ban Chấp hành Trung ương (18)
+
+[sửa | sửa mã nguồn]Ủy viên dự khuyết Trung ương Đảng
+
+Nguồn:[66]
+
+| STT | Họ tên (sinh-mất) |
+Nguyên quán | Chức vụ cũ | Chức vụ hiện nay | |||
+|---|---|---|---|---|---|---|---|
+| Chức vụ | Thời gian | ||||||
+| 1 | Nguyễn Hoài Anh (1977-) |
+Đà Nẵng | Phó Bí thư Thường trực Tỉnh ủy Lâm Đồng (mới) | Phó Bí thư Tỉnh ủy Chủ tịch UBND tỉnh Thanh Hóa |
+09/2025-nay | ||
+| 2 | Lê Hải Bình (1977-) |
+Hải Phòng | Tổng Biên tập Tạp chí Cộng sản [199]
+|
+Thứ trưởng Thường trực Bộ Văn hóa, Thể thao và Du lịch [200]
+|
+02/2025-nay | ||
+| 3 | Bùi Thế Duy (1978-) |
+Hà Tĩnh | Thứ trưởng Bộ Khoa học và Công nghệ | Thứ trưởng Bộ Khoa học và Công nghệ | 04/2018-nay | ||
+| 4 | Vũ Mạnh Hà (1979-) |
+Tuyên Quang | Phó Bí thư Thường trực Tỉnh ủy Lai Châu | Thứ trưởng Thường trực Bộ Y tế | 09/2025-nay | ||
+| 5 | Nguyễn Long Hải (1976-) |
+Phú Thọ | Phó Bí thư Thường trực Tỉnh ủy Quảng Trị (mới) | Phó Bí thư Thường trực Đảng ủy các cơ quan Đảng Trung ương [201]
+|
+09/2025-nay | ||
+| 6 | Tôn Ngọc Hạnh (1980-) |
+TP.HCM | Bí thư Tỉnh ủy Bình Phước [202]
+|
+Phó Bí thư Thường trực Tỉnh ủy Chủ tịch HĐND tỉnh Đồng Nai (mới) |
+07/2025-nay | ||
+| 7 | U Huấn (1980-) |
+Quảng Ngãi | Phó Bí thư Tỉnh ủy Kon Tum [203]
+|
+Phó Bí thư Thường trực Tỉnh ủy Quảng Ngãi (mới) | 07/2025-nay | ||
+| 8 | Trịnh Việt Hùng (1977-) |
+Hải Phòng | Bí thư Tỉnh ủy Thái Nguyên [202]
+|
+Bí thư Tỉnh ủy Lào Cai [204]
+|
+09/2025-nay | ||
+| 9 | Bùi Quang Huy (1977-) |
+Nghệ An | Bí thư Thường trực Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh | Bí thư thứ nhất Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh [205]
+|
+08/2022-nay | ||
+| 10 | Nguyễn Phi Long (1976-) |
+Lào Cai | Phó Bí thư Thường trực Tỉnh ủy Phú Thọ (mới) | Phó Bí thư Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương | 07/2025-nay | ||
+| 11 | Hồ Văn Mừng (1977-) |
+Khánh Hoà | Ủy viên Ban Thường vụ Tỉnh ủy Bí thư Thành ủy Nha Trang [206]
+|
+Phó Bí thư Tỉnh ủy Chủ tịch UBND tỉnh An Giang [207]
+|
+09/2024-nay | ||
+| 12 | Phan Như Nguyện (1976-) |
+Cà Mau | Ủy viên Ban Thường vụ Tỉnh ủy Phó Chủ tịch HĐND tỉnh Bạc Liêu |
+Phó Chủ tịch Thường trực Hội Nông dân Việt Nam [208]
+|
+07/2024-nay | ||
+| 13 | Y Vinh Tơr (1976-) |
+Đắk Lắk | Ủy viên Ban Thường vụ Tỉnh ủy Chủ tịch HĐND tỉnh Đắk Lắk [209]
+|
+Thứ trưởng Bộ Dân tộc và Tôn giáo | 07/2022-nay | ||
+| 14 | Lương Nguyễn Minh Triết (1976-) |
+Đà Nẵng | Bí thư Thành ủy Đà Nẵng [210]
+|
+Bí thư Tỉnh ủy Đắk Lắk [211]
+|
+10/2025-nay | ||
+| 15 | Vương Quốc Tuấn (1977-) |
+Bắc Ninh | Ủy viên Ban Thường vụ Tỉnh ủy Phó Chủ tịch Thường trực UBND tỉnh Bắc Ninh |
+Phó Bí thư Tỉnh ủy Chủ tịch UBND tỉnh Bắc Ninh [212]
+|
+08/2024-nay | ||
+| 16 | Mùa A Vảng (1983-) |
+Điện Biên | Chủ tịch Ủy ban Mặt trận Tổ quốc tỉnh Điện Biên [213]
+|
+Phó Bí thư Thường trực Tỉnh ủy, Chủ tịch Ủy ban Mặt trận Tổ quốc tỉnh Điện Biên | 10/2025-nay | ||
+| 17 | Huỳnh Quốc Việt (1976-) |
+Cà Mau | Phó Bí thư Thường trực Tỉnh ủy Bạc Liêu [214]
+|
+Phó Bí thư Thường trực Tỉnh ủy Cà Mau (mới) | 07/2025-nay | ||
+| 18 | Nguyễn Minh Vũ (1976-) |
+Hà Nội | Thứ trưởng Bộ Ngoại giao | Thứ trưởng Thường trực Bộ Ngoại giao |
+04/2021-nay | ||
+Bị kỷ luật (cách chức, khai trừ), thôi chức
+| |||||||
+1
+|
+(1976-) |
+Gia Lai
+|
+Bí thư Thành ủy Cần Thơ
+|
+Phó Trưởng ban Tuyên giáo Trung ương
+[215] |
+01/2025-04/2025
+| ||
+2
+|
+Võ Chí Công(1979-) |
+Cần Thơ
+|
+Ủy viên Ban Thường vụ Tỉnh ủy
+Trưởng ban Tổ chức Tỉnh ủy Sóc Trăng |
+Ủy viên Ban Thường vụ Thành ủy
+Trưởng ban Tuyên giáo và Dân vận Thành ủy Cần Thơ (mới) |
+07/2025-07/2025
+|
+
+## Bộ Chính trị (16)
+
+[sửa | sửa mã nguồn]Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng khóa XIII diễn ra ngày 31 tháng 1 năm 2021 tại Trụ sở Trung ương Đảng. Hội nghị đã tiến hành bầu Bộ Chính trị gồm 18 ủy viên. Sau các đợt điều chỉnh nhân sự, đến ngày 23/1/2025, Bộ Chính trị hiện gồm 16 ủy viên.
+
+| STT | Hình ảnh | Họ và tên | Chức vụ Đảng | Chức vụ Nhà nước, Đoàn thể | Ghi chú |
+|---|---|---|---|---|---|
+| Đương nhiệm | |||||
+| 1 | Tô Lâm
+(1957-) |
+|
+| ||
+| 2 | Lương Cường
+(1957-) |
+|
+|
+||
+| 3 | Phạm Minh Chính
+(1958-) |
+|
+|
+||
+| 4 | Trần Thanh Mẫn
+(1962-) |
+|
+| ||
+| 5 | Trần Cẩm Tú
+(1961-) |
+|
+|||
+| 6 | Nguyễn Văn Nên
+(1957-) |
+|
+|||
+| 7 | Phan Đình Trạc
+(1958-) |
+||||
+| 8 | Đại tướng Phan Văn Giang
+(1960-) |
+|
+| ||
+| 9 | Nguyễn Hòa Bình
+(1958-) |
+|
+|||
+| 10 | Nguyễn Xuân Thắng
+(1957-) |
+|
+|||
+| 11 | Lê Minh Hưng
+(1970-) |
+|
+Bầu bổ sung tại Hội nghị Trung ương 9 (16/5/2024) | ||
+| 12 | Nguyễn Trọng Nghĩa
+(1962-) |
+| |||
+| 13 | Bùi Thị Minh Hoài
+(1965-) |
+|
+|||
+| 14 | Đỗ Văn Chiến
+(1962-) |
+|
+|||
+| 15 | Đại tướng Lương Tam Quang
+(1965-) |
+|
+|
+Bầu bổ sung (16/8/2024) | |
+| 16 | Nguyễn Duy Ngọc
+(1965-) |
+|
+|
+Bầu bổ sung (23/1/2025) | |
+| Đã qua đời | |||||
+| 1 | Nguyễn Phú Trọng
+(1944-2024) |
+Mất khi đang tại nhiệm ngày 19/07/2024 | |||
+| Đã thôi chức | |||||
+| 1 | Nguyễn Xuân Phúc
+(1954-) |
+|
+|
+Thôi tham gia Ban Chấp hành Trung ương từ ngày 17/1/2023 | |
+| 2 | Võ Văn Thưởng
+(1970-) |
+|
+|
+Thôi tham gia Ban Chấp hành Trung ương từ ngày 20/3/2024 | |
+| 3 | Vương Đình Huệ
+(1957-) |
+|
+Thôi tham gia Ban Chấp hành Trung ương từ ngày 26/4/2024 | ||
+| 4 | Phạm Bình Minh
+(1959-) |
+|
+Thôi tham gia Ban Chấp hành Trung ương từ ngày 30/12/2022 | ||
+| 5 | Trần Tuấn Anh
+(1964-) |
+Thôi tham gia Ban Chấp hành Trung ương từ ngày 31/1/2024 | |||
+| 6 | Trương Thị Mai
+(1958-) |
+Thôi tham gia Ban Chấp hành Trung ương từ ngày 16/5/2024 | |||
+| 7 | Đinh Tiến Dũng
+(1961-) |
+Thôi tham gia Ban Chấp hành Thành ủy, thôi giữ chức Bí thư Thành ủy Hà Nội nhiệm kỳ 2020 - 2025 từ ngày 20/6/2024 |
+
+## Ban Bí thư (11)
+
+[sửa | sửa mã nguồn]Ban Bí thư Trung ương gồm một số Ủy viên Bộ Chính trị được Bộ Chính trị phân công tham gia Ban Bí thư và 5 ủy viên được bầu tại Hội nghị lần thứ nhất.[217] Sau một số đợt điều chỉnh nhân sự, đến ngày 5/11/2025, Ban Bí thư hiện gồm 11 ủy viên: 7 ủy viên Bộ Chính trị được phân công, 4 ủy viên được Ban Chấp hành Trung ương bầu.
+
+## Ủy ban Kiểm tra Trung ương (25)
+
+[sửa | sửa mã nguồn]Danh sách Ủy ban Kiểm tra Trung ương được Ban Chấp hành Trung ương khóa XIII bầu ra tính tới ngày 5/11/2025 gồm 25 ủy viên:[223]
+
+### Chủ nhiệm
+
+[sửa | sửa mã nguồn]### Phó Chủ nhiệm
+
+[sửa | sửa mã nguồn]- Trần Văn Rón - Ủy viên Trung ương Đảng, Phó Chủ nhiệm thường trực
+- Trần Tiến Hưng - Ủy viên Trung ương Đảng
+- Nguyễn Hồng Lĩnh - Ủy viên Trung ương Đảng
+- Hoàng Văn Trà
+- Nghiêm Phú Cường
+- Nguyễn Minh Quang
+- Trần Thị Hiền - Bí thư Đảng ủy cơ quan
+- Hoàng Trọng Hưng
+- Hà Quốc Trị
+- Đinh Hữu Thành
+- Đoàn Anh Dũng
+- Lê Văn Thành
+- Nguyễn Mạnh Hùng
+
+### Ủy viên
+
+[sửa | sửa mã nguồn]- Nguyễn Văn Nhân
+- Võ Thái Nguyên
+- Hồ Minh Chiến
+- Nguyễn Văn Hội
+- Tô Duy Nghĩa
+- Đào Thế Hoằng - Phó Bí thư Đảng ủy cơ quan (bầu bổ sung tại Hội nghị Ban Chấp hành Trung ương lần thứ tám)
+- Lê Nguyễn Nam Ninh (bầu bổ sung tại Hội nghị Ban Chấp hành Trung ương lần thứ tám)
+- Đinh Văn Cường (bầu bổ sung tại Hội nghị Ban Chấp hành Trung ương lần thứ mười)
+- Trần Văn Phúc (bầu bổ sung tại Hội nghị Ban Chấp hành Trung ương lần thứ mười ba)
+- Trịnh Thế Bình (bầu bổ sung tại Hội nghị Ban Chấp hành Trung ương lần thứ mười ba)
+- Trần Quốc Bình (bầu bổ sung tại Hội nghị Ban Chấp hành Trung ương lần thứ mười ba)
+
+## Nhận xét
+
+[sửa | sửa mã nguồn]Kết quả bầu cử ghi nhận 19 nữ Ủy viên Trung ương Đảng.[224] Có 13 Ủy viên là người dân tộc thiểu số; 62 Bí thư tỉnh, thành (trừ Đắk Nông) và 8 Phó Bí thư (Đắk Nông, Hà Nội 2, Hà Tĩnh, TP Hồ Chí Minh 2, Thừa Thiên - Huế, Vĩnh Long) là Ủy viên chính thức. Trong các Ủy viên chính thức có 15 Bộ trưởng, Thủ trưởng cơ quan ngang bộ, 6 Thứ trưởng, Phó Thủ trưởng cơ quan ngang bộ và 4 Chủ tịch UBND tỉnh, thành (Đắk Nông, Hà Nội, Hà Tĩnh, TP Hồ Chí Minh).[225]
+
+Số ủy viên dưới 50 tuổi chiếm khoảng 17%; trong đó, Bí thư thứ nhất Trung ương Đoàn Nguyễn Anh Tuấn là ủy viên Trung ương chính thức trẻ nhất với 42 tuổi; độ tuổi từ 50 đến dưới 60 tuổi chiếm tỷ lệ gần 63%; trên 60 tuổi chiếm tỷ lệ 20%.[226]
+
+Đại biểu quân đội chiếm tỷ lệ cao nhất trong danh sách Ban Chấp hành Trung ương khóa XIII với 23 ủy viên, tỷ lệ gần 12,8%. Trong đó có Thượng tướng Phan Văn Giang, Ủy viên Trung ương Đảng khóa XII, Tổng tham mưu trưởng Quân đội nhân dân Việt Nam, Thứ trưởng Quốc phòng. Tướng Giang năm nay 61 tuổi, quá tuổi tái cử theo quy định, nhưng đã được Trung ương khóa XII đề cử theo diện "trường hợp đặc biệt".[3]
+
+6 lãnh đạo Bộ Công an trúng cử Ban Chấp hành Trung ương Đảng khóa XIII gồm: Chủ tịch nước Tô Lâm và các Thứ trưởng Trần Quốc Tỏ, Bộ trưởng Bộ Công an Lương Tam Quang, Nguyễn Duy Ngọc, Lê Quốc Hùng, Lê Tấn Tới. Thượng tướng Lương Tam Quang (56 tuổi) và Trung tướng Nguyễn Duy Ngọc (57 tuổi) đều quá tuổi lần đầu vào Trung ương (theo quy định lần đầu vào Trung ương không quá 55 tuổi) nhưng đã được Trung ương khóa XII giới thiệu là "trường hợp đặc biệt" tại Hội nghị Trung ương 15.[227]
+
+Ban Nội chính Trung ương có 4 Ủy viên Trung ương khóa XIII. Ngoài Trưởng Ban Phan Đình Trạc, còn có ba Phó ban là Trần Quốc Cường, Võ Văn Dũng (Thường trực) và Phạm Gia Túc. Hai "trường hợp đặc biệt" trúng cử là Võ Văn Dũng (61 tuổi) và Phạm Gia Túc (56 tuổi).[66]
+
+## Danh sách Ủy viên BCH TW bị kỷ luật hoặc thôi chức trong nhiệm kỳ
+
+[sửa | sửa mã nguồn]| Thứ tự | Tên | Chức vụ | Thời gian | Hình thức |
+|---|---|---|---|---|
+| 1 | Trần Văn Nam | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Tỉnh ủy Bình Dương |
+07/2021 | Cách chức
+Truy tố |
+| 2 | Lê Đức Thọ | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Tỉnh ủy Bến Tre |
+10/2023 | |
+| 3 | Chu Ngọc Anh | Ủy viên Ban chấp hành TW Đảng,
+Phó Bí thư Thành ủy, Chủ tịch UBND Thành phố Hà Nội |
+06/2022 | Khai trừ Đảng
+Truy tố |
+| 4 | Nguyễn Thanh Long | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Ban cán sự Đảng, Bộ trưởng Bộ Y tế Trưởng Ban Bảo vệ, Chăm sóc sức khỏe cán bộ Trung ương | ||
+| 5 | Phạm Xuân Thăng | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Tỉnh ủy, Chủ tịch HĐND tỉnh Hải Dương |
+09/2022 | |
+| 6 | Trần Đức Quận | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Tỉnh ủy, Chủ tịch HĐND tỉnh Lâm Đồng |
+01/2024 | |
+| 7 | Hoàng Thị Thúy Lan | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Tỉnh ủy, Chủ tịch HĐND tỉnh Vĩnh Phúc Trưởng Đoàn ĐBQH tỉnh Vĩnh Phúc |
+3/2024 | |
+| 8 | Dương Văn Thái | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Tỉnh ủy Bắc Giang Trưởng Đoàn ĐBQH tỉnh Bắc Giang |
+5/2024 | |
+| 9 | Nguyễn Thành Phong | Ủy viên Ban chấp hành TW Đảng,
+Phó Trưởng ban Kinh tế Trung ương |
+10/2022 | Cảnh cáo
+Thôi chức |
+| 10 | Bùi Nhật Quang | Ủy viên Ban chấp hành TW Đảng,
+Chủ tịch Viện Hàn lâm Khoa học và Xã hội Việt Nam | ||
+| 11 | Huỳnh Tấn Việt | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Đảng ủy Khối các cơ quan Trung ương | ||
+| 12 | Bùi Thanh Sơn | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Ban cán sự Đảng, Bộ trưởng Bộ Ngoại giao |
+12/2022 | Phê bình |
+| 13 | Phạm Bình Minh | Ủy viên Bộ Chính trị,
+Phó Thủ tướng Thường trực Chính phủ |
+Thôi chức | |
+| 14 | Vũ Đức Đam | Ủy viên Ban chấp hành TW Đảng,
+Phó Thủ tướng Chính phủ | ||
+| 15 | Nguyễn Xuân Phúc | Ủy viên Bộ Chính trị,
+Chủ tịch nước CHXHCN Việt Nam Chủ tịch Hội đồng Quốc phòng - An ninh nhiệm kỳ 2021 - 2026 |
+01/2023 | Thôi chức |
+| 12/2024 | Cảnh cáo | |||
+| 07/2025 | Cách chức | |||
+| 16 | Nguyễn Phú Cường | Ủy viên Ban chấp hành TW Đảng,
+Ủy viên Ủy ban Thường vụ Quốc hội, Chủ nhiệm Ủy ban Tài chính - Ngân sách Quốc Hội |
+05/2023 | Thôi chức |
+| 17 | Điểu K'Ré | Ủy viên Ban chấp hành TW Đảng,
+Phó Bí thư Thường trực Tỉnh ủy Đắk Nông |
+10/2023 | |
+| 18 | Phan Việt Cường | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Tỉnh ủy, Chủ tịch HĐND tỉnh Quảng Nam |
+01/2024 | |
+| 19 | Trần Tuấn Anh | Ủy viên Bộ Chính trị,
+Trưởng Ban Kinh tế Trung ương | ||
+| 20 | Võ Văn Thưởng | Ủy viên Bộ Chính trị,
+Chủ tịch nước CHXHCN Việt Nam Chủ tịch Hội đồng Quốc phòng và An ninh, nhiệm kỳ 2021 - 2026 |
+3/2024 | |
+| 7/2025 | Cách chức | |||
+| 21 | Vương Đình Huệ | Ủy viên Bộ Chính trị,
+Chủ tịch Quốc hội nước CHXHCN Việt Nam khóa XV, nhiệm kỳ 2021-2026 |
+4/2024 | Thôi chức |
+| 11/2024 | Cảnh cáo | |||
+| 7/2025 | Cách chức | |||
+| 23 | Trương Thị Mai | Ủy viên Bộ Chính trị,
+Thường trực Ban Bí thư, Trưởng ban Tổ chức Trung ương |
+5/2024 | Thôi chức |
+| 12/2024 | Khiển trách | |||
+| 24 | Đinh Tiến Dũng | Ủy viên Bộ Chính trị, Bí thư Thành ủy Trưởng Đoàn đại biểu Quốc hội khóa XV thành phố Hà Nội |
+6/2024 | Thôi chức |
+| 25 | Lê Minh Khái | Bí thư Trung ương Đảng, Phó Thủ tướng Chính phủ | 8/2024 | Cảnh cáo
+Thôi chức |
+| 26 | Đặng Quốc Khánh | Ủy viên Ban chấp hành TW Đảng,
+Bộ trưởng Bộ Tài nguyên và Môi trường |
+Thôi chức | |
+| 27 | Nguyễn Xuân Ký | Ủy viên Ban chấp hành TW Đảng, Bí thư Tỉnh ủy, Chủ tịch Hội đồng nhân dân tỉnh Quảng Ninh | ||
+| 28 | Chẩu Văn Lâm | ủy viên Ban Chấp hành TW Đảng, Bí thư Tỉnh ủy, Trưởng Đoàn đại biểu Quốc hội tỉnh Tuyên Quang | ||
+| 29 | Bùi Văn Cường | Ủy viên Ban chấp hành TW Đảng,
+Chủ nhiệm Văn phòng Quốc hội, Tổng Thư ký Quốc hội Việt Nam |
+10/2024 | |
+| 30 | Nguyễn Văn Thể | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Đảng ủy Khối các cơ quan Trung ương |
+11/2024 | Cảnh cáo
+Thôi chức |
+| 31 | Đào Ngọc Dung | Ủy viên Ban chấp hành TW Đảng,
+Bí thư Ban cán sự Đảng, Bộ trưởng Bộ Lao động - Thương binh và Xã hội |
+3/2024 | Khiển trách |
+
+## Xem thêm
+
+[sửa | sửa mã nguồn]## Tham khảo
+
+[sửa | sửa mã nguồn]**^**"Đại hội Đảng XIII đã bỏ phiếu bầu Ban Chấp hành Trung ương".**^**"Đại hội làm việc tại Hội trường, bầu cử Ban Chấp hành T.Ư Đảng khóa XIII".*Báo Nhân Dân*. ngày 31 tháng 1 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.- ^
+**a****b****c****d**"Danh sách Ban Bí thư Trung ương Đảng khóa XIII".**e***VnExpress*. ngày 30 tháng 1 năm 2021. Truy cập ngày 2 tháng 2 năm 2021. - ^
+**a****b**Lê Hiệp, Vũ Hân, 10 trường hợp “đặc biệt” trúng cử Ban Chấp hành T.Ư khóa XIII, THANH NIÊN ONLINE, 10:17 - 31/01/2021, truy cập 3/2/2021.**c** **^**"Cơ cấu Ủy viên Trung ương Đảng khóa XIII".**^**"Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng khóa XIII".*VTV*. ngày 31 tháng 1 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Khai mạc Hội nghị lần thứ hai Ban Chấp hành T.Ư Đảng khóa XIII".**^**"Trung ương cho ý kiến về 23 nhân sự để Quốc hội bầu, phê chuẩn".**^**"Trung ương thảo luận về phòng, chống Covid-19".**^**"Khai mạc Hội nghị lần thứ 5 Ban Chấp hành Trung ương Đảng khóa XIII".**^**"Khai trừ ra khỏi Đảng các đồng chí Chu Ngọc Anh, Nguyễn Thanh Long".**^**"Tổng Bí thư: Đẩy mạnh công nghiệp hóa đất nước là nhiệm vụ hàng đầu".**^**"Ban Chấp hành Trung ương Đảng khóa XIII đã họp phiên bất thường".**^**"Toàn văn thông cáo phiên họp bất thường của Trung ương về công tác nhân sự".**^**"Trung ương giới thiệu nhân sự để bầu Chủ tịch nước".**^**"Tổng bí thư Nguyễn Phú Trọng phát biểu khai mạc Hội nghị Trung ương giữa nhiệm kỳ".**^**"Khai mạc Hội nghị Trung ương 8 khóa XIII".**^**"Trung ương quyết định nhân sự, kỷ luật cán bộ".**^**"Ban Chấp hành Trung ương Đảng đồng ý để ông Võ Văn Thưởng thôi giữ các chức vụ".**^**"Ban Chấp hành Trung ương Đảng đồng ý để đồng chí Vương Đình Huệ thôi giữ các chức vụ được phân công".**^**"Khai mạc Hội nghị lần thứ chín Ban Chấp hành Trung ương Đảng khóa XIII".**^**"Ban Chấp hành Trung ương Đảng xem xét để đồng chí Đinh Tiến Dũng thôi giữ các chức vụ lãnh đạo và nghỉ công tác".**^**"Chủ tịch nước Tô Lâm được bầu làm Tổng Bí thư".**^**xaydungchinhsach.chinhphu.vn (ngày 17 tháng 8 năm 2024). "Trung ương bầu bổ sung Ủy viên Bộ Chính trị và 3 Ủy viên Ban Bí thư".*xaydungchinhsach.chinhphu.vn*. Truy cập ngày 14 tháng 9 năm 2024.**^**"KHAI MẠC HỘI NGHỊ TRUNG ƯƠNG 10".**^**"Hội nghị Trung ương xem xét phương hướng tinh gọn bộ máy".**^**"Hội nghị Ban Chấp hành Trung ương Đảng khóa XIII".**^**"Khai mạc Hội nghị lần thứ 11 Ban Chấp hành Trung ương Đảng khóa XIII".**^**"Khai mạc Hội nghị Trung ương 12 khóa 13".**^**"Khai mạc Hội nghị lần thứ 13 Ban Chấp hành Trung ương Đảng khóa XIII".**^**"Bế mạc Hội nghị Trung ương 14".**^**"Đồng chí Phạm Minh Chính".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 1 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Bà Trương Thị Mai trở thành nữ Trưởng ban Tổ chức T.Ư đầu tiên của Đảng".**^**"Ông Lê Minh Hưng làm Trưởng Ban Tổ chức Trung ương".**^**"Đồng chí Trần Cẩm Tú".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 1 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Đồng chí Nguyễn Duy Ngọc, Bí thư Trung ương Đảng, Chánh Văn phòng Trung ương Đảng được bầu giữ chức ..."*ubkttw.vn*. ngày 24 tháng 1 năm 2025. Truy cập ngày 2 tháng 2 năm 2025.**^**"Ông Trần Sỹ Thanh làm Chủ nhiệm Ủy ban Kiểm tra Trung ương".**^**"Đồng chí Võ Văn Thưởng".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 1 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Thượng tướng Nguyễn Trọng Nghĩa giữ chức Trưởng Ban Tuyên giáo Trung ương".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 1 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Ông Trịnh Văn Quyết giữ chức Trưởng Ban Tuyên giáo và Dân vận Trung ương".**^**"Đồng chí Nguyễn Xuân Thắng".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 1 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Đồng chí Trương Thị Mai".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 2 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Bà Bùi Thị Minh Hoài làm Trưởng Ban Dân vận Trung ương".**^**Trí, Dân (ngày 21 tháng 8 năm 2024). "Ông Mai Văn Chính làm Trưởng Ban Dân vận Trung ương".*Báo điện tử Dân Trí*. Truy cập ngày 2 tháng 2 năm 2025.**^**"Đồng chí Lê Minh Hưng".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 1 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"TIỂU SỬ ĐỒNG CHÍ NGUYỄN DUY NGỌC, TÂN CHÁNH VĂN PHÒNG TRUNG ƯƠNG ĐẢNG".**^**"Đồng chí Phan Đình Trạc".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 2 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Đồng chí Hoàng Bình Quân".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 2 tháng 7 năm 2018. Truy cập ngày 2 tháng 2 năm 2021.**^**"Bộ Chính trị điều động, bổ nhiệm Trưởng Ban Đối ngoại Trung ương".**^**"Đồng chí Nguyễn Văn Bình".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 2 tháng 5 năm 2018. Truy cập ngày 2 tháng 2 năm 2021.**^**"Ông Trần Tuấn Anh làm Trưởng Ban Kinh tế Trung ương".**^**"Đồng chí Thuận Hữu".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 18 tháng 6 năm 2018. Truy cập ngày 2 tháng 2 năm 2021.**^**"Ủy viên TW Đảng Lê Quốc Minh giữ chức Tổng Biên tập Báo Nhân Dân".**^**"Đồng chí Nguyễn Thị Kim Tiến".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 3 tháng 7 năm 2018. Truy cập ngày 2 tháng 2 năm 2021.**^**"Bộ trưởng Nguyễn Thanh Long làm trưởng Ban Bảo vệ, chăm sóc sức khỏe cán bộ trung ương".**^**"Đồng chí Nguyễn Phú Trọng".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 1 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Đồng chí Tô Lâm".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 1 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Chỉ định Thượng tướng Lương Tam Quang giữ chức Bí thư Đảng ủy Công an Trung ương".- ^
+**a****b****c**baochinhphu.vn (ngày 3 tháng 2 năm 2025). "Tổng Bí thư Tô Lâm trao Quyết định của Bộ Chính trị cho 4 Đảng bộ trực thuộc Trung ương và 3 cơ quan Đảng ở Trung ương".**d***baochinhphu.vn*. Truy cập ngày 6 tháng 2 năm 2025. **^**Thành Chung (ngày 4 tháng 11 năm 2025). "Bí thư Hà Nội Bùi Thị Minh Hoài làm Bí thư Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương".*Báo Tuổi trẻ TPHCM*. Truy cập ngày 6 tháng 11 năm 2025.**^**"Đồng chí Huỳnh Tấn Việt".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 2 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Ông Nguyễn Văn Thể làm Bí thư Đảng ủy Khối các cơ quan Trung ương".**^**"Đồng chí Y Thanh Hà Niê Kdăm".*Hệ thống Tư liệu - Văn kiện Đảng. Báo điện tử Đảng Cộng sản Việt Nam*. ngày 1 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Chủ tịch Bắc Kạn làm Bí thư Đảng ủy khối doanh nghiệp Trung ương".**^**"DANH SÁCH BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG KHÓA XIII".*Báo điện tử Chính phủ nước CHXHCNVN*. ngày 1 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.- ^
+**a****b**"DANH SÁCH TRÚNG CỬ BAN CHẤP HÀNH TRUNG ƯƠNG ĐẢNG KHÓA XIII".**c***Báo Nhân Dân*. ngày 31 tháng 1 năm 2021. Truy cập ngày 2 tháng 2 năm 2021. **^**"Trung tướng Nguyễn Doãn Anh giữ chức Phó Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam".**^**"Thượng tướng Nguyễn Doãn Anh làm Bí thư Tỉnh ủy Thanh Hóa".**^**"Ông Nguyễn Hòa Bình làm Phó Thủ tướng Thường trực".**^**"Ông Đỗ Thanh Bình giữ chức Bí thư Thành ủy Cần Thơ".**^**"Triển khai quyết định của Bộ Chính trị về công tác cán bộ".**^**"Hải Phòng có tân bí thư Thành ủy nhiệm kỳ 2020-2025".**^**"Ông Đỗ Văn Chiến làm Chủ tịch Mặt trận Tổ quốc VN".**^**"Ông Phạm Minh Chính đắc cử Thủ tướng Chính phủ".- ^
+**a**"Ông Mai Văn Chính và Nguyễn Chí Dũng làm Phó thủ tướng".**b** **^**"Thượng tướng Nguyễn Tân Cương giữ chức Tổng tham mưu trưởng Quân đội nhân dân Việt Nam".**^**"Bộ Chính trị phân công Đại tướng Lương Cường giữ chức Thường trực Ban Bí thư".**^**"Đại tướng Lương Cường được bầu làm Chủ tịch nước".**^**"Bình Phước có Bí thư Tỉnh ủy mới".**^**"Ông Nguyễn Mạnh Cường giữ chức Phó Trưởng Ban Đối ngoại Trung ương".**^**"Thủ tướng điều động, bổ nhiệm một số Thứ trưởng Bộ Ngoại giao".**^**"Công bố Quyết định của Bộ Chính trị về việc bổ nhiệm Bí thư Tỉnh ủy Điện Biên".**^**"Ông Hồ Quốc Dũng làm Phó thủ tướng".**^**"Bí thư Tỉnh ủy Hà Tĩnh Hoàng Trung Dũng làm Tổng Biên tập Tạp chí Cộng sản".**^**"Bộ trưởng Huỳnh Thành Đạt giữ chức Phó Trưởng Ban Tuyên giáo và Dân vận Trung ương".- ^
+**a****b****c****d**"Quốc hội có 3 phó chủ tịch mới".**e** **^**"Triển khai quyết định của Bộ Chính trị về công tác cán bộ".**^**"Bộ Chính trị chỉ định tân Bí thư Tỉnh ủy Lạng Sơn".**^**"Bổ nhiệm ông Nguyễn Quốc Đoàn giữ chức Phó Chánh án Tòa án nhân dân Tối cao".**^**"Bí thư Sơn La Nguyễn Hữu Đông làm Phó Ban Nội chính Trung ương".**^**"Bổ nhiệm Phó Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam".**^**"Trung tướng Nguyễn Văn Gấu làm Bí thư Bắc Giang".**^**"Trung tướng Nguyễn Văn Gấu giữ chức Thứ trưởng Bộ Quốc phòng".**^**"Ông Trần Hồng Hà, Trần Lưu Quang làm Phó thủ tướng".**^**"Nguyên Bí thư Ninh Bình làm Phó chủ tịch Mặt trận Tổ quốc".**^**"Bí thư Tỉnh ủy Thái Bình Ngô Đông Hải giữ chức Phó Trưởng Ban Tuyên giáo Trung ương".**^**"Văn phòng Chủ tịch nước có tân Chủ nhiệm".**^**"Bà Nguyễn Thanh Hải làm Trưởng ban Công tác đại biểu".**^**"Ông Nguyễn Tiến Hải giữ chức Bí thư Tỉnh ủy Kiên Giang".**^**"Thủ tướng bổ nhiệm Tư lệnh Quân chủng Phòng không - Không quân".**^**"Bà Bùi Thị Minh Hoài làm Bí thư Thành ủy Hà Nội".**^**"Bầu các ông Vũ Hồng Thanh, Lê Minh Hoan làm phó chủ tịch Quốc hội".**^**"Triển khai quyết định của Bộ Chính trị về công tác cán bộ".**^**"Ông Nguyễn Mạnh Hùng làm Bộ trưởng Khoa học và Công nghệ".**^**"Ông Lê Minh Hưng làm Trưởng Ban Tổ chức Trung ương".**^**"Bà Đào Hồng Lan giữ chức quyền Bộ trưởng Bộ Y tế".**^**"Quốc hội phê chuẩn Bộ trưởng Bộ Y tế".**^**"Đại tướng Tô Lâm làm Chủ tịch nước".**^**"Đồng chí Tô Lâm được bầu giữ chức Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam".**^**"Ông Nguyễn Hồng Lĩnh làm bí thư Tỉnh ủy Đồng Nai".**^**"Bộ trưởng Tư pháp Lê Thành Long làm Phó thủ tướng".**^**"Công bố quyết định của Bộ Chính trị về công tác cán bộ".**^**"Ông Phan Văn Mãi làm Chủ tịch UBND TP.HCM".**^**"Ông Phan Văn Mãi làm Chủ nhiệm Ủy ban Kinh tế và Tài chính của Quốc hội".**^**"Bí thư Thành ủy Cần Thơ Lê Quang Mạnh được bầu làm Chủ nhiệm Ủy ban Tài chính-Ngân sách của Quốc hội".**^**"Quốc hội bầu ông Trần Thanh Mẫn làm Chủ tịch Quốc hội".**^**"Triển khai quyết định của Bộ Chính trị về công tác cán bộ".**^**"Bí thư Cao Bằng Trần Hồng Minh làm Bộ trưởng Giao thông Vận tải".**^**"Triển khai Quyết định của Bộ Chính trị về công tác cán bộ".**^**"Chủ tịch Hội Liên hiệp Phụ nữ Việt Nam Hà Thị Nga làm bí thư Tỉnh ủy Tuyên Quang".**^**"Đồng chí Nguyễn Thanh Nghị giữ chức Trưởng Ban Chính sách, chiến lược Trung ương".**^**"Phó Ban Kinh tế Trung ương được điều động làm Bí thư Tỉnh ủy Hưng Yên".**^**"Thượng tướng Nguyễn Trọng Nghĩa làm Trưởng Ban Tuyên giáo Trung ương".**^**"Ông Nguyễn Trọng Nghĩa giữ chức Chủ nhiệm Tổng cục Chính trị QĐND Việt Nam".**^**"Bộ Chính trị chuẩn y Bí thư Tỉnh ủy Vĩnh Long".**^**"Bí thư Tỉnh ủy Vĩnh Long Bùi Văn Nghiêm làm Phó trưởng Ban Nội chính Trung ương".**^**"Đồng chí Nguyễn Duy Ngọc giữ chức Chánh Văn phòng Trung ương Đảng".**^**"Ông Nguyễn Duy Ngọc giữ chức Bí thư Thành ủy Hà Nội".**^**"Bổ nhiệm 1 Trợ lý Thủ tướng, 2 Trợ lý Phó Thủ tướng và 2 Phó Tổng Tham mưu trưởng QĐND Việt Nam".**^**"Thượng tướng Thái Đại Ngọc giữ chức Bí thư Tỉnh ủy Gia Lai".**^**"Ông Nguyễn Hải Ninh giữ chức bí thư Tỉnh ủy Khánh Hòa".**^**"Đồng chí Đặng Xuân Phong giữ chức Bí thư Tỉnh ủy Vĩnh Phúc".**^**"Quốc hội khóa XV có bốn Phó chủ tịch".**^**"An Giang có tân Bí thư Tỉnh ủy".**^**"Ông Lê Ngọc Quang làm Tổng giám đốc VTV".**^**"Ông Lê Ngọc Quang - Tổng Giám đốc Đài THVN giữ chức Bí thư Tỉnh ủy Quảng Bình".**^**"Ông Trần Lưu Quang làm Bí thư Thành ủy Hải Phòng".**^**"Bí thư Hải Phòng Trần Lưu Quang trở thành tân phó thủ tướng".**^**"Bộ Chính trị điều động ông Trần Lưu Quang làm Trưởng Ban Kinh tế Trung ương".**^**"Đồng chí Trần Lưu Quang làm Bí thư Thành ủy TPHCM".**^**"QUỐC HỘI PHÊ CHUẨN THƯỢNG TƯỚNG LƯƠNG TAM QUANG GIỮ CHỨC BỘ TRƯỞNG BỘ CÔNG AN".**^**"Bí thư Tỉnh ủy Nghệ An Thái Thanh Quý làm Phó trưởng ban Kinh tế T.Ư".**^**https://vietnamnet.vn/vn/thoi-su/chinh-tri/trung-tuong-trinh-van-quyet-lam-pho-chu-nhiem-tong-cuc-chinh-tri-qdnd-viet-nam-732722.html.`{{Chú thích web}}`
+
+:`|title=`
+
+trống hay bị thiếu (trợ giúp); Đã bỏ qua văn bản “Trung tướng Trịnh Văn Quyết làm Phó Chủ nhiệm Tổng cục Chính trị QĐND Việt Nam” (trợ giúp)**^**"Thượng tướng Trịnh Văn Quyết giữ chức Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân".**^**"Ông Trịnh Văn Quyết giữ chức Trưởng Ban Tuyên giáo và Dân vận Trung ương".**^**"Bộ Chính trị chuẩn y 6 Phó Chủ nhiệm Ủy ban Kiểm tra Trung ương khóa XIII".**^**"Bí thư Hưng Yên làm Tổng giám đốc Đài tiếng nói Việt Nam".**^**"Bí thư Tỉnh ủy Tây Ninh làm Phó Ban Tổ chức Trung ương".**^**"Trung tướng Nguyễn Hồng Thái giữ chức Thứ trưởng Bộ Quốc phòng".**^**"Bí thư Lạng Sơn làm Phó Chánh Văn phòng Trung ương Đảng".**^**"Ông Trần Sỹ Thanh được bầu làm chủ tịch UBND TP Hà Nội".**^**"Bầu ông Trần Sỹ Thanh làm Chủ nhiệm Ủy ban Kiểm tra Trung ương".**^**"Bà Nguyễn Thị Thanh trở thành Phó Chủ tịch Quốc hội".**^**"Bộ Chính trị điều động, chỉ định 3 tân Bí thư Tỉnh ủy".**^**"Ông Nghiêm Xuân Thành giữ chức Bí thư Tỉnh ủy Khánh Hòa".**^**"Ông Vũ Đại Thắng giữ chức Bí thư Tỉnh ủy Quảng Ninh".**^**"Phó Chủ nhiệm Ủy ban Kiểm tra Trung ương Trần Đức Thắng giữ chức Bí thư Tỉnh uỷ Hải Dương".**^**"Ông Phạm Tất Thắng được phân công làm Phó Trưởng Ban Dân vận Trung ương".**^**"Trung tướng Nguyễn Trường Thắng làm Thứ trưởng Quốc phòng".**^**"Ông Nguyễn Văn Thắng làm bộ trưởng Bộ Giao thông vận tải".**^**"Ông Nguyễn Văn Thắng giữ chức Bộ trưởng Tài chính".**^**"Bà Phạm Thị Thanh Trà làm Phó thủ tướng".**^**"Ông Lê Minh Trí làm Chánh án TAND Tối cao".**^**"Ông Lê Minh Trí làm Phó Trưởng Ban Thường trực Ban Nội chính Trung ương".**^**"Chủ tịch UBND tỉnh Đắk Nông giữ chức Bí thư Tỉnh uỷ Đắk Lắk".**^**ONLINE, TUOI TRE (ngày 17 tháng 10 năm 2025). "Ông Nguyễn Đình Trung được chỉ định làm Bí thư Thành ủy Huế".*TUOI TRE ONLINE*. Truy cập ngày 17 tháng 10 năm 2025.**^**"Ông Lê Hoài Trung giữ chức Bộ trưởng Ngoại giao".**^**"Ông Trần Cẩm Tú làm Thường trực Ban Bí thư".**^**"Bí thư thứ nhất Trung ương Đoàn Nguyễn Anh Tuấn giữ chức Bí thư Tỉnh ủy Bắc Ninh".**^**"Ông Ngô Văn Tuấn phụ trách Kiểm toán Nhà nước".**^**"Ông Ngô Văn Tuấn giữ chức Tổng Kiểm toán Nhà nước".**^**"Đồng chí Phạm Gia Túc giữ chức Chánh Văn phòng Trung ương Đảng".**^**"Bộ Chính trị điều động, chỉ định bà Nguyễn Thị Tuyến làm Bí thư Đảng đoàn Hội LHPN".**^**"Bà Võ Thị Ánh Xuân làm Phó chủ tịch nước".**^**"Tổng bí thư Nguyễn Phú Trọng từ trần".**^**"Phó Chủ nhiệm Ủy ban Kiểm tra TW Nguyễn Văn Hùng từ trần do tai nạn".**^**"Phó thủ tướng Lê Văn Thành từ trần".**^**"Bí thư Bình Dương bị cách chức".**^**"Bí thư Bến Tre Lê Đức Thọ bị cách tất cả chức vụ trong Đảng".- ^
+**a**"Khai trừ Đảng bộ trưởng Nguyễn Thanh Long và chủ tịch Hà Nội Chu Ngọc Anh".**b** **^**"Bắt nguyên bí thư tỉnh Hải Dương Phạm Xuân Thăng vì liên quan vụ Việt Á".**^**"Bắt ông Trần Đức Quận, bí thư tỉnh ủy Lâm Đồng".**^**"Ủy ban Thường vụ Quốc hội đồng ý khởi tố đối với ông Dương Văn Thái".**^**"Ông Nguyễn Thành Phong giữ chức Phó trưởng Ban Kinh tế Trung ương".- ^
+**a****b**"Ba Ủy viên Trung ương Đảng mất chức".**c** **^**"Phó thủ tướng Vũ Đức Đam thôi Ủy viên Trung ương Đảng".**^**"Phó thủ tướng Phạm Bình Minh thôi Ủy viên Bộ Chính trị".**^**"Ông Nguyễn Xuân Phúc trở thành tân Chủ tịch nước".**^**"Ông Nguyễn Phú Cường thôi Ủy viên Trung ương".**^**"Ông Điểu K'ré thôi Ủy viên Trung ương".- ^
+**a**"Ban Chấp hành Trung ương Đảng xem xét về công tác cán bộ".**b***https://dangcongsan.vn*. Truy cập ngày 31 tháng 1 năm 2024.`{{Chú thích web}}`
+
+: Liên kết ngoài trong
+
+(trợ giúp)`|website=`
+
+**^**"Ông Võ Văn Thưởng làm Chủ tịch nước".**^**"Trung ương Đảng đồng ý để ông Vương Đình Huệ thôi giữ các chức vụ".**^**"Đồng chí Trương Thị Mai thôi giữ chức Ủy viên Bộ Chính trị, Ủy viên Trung ương Đảng".**^**"Bộ Chính trị đồng ý để đồng chí Đinh Tiến Dũng thôi giữ chức Bí thư Thành uỷ Hà Nội".**^**"Bí thư Tỉnh ủy Hà Giang Đặng Quốc Khánh làm Bộ trưởng Bộ TN&MT".**^**"Ông Dương Văn An làm Bí thư Tỉnh ủy Vĩnh Phúc".**^**thanhnien.vn (ngày 6 tháng 10 năm 2025). "Ông Lê Quang Huy thôi Ủy viên Trung ương Đảng khóa XIII".*Báo Thanh Niên*. Truy cập ngày 20 tháng 10 năm 2025.**^**"Phó Trưởng Ban Tuyên giáo Trung ương Lê Hải Bình làm Tổng Biên tập Tạp chí Cộng sản".**^**"Ông Lê Hải Bình giữ chức Thứ trưởng Bộ Văn hóa, Thể thao và Du lịch".**^**"Ông Nguyễn Long Hải giữ chức Phó bí thư Đảng ủy các cơ quan Đảng Trung ương".- ^
+**a**"Ông Nguyễn Long Hải giữ chức Bí thư Tỉnh ủy Quảng Trị".**b** **^**"Bộ Chính trị chuẩn y chức vụ Phó Bí thư Tỉnh ủy Kon Tum".**^**"Ông Trịnh Việt Hùng giữ chức Bí thư Tỉnh ủy Lào Cai".**^**"Ông Bùi Quang Huy được bầu làm Bí thư thứ Nhất Trung ương Đoàn".**^**"Điều động, chỉ định Ủy viên Dự khuyết Trung ương Đảng giữ chức Bí thư Thành ủy Nha Trang".**^**"Bí thư Nha Trang giữ chức Phó Bí thư Tỉnh ủy An Giang".**^**"Đồng chí Phan Như Nguyện giữ chức Phó Chủ tịch Ban Chấp hành Trung ương Hội Nông dân Việt Nam".**^**"Đắk Lắk có tân Chủ tịch HĐND tỉnh nhiệm kỳ mới".**^**ONLINE, TUOI TRE (ngày 6 tháng 9 năm 2025). "Chủ tịch TP Đà Nẵng Lương Nguyễn Minh Triết được chỉ định làm Bí thư Thành ủy Đà Nẵng".*TUOI TRE ONLINE*. Truy cập ngày 17 tháng 10 năm 2025.**^**ONLINE, TUOI TRE (ngày 16 tháng 10 năm 2025). "Ông Lương Nguyễn Minh Triết giữ chức Bí thư Tỉnh ủy Đắk Lắk".*TUOI TRE ONLINE*. Truy cập ngày 17 tháng 10 năm 2025.**^**"Ông Vương Quốc Tuấn làm chủ tịch UBND tỉnh Bắc Ninh".**^**"Ông Mùa A Vảng giữ chức Chủ tịch Ủy ban MTTQ tỉnh Điện Biên".**^**"Bộ Chính trị điều động, chỉ định Chủ tịch tỉnh giữ chức Phó Bí thư Tỉnh ủy".**^**"Bí thư TP Cần Thơ Nguyễn Văn Hiếu làm Phó Ban Tuyên giáo Trung ương".**^**"Thời gian thôi giữ chức vụ của đồng chí Vương Đình Huệ".*dangcongsan.vn*. ngày 26 tháng 4 năm 2024.**^**"Danh sách Ban Bí thư Trung ương Đảng Cộng sản Việt Nam khóa XIII".*Trang thông tin của Thông tấn xã Việt Nam*. ngày 31 tháng 1 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**baochinhphu.vn (ngày 3 tháng 8 năm 2024). "Đồng chí Tô Lâm được bầu giữ chức Tổng Bí thư Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam".*baochinhphu.vn*. Truy cập ngày 3 tháng 8 năm 2024.- ^
+**a****b****c**`{{Chú thích web}}`
+
+: Chú thích trống (trợ giúp) **^**ONLINE, TUOI TRE (ngày 21 tháng 10 năm 2024). "Đại tướng Lương Cường được bầu làm Chủ tịch nước".*TUOI TRE ONLINE*. Truy cập ngày 25 tháng 10 năm 2024.**^**"Ông Võ Văn Thưởng được Quốc hội bầu giữ chức Chủ tịch nước".**^**"Bà Trương Thị Mai thôi chức Thường trực Ban Bí thư".`{{Chú thích web}}`
+
+:`|url=`
+
+trống hay bị thiếu (trợ giúp); Đã bỏ qua văn bản “https://vnexpress.net/ba-truong-thi-mai-thoi-chuc-thuong-truc-ban-bi-thu-4741770.html” (trợ giúp)**^**"Danh sách Ủy ban Kiểm tra Trung ương khóa XIII".*Trang thông tin Điện tử của Ủy ban Kiểm tra Trung ương*. ngày 1 tháng 2 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"19 ủy viên Ban chấp hành Trung ương Đảng khóa XIII là nữ".*Phụ nữ tỉnh Thái Bình*. ngày 1 tháng 2 năm 2021. Bản gốc lưu trữ ngày 6 tháng 2 năm 2021. Truy cập ngày 1 tháng 2 năm 2021.**^**"13 Ủy viên Trung ương Đảng khóa XIII là người dân tộc thiểu số".*Báo Dân tộc và Phát triển*. ngày 31 tháng 1 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"Trung ương khóa XIII họp Hội nghị lần thứ nhất".*VnExpress*. ngày 31 tháng 1 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.**^**"6 đồng chí lãnh đạo Bộ Công an trúng cử Ban Chấp hành Trung ương Đảng khoá XIII".*Báo Công an Nhân dân Online*. ngày 30 tháng 1 năm 2021. Truy cập ngày 2 tháng 2 năm 2021.

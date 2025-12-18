@@ -1,0 +1,49 @@
+### Làm tốt công tác tư tưởng, chế độ, chính sách khi sắp xếp bộ máy, bố trí cán bộ
+
+Thay mặt Bộ Chính trị, Thường trực Ban Bí thư Trần Cẩm Tú đã ký Kết luận số 126-KL/TW ngày 14/2/2025 của Bộ Chính trị, Ban Bí thư về một số nội dung, nhiệm vụ tiếp tục sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị năm 2025. Trong đó, có yêu cầu nghiên cứu định hướng tiếp tục sắp xếp bỏ cấp hành chính trung gian (cấp huyện); định hướng sáp nhập một số đơn vị hành chính cấp tỉnh;…
+
+Theo đó, căn cứ các kết luận của Trung ương và kế hoạch, lộ trình triển khai nhiệm vụ trong năm 2025 của các cơ quan, đơn vị, địa phương, Kết luận nêu rõ yêu cầu các cấp uỷ trực thuộc Trung ương tập trung lãnh đạo, chỉ đạo thực hiện quyết liệt các nhiệm vụ, giải pháp nêu tại Kết luận số 121-KL/TW, bảo đảm đúng lộ trình, tiến độ theo Kế hoạch.
+
+Đồng thời, khẩn trương hoàn thiện tổ chức bên trong các cơ quan, đơn vị gắn với hoạt động của các đảng bộ, chi bộ (nhất là đối với 4 đảng bộ trực thuộc Trung ương và 2 đảng bộ trực thuộc tỉnh ủy, thành uỷ trực thuộc Trung ương mới thành lập), bảo đảm việc tổ chức đại hội đảng các cấp theo đúng tiến độ, nội dung yêu cầu nêu tại Chỉ thị số 35-CT/TW và Kết luận số 118-KL/TW của Bộ Chính trị.
+
+Quá trình sắp xếp tổ chức bộ máy, bố trí cán bộ phải tiếp tục làm tốt công tác chính trị, tư tưởng, chế độ, chính sách đối với cán bộ bị tác động, ảnh hưởng.
+
+Bố trí cán bộ phải công tâm, khách quan theo tinh thần "từ việc chọn người", giữ được những cán bộ có năng lực, không để "chảy máu chất xám", không để phát sinh những vấn đề phức tạp về nội bộ, không để ảnh hưởng đến việc tổ chức đại hội đảng bộ các cấp, bảo đảm trong tháng 3/2025 tiến hành tổ chức đại hội cấp cơ sở, đại hội điểm cấp trên trực tiếp cơ sở vào đầu quý II/2025.
+
+## Khẩn trương hoàn thiện Đề án tổ chức lại hệ thống thanh tra
+
+Về tiếp tục thực hiện sắp xếp, hoàn thiện tổ chức bộ máy của hệ thống chính trị trong năm 2025 và nhiệm kỳ 2025 – 2030, Kết luận nêu rõ, giao Đảng uỷ Quốc hội, Đảng uỷ Chính phủ, Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương, các ban đảng Trung ương, cấp ủy, tổ chức đảng các cấp tiếp tục khẩn trương nghiên cứu, đề xuất sửa đổi, bổ sung các quy định của Đảng, pháp luật của Nhà nước, cơ chế, chính sách liên quan để có cơ sở pháp lý triển khai hoàn thiện mô hình tổng thể của hệ thống chính trị trong thời gian tới, bảo đảm đồng bộ trong quá trình thực hiện tinh gọn tổ chức bộ máy.
+
+Giao Đảng ủy Chính phủ: Chỉ đạo Đảng uỷ Thanh tra Chính phủ và các cơ quan, đơn vị liên quan khẩn trương hoàn thiện Đề án tổ chức lại hệ thống thanh tra.
+
+Lãnh đạo, chỉ đạo rà soát, đánh giá, tổ chức lại hoạt động của các tổ chức đảng trong các tập đoàn, tổng công ty, ngân hàng thương mại nhà nước theo hướng chuyển các đảng bộ cơ sở (doanh nghiệp) thuộc đảng bộ các tập đoàn, tổng công ty về trực thuộc cấp uỷ địa phương theo địa bàn hoạt động sản xuất kinh doanh (báo cáo Ban Bí thư vào cuối quý II/2025).
+
+### Nghiên cứu định hướng tiếp tục sắp xếp bỏ cấp hành chính trung gian (cấp huyện); sáp nhập một số đơn vị hành chính cấp tỉnh
+
+Chủ trì, phối hợp với Ban Tổ chức Trung ương, Đảng uỷ Quốc hội, các cấp uỷ, tổ chức đảng có liên quan nghiên cứu định hướng tiếp tục sắp xếp bỏ cấp hành chính trung gian (cấp huyện);
+
+Xây dựng phương án tiếp tục sắp xếp cấp xã phù hợp với mô hình tổ chức mới, đề xuất tổ chức bộ máy, chức năng, nhiệm vụ, quyền hạn, trách nhiệm của cấp xã;
+
+Định hướng sáp nhập một số đơn vị hành chính cấp tỉnh;
+
+Đề xuất chủ trương sửa đổi, bổ sung các quy định pháp luật, quy định của Đảng có liên quan, báo cáo Bộ Chính trị trong quý III/2025.
+
+Giao Đảng uỷ Công an Trung ương chủ trì, phối hợp với các cơ quan liên quan và các tỉnh uỷ, thành uỷ lãnh đạo, chỉ đạo triển khai Đề án tổ chức Công an 3 cấp, không tổ chức Công an cấp huyện, bảo đảm đúng mục tiêu, yêu cầu, tiến độ đề ra.
+
+### Nghiên cứu, tham mưu mô hình cơ quan tòa án, viện kiểm sát theo định hướng bỏ cấp huyện
+
+Giao Đảng uỷ các cơ quan Đảng Trung ương lãnh đạo, chỉ đạo Đảng uỷ Toà án nhân dân tối cao, Đảng uỷ Viện Kiểm sát nhân dân tối cao nghiên cứu, tham mưu về mô hình cơ quan (toà án, viện kiểm sát) theo định hướng bỏ cấp trung gian (cấp huyện) và đề xuất bổ sung, sửa đổi các cơ chế, chính sách của Đảng, pháp luật của Nhà nước có liên quan;
+
+Tiếp tục đổi mới tổ chức, nâng cao chất lượng hoạt động của tòa án nhân dân, viện kiểm sát nhân dân đáp ứng yêu cầu cải cách tư pháp trong tình hình mới;
+
+Báo cáo Bộ Chính trị trong quý II/2025.
+
+### Nghiên cứu định hướng sắp xếp cơ quan báo chí địa phương; tiếp tục sắp xếp tổ chức Quân đội
+
+Giao Ban Tuyên giáo và Dân vận Trung ương chủ trì, phối hợp với Ban Tổ chức Trung ương, Đảng ủy Chính phủ, các cấp uỷ, tổ chức đảng nghiên cứu định hướng việc sắp xếp cơ quan báo chí địa phương theo hướng sáp nhập cơ quan phát thanh, truyền hình thuộc uỷ ban nhân dân cấp tỉnh vào cơ quan báo của đảng bộ tỉnh, thành phố trực thuộc Trung ương.
+
+Giao Quân ủy Trung ương chủ trì, phối hợp với Ban Tổ chức Trung ương, Đảng uỷ Chính phủ, Đảng uỷ Quốc hội, các cấp ủy, tổ chức đảng có liên quan nghiên cứu định hướng tiếp tục sắp xếp tổ chức Quân đội (trong đó có tổ chức của cơ quan quân sự cấp huyện);
+
+Đề xuất bổ sung, sửa đổi các cơ chế, chính sách của Đảng, pháp luật của Nhà nước có liên quan, báo cáo Bộ Chính trị trong quý III/2025.
+
+**Nguyễn Hoàng**

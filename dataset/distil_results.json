@@ -1,0 +1,932 @@
+[
+  {
+    "qid": "val_0001",
+    "question": "Đoạn thông tin:\n[1] Tiêu đề: Khỉ thí nghiệm\nNội dung: Khỉ thí nghiệm là thuật ngữ chỉ về các loài linh trưởng (trừ con người), thông thường là các loài khỉ được sử dụng trong thí nghiệm y khoa (NHPs).",
+    "predicted": "Khỉ vàng",
+    "pred_norm": "Khỉ vàng",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0002",
+    "question": "Ngôi chùa Ba La Mật được khai dựng vào năm nào?",
+    "predicted": "1900",
+    "pred_norm": "1900",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0003",
+    "question": "Việc đưa ra các quy định về thuế, pháp luật đã tác động đến lĩnh vực:",
+    "predicted": "Kinh tế",
+    "pred_norm": "Kinh tế",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0004",
+    "question": "Một cửa hàng tạp hóa địa phương đã tăng giá một món đồ ăn vặt phổ biến từ 2,00 đô la lên 2,50 đô la, và lượng cầu giảm từ 100 đơn vị xuống 80 đơn vị. Sử dụng công thức trung điểm, hãy xác định độ co g",
+    "predicted": "-1.0",
+    "pred_norm": "-1.0",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0005",
+    "question": "Điện trở tương đương khi hai điện trở, R1 và R2, được mắc song song là gì?",
+    "predicted": "$ \\\\frac{R_1 \\cdot R_2}{R_1 + R_2} $",
+    "pred_norm": "$ \\\\frac{R_1 \\cdot R_2}{R_1 + R_2} $",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0006",
+    "question": "Bạn nên làm gì khi bắt tay?",
+    "predicted": "Giao tiếp bằng mắt và mỉm cười",
+    "pred_norm": "Giao tiếp bằng mắt và mỉm cười",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0007",
+    "question": "Đoạn thông tin:\n-- Đoạn văn 1 --\nTiêu đề: Hà Thành đầu độc - Phản ứng của nhà cầm quyền Đông Pháp. Xử tử.\nNội dung: 1. Đợt 1: Ngày 8 tháng 7 năm 1908, quân Pháp đưa 3 người đầu tiên: Đặng Đình Nhân (Đ",
+    "predicted": "Không có câu trả lời",
+    "pred_norm": "Không có câu trả lời",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0008",
+    "question": "Giả sử một chủ doanh nghiệp tư nhân vay nợ cá nhân. Câu nào sau đây là đúng về khoản nợ này?",
+    "predicted": "Chủ doanh nghiệp tư nhân phải chịu trách nhiệm cá nhân đối với khoản nợ.",
+    "pred_norm": "Chủ doanh nghiệp tư nhân phải chịu trách nhiệm cá nhân đối với khoản nợ.",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0009",
+    "question": "Đoạn thông tin:\nFrançois Mitterrand\nVới sự chú trọng tới các chính sách văn hoá và xã hội, Mitterrand đã bãi bỏ hình phạt tử hình ngay khi lên nhậm chức (thông qua Đạo luật Badinter), cũng như \"Đạo lu",
+    "predicted": "Người khởi xướng và ra quyết định chính (l'inspirateur et le décideur de l'essentiel).",
+    "pred_norm": "Người khởi xướng và ra quyết định chính (l'inspirateur et le décideur de l'essentiel).",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0010",
+    "question": "Đoạn thông tin:\nTiêu đề: Thú bơi lội\nNội dung: Thú thủy hợp (hay còn gọi là thú bơi lội hay còn gọi là thú thủy sinh hay động vật có vú sống dưới nước hay thú thích nước) là tên gọi chỉ về một nhóm độ",
+    "predicted": "Lợn biển (Manatee) và cá heo sông Amazon",
+    "pred_norm": "Lợn biển (Manatee) và cá heo sông Amazon",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0011",
+    "question": "Đoạn thông tin:\n[1] Tiêu đề: Cuba\nNội dung: II. Chính trị\n2. Liên đoàn thương mại\n\nCó các liên đoàn kinh tế tại Cuba, với số thành viên lên tới 98% nhân lực hòn đảo này. Các liên đoàn không đăng ký vớ",
+    "predicted": "CTC là công cụ để chính phủ kiểm soát công đoàn và chỉ định lãnh đạo.",
+    "pred_norm": "CTC là công cụ để chính phủ kiểm soát công đoàn và chỉ định lãnh đạo.",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0012",
+    "question": "Một sợi dây có chiều dài $ L $ và mật độ khối lượng tuyến tính $ \\mu $ được giữ cố định ở cả hai đầu và chịu lực căng $ T $. Sợi dây được kích thích dao động sao cho tạo ra một sóng dừng với $ n $ nút",
+    "predicted": "$ f_1 $ tăng gấp đôi",
+    "pred_norm": "$ f_1 $ tăng gấp đôi",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0013",
+    "question": "Khẳng định nào là đúng về chú thích trong Python?",
+    "predicted": "Tất cả các đáp án trên.",
+    "pred_norm": "Tất cả các đáp án trên.",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0014",
+    "question": "Trong thủ tục nhập quốc tịch Việt Nam, giấy tờ nào sau đây là bắt buộc để chứng minh người xin nhập tịch không sử dụng quốc tịch nước ngoài gây phương hại đến an ninh và lợi ích quốc gia?",
+    "predicted": "Bản cam kết không sử dụng quốc tịch nước ngoài gây phương hại đến an ninh, lợi ích quốc gia",
+    "pred_norm": "Bản cam kết không sử dụng quốc tịch nước ngoài gây phương hại đến an ninh, lợi ích quốc gia",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0015",
+    "question": "Đoạn thông tin:\n-- Đoạn văn 1 --\nTiêu đề:\nNội dung: Tổ chức Hiệp ước Bắc Đại Tây Dương (tiếng Anh: North Atlantic Treaty Organization, NATO; tiếng Pháp: Organisation du traité de l'Atlantique nord, OT",
+    "predicted": "Hoa Kỳ từ bỏ chính sách không liên minh quân sự trong thời bình vào năm 1949 và thành lập NATO.",
+    "pred_norm": "Hoa Kỳ từ bỏ chính sách không liên minh quân sự trong thời bình vào năm 1949 và thành lập NATO.",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0016",
+    "question": "Trong một thí nghiệm phân tán hạt, tiết diện vi phân $ \\frac{d\\sigma}{d\\Omega} $ cho sự phân tán vào một góc khối $ d\\Omega $ được cho bởi công thức Rutherford:\n$$\n\\frac{d\\sigma}{d\\Omega} = \\left( \\fr",
+    "predicted": "4",
+    "pred_norm": "4",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0017",
+    "question": "Nước Cộng hòa xã hội chủ nghĩa Việt Nam là một hệ thống bao gồm tập hợp các cơ quan:",
+    "predicted": "Cả ba phương án còn lại đều đúng",
+    "pred_norm": "Cả ba phương án còn lại đều đúng",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0018",
+    "question": "Tính khách quan của chân lý thể hiện ở chỗ nào?",
+    "predicted": "Nó phù hợp với hiện thực khách quan và không lệ thuộc vào ý thức của con người",
+    "pred_norm": "Nó phù hợp với hiện thực khách quan và không lệ thuộc vào ý thức của con người",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0019",
+    "question": "Đoạn thông tin:\n-- Document 1 --\nTitle: Assume Form\nContent: Assume Form là album phòng thu thứ tư của nam ca sĩ kiêm sáng tác nhạc–nhà sản xuất thu âm người Anh James Blake. Album được Polydor Record",
+    "predicted": "Assume Form mang âm hưởng lạc quan và phấn khởi, trái ngược với phong cách 'hoàn toàn buồn bã chán nản' của The Colour In Anything.",
+    "pred_norm": "Assume Form mang âm hưởng lạc quan và phấn khởi, trái ngược với phong cách 'hoàn toàn buồn bã chán nản' của The Colour In Anything.",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0020",
+    "question": "Một hạt đang chuyển động với tốc độ $0.6c$, trong đó $c$ là tốc độ ánh sáng. Động lượng tương đối $p$ của hạt là bao nhiêu nếu khối lượng nghỉ của nó là $m_0$?",
+    "predicted": "$ 1.5m_0c $",
+    "pred_norm": "$ 1.5m_0c $",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0021",
+    "question": "Câu hỏi nào sau đây là phát biểu chính xác về toàn cầu hóa và tác động của nó đến các nước phát triển?",
+    "predicted": "Toàn cầu hóa mang lại cơ hội mới cho các nước phát triển mở rộng thị trường của họ.",
+    "pred_norm": "Toàn cầu hóa mang lại cơ hội mới cho các nước phát triển mở rộng thị trường của họ.",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0022",
+    "question": "Theo cách nào thì việc làm theo nguyên tắc \"employment at will\" liên quan đến các khiếu nại về sa thải sai trái?",
+    "predicted": "Các khiếu nại về sa thải sai trái cung cấp các ngoại lệ cho nguyên tắc \"employment at will\"",
+    "pred_norm": "Các khiếu nại về sa thải sai trái cung cấp các ngoại lệ cho nguyên tắc \"employment at will\"",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0023",
+    "question": "Trong một phân tích tài chính, Emily nhận thấy rằng một công ty có tỷ số hiện hành là 1,5. Cô cũng nhận thấy rằng các khoản nợ ngắn hạn của công ty là 30.000 đô la. Để đánh giá thêm về tính thanh khoả",
+    "predicted": "45.000 đô la",
+    "pred_norm": "45.000 đô la",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0024",
+    "question": "Xét hàm số $ h(x) = x^4 - 4x^3 + 6x^2 - 4x + 1 $. Giả sử $ k(x) $ là đạo hàm bậc hai của $ h(x) $. Hàm số $ h(x) $ có bao nhiêu điểm uốn?",
+    "predicted": "1",
+    "pred_norm": "1",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0025",
+    "question": "Công thức hoá học của oxit có thành phần phần trăm của S là 40%:",
+    "predicted": "SO_3",
+    "pred_norm": "SO_3",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0026",
+    "question": "Một máy bay không người lái đang bay ở độ cao không đổi và được sử dụng để đo khoảng cách đến một điểm trên mặt đất. Nếu máy bay không người lái đang bay ở độ cao 100 mét và khoảng cách ngang đến điểm",
+    "predicted": "180,28 mét",
+    "pred_norm": "180,28 mét",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0027",
+    "question": "Một hạt chuyển động dọc theo trục y với vị trí của nó được cho bởi hàm số $ y(t) = t^4 - 8t^3 + 18t^2 - 10 $. Ở thời điểm $ t $ nào thì hạt đạt được gia tốc nhỏ nhất trong khoảng $ 0 \\leq t \\leq 5 $?",
+    "predicted": "t = 2",
+    "pred_norm": "t = 2",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0028",
+    "question": "Nếu một doanh nghiệp có chi phí biến đổi trung bình là 15 đô la và chi phí biên là 20 đô la, thì tác động đến chi phí biến đổi trung bình sẽ như thế nào nếu lượng sản phẩm đầu ra tăng thêm một đơn vị?",
+    "predicted": "Chi phí biến đổi trung bình sẽ tăng.",
+    "pred_norm": "Chi phí biến đổi trung bình sẽ tăng.",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0029",
+    "question": "Theo thông tin được cung cấp, tỉnh nào sau đây đã được sáp nhập vào tỉnh Gia Lai để hình thành tỉnh Gia Lai hiện tại?",
+    "predicted": "Đắk Lắk",
+    "pred_norm": "Đắk Lắk",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0030",
+    "question": "Trong phong trào chính trị quốc tế, đảng cánh Tả được coi là đảng có xu hướng",
+    "predicted": "Tiến bộ, dân chủ, tự do, đại diện cho giai cấp nông dân, bình dân, vô sản lớp dưới",
+    "pred_norm": "Tiến bộ, dân chủ, tự do, đại diện cho giai cấp nông dân, bình dân, vô sản lớp dưới",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0031",
+    "question": "Khí nhà kính nào chiếm khoảng một nửa khối lượng khí nhà kính?",
+    "predicted": "Điôxít Cacbon (CO2)",
+    "pred_norm": "Điôxít Cacbon (CO2)",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0032",
+    "question": "Đoạn thông tin:\n[1] Tiêu đề: địa điểm giao dịch và thời gian làm việc\nNội dung: Để tìm thông tin về địa chỉ và thời gian làm việc của Điểm giao dịch VNPT Vinaphone anh chị vui lòng truy cập vào đường ",
+    "predicted": "Đến trực tiếp các Điểm giao dịch Vinaphone",
+    "pred_norm": "Đến trực tiếp các Điểm giao dịch Vinaphone",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0033",
+    "question": "Một khối lượng $ m $ được gắn vào một lò xo có hằng số đàn hồi $ k $ và dao động theo phương ngang trên một mặt phẳng không ma sát. Khối lượng ban đầu được kéo lệch một khoảng $ A $ so với vị trí cân ",
+    "predicted": "$ 1 + \\left(\\\\frac{v_0}{\\\\omega A}\\right)^2 $",
+    "pred_norm": "$ 1 + \\left(\\\\frac{v_0}{\\\\omega A}\\right)^2 $",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0034",
+    "question": "Làm thế nào việc mở rộng Medicaid ảnh hưởng đến khả năng tiếp cận dịch vụ chăm sóc dự phòng cho những người có thu nhập thấp?",
+    "predicted": "Việc mở rộng Medicaid làm tăng khả năng tiếp cận dịch vụ chăm sóc dự phòng cho những người có thu nhập thấp.",
+    "pred_norm": "Việc mở rộng Medicaid làm tăng khả năng tiếp cận dịch vụ chăm sóc dự phòng cho những người có thu nhập thấp.",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0035",
+    "question": "Theo quy trình cấp Chứng nhận trường mầm non đạt kiểm định chất lượng giáo dục, thành phần hồ sơ bắt buộc gồm những tài liệu nào?",
+    "predicted": "01 bản chính báo cáo tự đánh giá và 01 bản chính công văn đăng ký",
+    "pred_norm": "01 bản chính báo cáo tự đánh giá và 01 bản chính công văn đăng ký",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0036",
+    "question": "Nguyên lý về sự lựa chọn hợp lý phát biểu rằng, bạn sẽ lựa chọn việc sử dụng thu nhập tăng thêm của mình để cho:",
+    "predicted": "Độ thỏa dụng biên trên mỗi đồng là lớn nhất.",
+    "pred_norm": "Độ thỏa dụng biên trên mỗi đồng là lớn nhất.",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0037",
+    "question": "Nhiệm vụ nào sau đây KHÔNG thuộc khoa học xã hội?",
+    "predicted": "Nghiên cứu công thức hóa học của các hợp chất",
+    "pred_norm": "Nghiên cứu công thức hóa học của các hợp chất",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0038",
+    "question": "Một chất phóng xạ phân rã theo phương trình vi phân $ \\frac{dA}{dt} = -kA $, trong đó $ A $ là lượng chất và $ k $ là một hằng số. Nếu lượng ban đầu là 500 gam và nó giảm xuống còn 250 gam sau 4 năm, ",
+    "predicted": "125 gam",
+    "pred_norm": "125 gam",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0039",
+    "question": "Nguyễn Ái Quốc đã mở nhiều lớp huấn luyện đào tạo cán bộ cho cách mạng Việt Nam ở đâu",
+    "predicted": "Quảng Châu (Trung Quốc)",
+    "pred_norm": "Quảng Châu (Trung Quốc)",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0040",
+    "question": "Một nhà nghiên cứu đang kiểm định giả thuyết không $ H_0: \\mu = 50 $ đối với giả thuyết thay thế $ H_1: \\mu > 50 $ bằng cách sử dụng một mẫu có kích thước $ n = 36 $ từ một quần thể có phân phối chuẩn",
+    "predicted": "D. Giá trị thống kê t nằm trong khoảng từ 2,0 đến 2,5",
+    "pred_norm": "D. Giá trị thống kê t nằm trong khoảng từ 2,0 đến 2,5",
+    "label": "E",
+    "label_norm": "E",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0041",
+    "question": "Theo quan điểm của Chủ Tịch Hồ Chí Minh, con đường giải phóng dân tộc hướng tới mục tiêu nào?",
+    "predicted": "Một xã hội bình đẳng, công bằng, không có áp bức bóc lột",
+    "pred_norm": "Một xã hội bình đẳng, công bằng, không có áp bức bóc lột",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0042",
+    "question": "Trong một nền kinh tế hai hàng hóa, nếu giá của hàng hóa X là 5 đô la và giá của hàng hóa Y là 10 đô la, và người tiêu dùng có thu nhập là 100 đô la, thì độ dốc của đường ngân sách là bao nhiêu?",
+    "predicted": "-0.5",
+    "pred_norm": "-0.5",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0043",
+    "question": "Một phân tử của một hợp chất nhất định có mô men lưỡng cực $ \\mu $ và được đặt trong một trường điện đều $ E $. Phân tử có thể định hướng theo trường, và năng lượng thế $ U $ của phân tử trong trường ",
+    "predicted": "$ -\\\\frac{\\\\mu E}{2} $",
+    "pred_norm": "$ -\\\\frac{\\\\mu E}{2} $",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0044",
+    "question": "Cách trách nhiệm xã hội của doanh nghiệp (CSR) thường mang lại lợi ích gì cho doanh nghiệp?",
+    "predicted": "cải thiện hình ảnh công chúng của doanh nghiệp",
+    "pred_norm": "cải thiện hình ảnh công chúng của doanh nghiệp",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0045",
+    "question": "Đoạn thông tin:\n[1] Tiêu đề: Tiếng Hindustan Caribe\nNội dung: Tiếng Hindustan Caribe là một ngôn ngữ Ấn-Arya được sử dụng bởi người Ấn-Caribe và cộng đồng Ấn-Caribe nhập cư. Nó dựa trên tiếng Bhojpur ",
+    "predicted": "Tiếng Bhojpur, Awadh và các phương ngữ Đông Hindi khác",
+    "pred_norm": "Tiếng Bhojpur, Awadh và các phương ngữ Đông Hindi khác",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0046",
+    "question": "Đoạn thông tin:\nTitle: Chi Linh lăng\nContent: Chi Linh lăng hay chi Cỏ ba lá thập tự (danh pháp khoa học: Medicago) là một chi thực vật trong họ Đậu (Fabaceae), có hoa sống lâu năm, chủ yếu được nói đ",
+    "predicted": "Vì cỏ linh lăng có hiện tượng tự gây độc, ngăn cản nảy mầm của hạt",
+    "pred_norm": "Vì cỏ linh lăng có hiện tượng tự gây độc, ngăn cản nảy mầm của hạt",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0047",
+    "question": "Một trường từ đều $ B $ hướng dọc theo trục z. Một khung dây hình chữ nhật có chiều rộng $ w $ và chiều cao $ h $ nằm trong mặt phẳng xy và mang dòng điện $ I $. Khung dây ban đầu đứng yên và có thể q",
+    "predicted": "$ B I w h \\\\sin(\\\\theta) $",
+    "pred_norm": "$ B I w h \\\\sin(\\\\theta) $",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0048",
+    "question": "Đoạn thông tin:\n[1] Tiêu đề: Kẻ trộm Mặt Trăng\nNội dung: Despicable Me (tạm dịch: Tôi ti tiện, phát hành ở Việt Nam dưới tên Kẻ trộm mặt trăng) là một bộ phim hoạt hình 3D của Universal Pictures và Il",
+    "predicted": "Perkins (chủ tịch Ngân hàng Xấu xa)",
+    "pred_norm": "Perkins (chủ tịch Ngân hàng Xấu xa)",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0049",
+    "question": "Lãi suất danh nghĩa là 10% được tính theo kỳ bán niên, vậy lãi suất hàng năm hiệu quả là bao nhiêu?",
+    "predicted": "10.25%",
+    "pred_norm": "10.25%",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0050",
+    "question": "Chủ Tịch Hồ Chí Minh đã tiếp thu những giá trị tích cực nào từ Nho giáo để phục vụ cách mạng?",
+    "predicted": "Lý tưởng xã hội bình trị và đại đồng",
+    "pred_norm": "Lý tưởng xã hội bình trị và đại đồng",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0051",
+    "question": "Một công ty có một khoản nợ phải trả với số tiền gốc là 80.000 đô la và lãi suất hàng năm là 6%. Nếu lãi suất được tính theo kỳ hạn hàng năm, số tiền phải trả tổng cộng vào cuối 2 năm là bao nhiêu?",
+    "predicted": "89600 đô la",
+    "pred_norm": "89600 đô la",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0052",
+    "question": "Các giá trị Chân – Thiện – Mỹ hợp thành hệ thống giá trị chuẩn mực của văn hóa, trong đó giá trị Mỹ được hiểu là cái đẹp, sự thẩm mỹ hóa, sự hài hòa. Nó là sản phẩm của lĩnh vực Nghệ Thuật và biểu hiệ",
+    "predicted": "Nhân văn",
+    "pred_norm": "Nhân văn",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0053",
+    "question": "Đoạn thông tin:\nTitle: Cổ Thiên Lạc\nContent: Cổ Thiên Lạc (sinh ngày 21 tháng 10 năm 1970) là một diễn viên và ca sĩ người Hồng Kông. Anh từng là gương mặt nổi bật và diễn viên chủ chốt của đài truyền",
+    "predicted": "Viết tắt tên tiếng Anh của anh là KooL",
+    "pred_norm": "Viết tắt tên tiếng Anh của anh là KooL",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0054",
+    "question": "Điều gì xảy ra khi tiết kiệm thực tế khác với tiết kiệm theo kế hoạch?",
+    "predicted": "Điều chỉnh tồn kho",
+    "pred_norm": "Điều chỉnh tồn kho",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0055",
+    "question": "Cuộc thi người mẫu nào tổ chức quy mô toàn quốc phải có giấy phép của ai?",
+    "predicted": "Bộ Văn hóa, Thể thao và Du lịch",
+    "pred_norm": "Bộ Văn hóa, Thể thao và Du lịch",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0056",
+    "question": "Những trường hợp nào khoan giếng không phải đăng ký khai thác?",
+    "predicted": "D. Tất cả đáp án trên.",
+    "pred_norm": "D. Tất cả đáp án trên.",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0057",
+    "question": "Tri giác phản ánh điều gì?",
+    "predicted": "Sự vật, hiện tượng một cách trọn vẹn",
+    "pred_norm": "Sự vật, hiện tượng một cách trọn vẹn",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0058",
+    "question": "VNNIC là tên viết tắt của đơn vị nào?",
+    "predicted": "Trung tâm Internet Việt Nam, đơn vị thuộc Bộ Thông tin và Truyền thông.",
+    "pred_norm": "Trung tâm Internet Việt Nam, đơn vị thuộc Bộ Thông tin và Truyền thông.",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0059",
+    "question": "Một tụ điện có điện dung 100 μF được nạp đến điện áp 120V. Sau đó, nó được xả qua một điện trở 500 ohm. Thời gian cần thiết để điện áp trên tụ giảm xuống còn 37% giá trị ban đầu là bao lâu?",
+    "predicted": "0.05 giây",
+    "pred_norm": "0.05 giây",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0060",
+    "question": "Đoạn thông tin:\nTiêu đề: Giao thông liên lạc Việt Nam thời quân chủ\nNội dung: Giao thông và liên lạc tại Việt Nam thời Quân chủ Việt Nam không được quan tâm nhiều và phát triển chậm, chủ yếu do những ",
+    "predicted": "Vì quy ước làng xã bắt buộc lát đường khi có đám cưới, trong khi triều đình không có chính sách tương tự cho các phố trong thành.",
+    "pred_norm": "Vì quy ước làng xã bắt buộc lát đường khi có đám cưới, trong khi triều đình không có chính sách tương tự cho các phố trong thành.",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0061",
+    "question": "Giáo dục đóng vai trò:",
+    "predicted": "Tất cả các ý trên",
+    "pred_norm": "Tất cả các ý trên",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0062",
+    "question": "Đoạn thông tin:\n[1] Tiêu đề: Vladimir Vladimirovich Putin\nNội dung: Bộ trưởng Kinh tế Nga Alexei Ulyukayev cảnh báo rằng nước Nga có nguy cơ đối mặt với tăng trưởng thấp do Điện Kremlin không thực hiệ",
+    "predicted": "2,5% - 3,0%",
+    "pred_norm": "2,5% - 3,0%",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0063",
+    "question": "Đoạn thông tin:\nMalaysia\nHiến pháp Malaysia đảm bảo quyền tự do tôn giáo trong khi xác định Hồi giáo là quốc giáo. Theo số liệu từ Điều tra dân số và nhà ở năm 2010, có sự tương liên cao giữa dân tộc ",
+    "predicted": "Nga (25%)",
+    "pred_norm": "Nga (25%)",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0064",
+    "question": "Một nhà độc quyền đối mặt với đường cầu tuyến tính và chi phí biên không đổi. Nếu chính phủ áp đặt một khoản thuế theo đơn vị lên nhà độc quyền,",
+    "predicted": "sản lượng của nhà độc quyền sẽ giảm, và giá sẽ tăng.",
+    "pred_norm": "sản lượng của nhà độc quyền sẽ giảm, và giá sẽ tăng.",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0065",
+    "question": "Một quả bóng bay hình cầu có bán kính $ R $ đang được bơm phồng. Áp suất bên trong quả bóng tỷ lệ thuận với lực căng bề mặt $ \\sigma $ và tỷ lệ nghịch với bán kính $ R $. Nếu bán kính của quả bóng đượ",
+    "predicted": "$ \\\\frac{1}{2} $",
+    "pred_norm": "$ \\\\frac{1}{2} $",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0066",
+    "question": "Một con lắc có chiều dài $ L $ được dịch chuyển bởi một góc nhỏ $ \\theta_0 $ và được thả ra từ trạng thái nghỉ. Con lắc chịu tác dụng của một lực cản tỉ lệ với vận tốc góc của nó, với hệ số cản $ b $.",
+    "predicted": "dao động với biên độ giảm dần",
+    "pred_norm": "dao động với biên độ giảm dần",
+    "label": "E",
+    "label_norm": "E",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0067",
+    "question": "Giải pháp nào sau đây được đề xuất để xử lý lỗi xác thực khi nộp hồ sơ thẩm duyệt thiết kế về phòng cháy và chữa cháy?",
+    "predicted": "Kiểm tra lại hồ sơ để đảm bảo đầy đủ giấy tờ",
+    "pred_norm": "Kiểm tra lại hồ sơ để đảm bảo đầy đủ giấy tờ",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0068",
+    "question": "Làm thế nào một sự gia tăng mức lương tối thiểu có thể ảnh hưởng đến thị trường lao động nếu nó được đặt ở mức cao hơn mức lương cân bằng?",
+    "predicted": "Nó sẽ tạo ra tình trạng dư thừa lao động, dẫn đến tỷ lệ thất nghiệp cao hơn.",
+    "pred_norm": "Nó sẽ tạo ra tình trạng dư thừa lao động, dẫn đến tỷ lệ thất nghiệp cao hơn.",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0069",
+    "question": "Đánh giá tích phân xác định $\\int_0^1 \\frac{\\ln(1 + x)}{1 + x} \\, dx$.",
+    "predicted": "$ \\\\frac{\\\\ln^2 2}{2} $",
+    "pred_norm": "$ \\\\frac{\\\\ln^2 2}{2} $",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0070",
+    "question": "Hệ thống chính trị là chỉnh thể các thiết chế thực thi quyền lực chính trị, bao gồm các bộ phận cấu thành là:",
+    "predicted": "Tất cả các phương án trên",
+    "pred_norm": "Tất cả các phương án trên",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0071",
+    "question": "Xét các điểm $ A(1, 2) $, $ B(4, 6) $, và $ C(7, 2) $ trong mặt phẳng tọa độ. Một đường thẳng $ L $ đi qua điểm $ A $ và song song với đoạn thẳng $ BC $. Phương trình của đường thẳng $ L $ là gì?",
+    "predicted": "$ y = \\\\frac{4}{3}x - \\\\frac{2}{3} $",
+    "pred_norm": "$ y = \\\\frac{4}{3}x - \\\\frac{2}{3} $",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0072",
+    "question": "Đoạn thông tin:\n[1] Tiêu đề: Ném đá\nNội dung: Thạch hình là một phương pháp tử hình trong đó một nhóm người ném đá vào người cho đến khi đối tượng chết vì chấn thương cùn. Nó đã được chứng thực như mộ",
+    "predicted": "Không có câu trả lời",
+    "pred_norm": "Không có câu trả lời",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0073",
+    "question": "Theo Tư tưởng Hồ Chí Minh, điều kiện để quyền của nhân dân được bảo đảm là gì?",
+    "predicted": "Nhân dân làm tốt nghĩa vụ công dân đối với đất nước",
+    "pred_norm": "Nhân dân làm tốt nghĩa vụ công dân đối với đất nước",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0074",
+    "question": "Đoạn thông tin:\n-- Đoạn văn 1 --\nTiêu đề: Giao phối lựa chọn\nNội dung: Giao phối lựa chọn (\"Assortative mating\") hay còn gọi là giao phối chọn lọc (\"positive assortative\") hay còn gọi là giao phối cùn",
+    "predicted": "Giao phối chọn lựa dương tính (positive assortative mating) dựa trên màu sắc",
+    "pred_norm": "Giao phối chọn lựa dương tính (positive assortative mating) dựa trên màu sắc",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0075",
+    "question": "Vào ngày 30 tháng 1 năm 2019, Printing Plus đã mua nguyên vật liệu trả chậm với giá 500 đô la, khoản thanh toán sẽ được thực hiện trong vòng ba tháng. Tác động đến phương trình kế toán là gì?",
+    "predicted": "Tài sản tăng 500 đô la và nợ phải trả tăng 500 đô la",
+    "pred_norm": "Tài sản tăng 500 đô la và nợ phải trả tăng 500 đô la",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0076",
+    "question": "Một công ty đang xem xét việc đầu tư vào một dòng sản phẩm mới. Lợi nhuận kỳ vọng trên vốn đầu tư là 15%, nhưng có khả năng 20% dòng sản phẩm này sẽ thất bại và dẫn đến mức lỗ 10%. Giá trị kỳ vọng của",
+    "predicted": "13%",
+    "pred_norm": "13%",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0077",
+    "question": "Tại sao cần có cơ chế thu thập thông tin trong doanh nghiệp?",
+    "predicted": "Để ghi nhận hiệu quả của cá nhân và bộ phận nhằm cải thiện hoạt động.",
+    "pred_norm": "Để ghi nhận hiệu quả của cá nhân và bộ phận nhằm cải thiện hoạt động.",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0078",
+    "question": "Hệ điều hành sử dụng kỹ thuật cấp phát bộ nhớ liên tục sẽ đễ xảy ra hiện tượng phân mảnh trong bộ nhớ. Nguyên nhân là do đâu?",
+    "predicted": "Các tiến trình thường xuyên được “nạp” rồi “xóa” (kết thúc) khỏi bộ nhớ.",
+    "pred_norm": "Các tiến trình thường xuyên được “nạp” rồi “xóa” (kết thúc) khỏi bộ nhớ.",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0079",
+    "question": "Theo Chủ Tịch Hồ Chí Minh, học để làm gì?",
+    "predicted": "Làm người",
+    "pred_norm": "Làm người",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0080",
+    "question": "Câu hỏi nào dưới đây mô tả tốt nhất vai trò của các thiên kiến nhận thức trong quá trình ra quyết định?",
+    "predicted": "C. Các thiên kiến nhận thức giúp cá nhân đưa ra quyết định nhanh hơn bằng cách dựa vào các cách tiếp cận heuristics.",
+    "pred_norm": "C. Các thiên kiến nhận thức giúp cá nhân đưa ra quyết định nhanh hơn bằng cách dựa vào các cách tiếp cận heuristics.",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0081",
+    "question": "Đoạn thông tin:\n[1] Tiêu đề: Akagi (tàu sân bay Nhật)\nNội dung: Akagi (tiếng Nhật: 赤城; Hán-Việt: Xích Thành) là một tàu sân bay của Hải quân Đế quốc Nhật Bản hoạt động trong Chiến tranh Thế giới thứ h",
+    "predicted": "Phát triển học thuyết tấn công bằng tàu sân bay mang tính cách mạng",
+    "pred_norm": "Phát triển học thuyết tấn công bằng tàu sân bay mang tính cách mạng",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0082",
+    "question": "Trong một cuộc cạnh tranh Cournot với hai doanh nghiệp, mỗi doanh nghiệp có chi phí biên sản xuất không đổi là $ c $ và hàm cầu thị trường được cho bởi $ Q = a - P $, trong đó $ P $ là giá và $ a $ là",
+    "predicted": "$ \\\\frac{a - c}{3} $",
+    "pred_norm": "$ \\\\frac{a - c}{3} $",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0083",
+    "question": "Văn hóa vật thể là những hiện tượng văn hóa nào?",
+    "predicted": "Các hiện tượng văn hóa hữu hình có thể tiếp xúc trực tiếp qua các giác quan",
+    "pred_norm": "Các hiện tượng văn hóa hữu hình có thể tiếp xúc trực tiếp qua các giác quan",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0084",
+    "question": "Khoảng cách giữa hai cực của ống phóng tia X bằng 2 cm, hiệu điện thế giữa hai cực là 100 kV. Cường độ điện trường giữa hai cực bằng:",
+    "predicted": "5 000 000 V/m",
+    "pred_norm": "5 000 000 V/m",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0085",
+    "question": "Tính đa dạng sinh học của sinh vật biểu hiện ở:",
+    "predicted": "Số lượng thành phần loài, các kiểu hệ sinh thái và các nguồn gen quý.",
+    "pred_norm": "Số lượng thành phần loài, các kiểu hệ sinh thái và các nguồn gen quý.",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0086",
+    "question": "Nghệ thuật trong đoạn 1 bài 'Tinh thần yêu nước của nhân dân ta' là gì?",
+    "predicted": "Dùng dẫn chứng tiêu biểu",
+    "pred_norm": "Dùng dẫn chứng tiêu biểu",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0087",
+    "question": "Trong vận chuyển bằng đường ống, sự giảm áp suất $ \\Delta P $ trên một đoạn ống có chiều dài $ L $ được cho bởi phương trình Darcy-Weisbach:\n$$ \\Delta P = f \\cdot \\frac{L}{D} \\cdot \\frac{\\rho v^2}{2} ",
+    "predicted": "30 kPa",
+    "pred_norm": "30 kPa",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0088",
+    "question": "Đoạn thông tin:\n-- Document 1 --\nTitle: Lê Chiêu Thống\nContent: Lê Chiêu Thống (chữ Hán: 黎昭統 1765 – 1793) hay Lê Mẫn Đế (chữ Hán: 黎愍帝), tên thật là Lê Duy Khiêm (黎維), khi lên ngôi lại đổi tên là Lê Du",
+    "predicted": "Hoàng tự tôn",
+    "pred_norm": "Hoàng tự tôn",
+    "label": "C",
+    "label_norm": "C",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0089",
+    "question": "Sự phát triển nhảy vọt về nhận thức, tư tưởng của Chủ Tịch Hồ Chí Minh từ một thanh niên yêu nước chân chính sang một chiến sĩ cộng sản sau khi Người đọc được văn kiện nào sau đây?",
+    "predicted": "Bản Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lênin (1920)",
+    "pred_norm": "Bản Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lênin (1920)",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0090",
+    "question": "Giả sử $ T: \\mathbb{R}^3 \\to \\mathbb{R}^3 $ là một toán tử tuyến tính được biểu diễn bởi ma trận\n$$= \\begin{pmatrix}& 1 & 0 \\\\& 2 & 1 \\\\& 0 & 2. Câu nào sau đây là đúng về các giá trị riêng của $ T $?",
+    "predicted": "Các giá trị riêng là 1, 2 và 2.",
+    "pred_norm": "Các giá trị riêng là 1, 2 và 2.",
+    "label": "B",
+    "label_norm": "B",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0091",
+    "question": "Nếu một tài khoản tiết kiệm có lãi suất danh nghĩa là 3% và tỷ lệ lạm phát là 2%, thì lãi suất thực là bao nhiêu?",
+    "predicted": "1%",
+    "pred_norm": "1%",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0092",
+    "question": "Đoạn thông tin:\nTrường Đại học Bách khoa, Đại học Đà Nẵng\nTrường Đại học Bách khoa Đà Nẵng (tiếng Anh: The University of Danang - University of Science and Technology) là trường đại học chuyên ngành k",
+    "predicted": "Chương trình đào tạo Kỹ sư chất lượng cao (PFIEV), Chương trình đào tạo kỹ sư tiên tiến Việt - Mỹ và Trung tâm Xuất sắc",
+    "pred_norm": "Chương trình đào tạo Kỹ sư chất lượng cao (PFIEV), Chương trình đào tạo kỹ sư tiên tiến Việt - Mỹ và Trung tâm Xuất sắc",
+    "label": "A",
+    "label_norm": "A",
+    "is_correct": false,
+    "was_cached": false
+  },
+  {
+    "qid": "val_0093",
+    "question": "Kết quả của việc chia thành phần x của một véc-tơ lực cho thành phần y của nó là gì?",
+    "predicted": "Tangent của góc",
+    "pred_norm": "Tangent của góc",
+    "label": "D",
+    "label_norm": "D",
+    "is_correct": false,
+    "was_cached": false
+  }
+]

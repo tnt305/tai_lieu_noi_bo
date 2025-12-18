@@ -1,0 +1,75 @@
+# Nghị quyết 68 nêu rõ kinh tế tư nhân được bảo đảm điều kiện gì trong quá trình phát triển?
+
+**Nghị quyết 68 nêu rõ kinh tế tư nhân được bảo đảm điều kiện gì trong quá trình phát triển?**
+
+**Nghị quyết 68 nêu rõ kinh tế tư nhân được bảo đảm điều kiện gì trong quá trình phát triển?**
+
+Ngày 04 tháng 5 năm 2025, Tổng Bí thư Tô Lâm đã ký ban hành Nghị quyết 68-NQ/TW của Bộ Chính trị về phát triển kinh tế tư nhân.
+
+Theo Nghị quyết 68-NQ/TW năm 2025 nêu rõ kinh tế tư nhân được bảo đảm điều kiện trong quá trình phát triển tại Mục 3 Phần I về quan điểm chỉ đạo phát triển kinh tế tư nhân như sau:
+
+(1) Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa, kinh tế tư nhân là một động lực quan trọng nhất của nền kinh tế quốc gia, là lực lượng tiên phong thúc đẩy tăng trưởng, tạo việc làm, nâng cao năng suất lao động, năng lực cạnh tranh quốc gia, công nghiệp hoá, hiện đại hoá, tái cấu trúc nền kinh tế theo hướng xanh, tuần hoàn, bền vững; cùng với kinh tế nhà nước, kinh tế tập thể, kinh tế tư nhân giữ vai trò nòng cốt để xây dựng nền kinh tế độc lập, tự chủ, tự lực, tự cường gắn với hội nhập quốc tế sâu rộng, thực chất, hiệu quả, đưa đất nước thoát khỏi nguy cơ tụt hậu, vươn lên phát triển thịnh vượng.
+
+(2) Phát triển kinh tế tư nhân nhanh, bền vững, hiệu quả, chất lượng cao vừa là nhiệm vụ trọng tâm, cấp bách, vừa mang tính chiến lược lâu dài; cần được cụ thể hoá trong các chiến lược, chính sách phát triển của đất nước; nhằm phát huy mọi tiềm năng, thế mạnh, giải phóng toàn bộ sức sản xuất, kích hoạt, huy động và sử dụng hiệu quả mọi nguồn lực, nhất là nguồn lực trong Nhân dân cho phát triển kinh tế - xã hội, củng cố và tăng cường quốc phòng, an ninh, tăng cường đối ngoại và hội nhập quốc tế.
+
+(3) Xoá bỏ triệt để nhận thức, tư tưởng, quan niệm, thái độ định kiến về kinh tế tư nhân Việt Nam; đánh giá đúng vai trò quan trọng của kinh tế tư nhân đối với phát triển đất nước; nuôi dưỡng, khuyến khích tinh thần kinh doanh, đổi mới sáng tạo của người dân, doanh nghiệp, tôn trọng doanh nghiệp, doanh nhân, xác định doanh nhân là người chiến sĩ trên mặt trận kinh tế; bảo đảm đầy đủ quyền sở hữu tài sản, quyền tự do kinh doanh, quyền cạnh tranh bình đẳng, được tự do kinh doanh các ngành nghề pháp luật không cấm; tạo dựng, củng cố niềm tin giữa Nhà nước và khu vực kinh tế tư nhân; bảo vệ quyền và lợi ích hợp pháp của doanh nghiệp và doanh nhân; bảo đảm kinh tế tư nhân **cạnh tranh bình đẳng với các thành phần kinh tế khác trong tiếp cận cơ hội kinh doanh và các nguồn lực của nền kinh tế**, nhất là vốn, đất đai, công nghệ, nhân lực, dữ liệu và các nguồn lực hợp pháp khác của đất nước theo quy định của pháp luật.
+
+(4) Tạo môi trường kinh doanh thông thoáng, minh bạch, ổn định, an toàn, dễ thực thi, chi phí thấp, đạt chuẩn quốc tế, bảo đảm khả năng cạnh tranh khu vực, toàn cầu. Kịp thời xây dựng, hoàn thiện pháp luật và cơ chế, chính sách đột phá để khuyến khích kinh tế tư nhân phát triển trong những lĩnh vực ưu tiên, đầu tư nghiên cứu phát triển, ứng dụng khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số, tham gia vào các nhiệm vụ quan trọng, chiến lược của quốc gia và vươn tầm khu vực, thế giới; thúc đẩy tinh thần khởi nghiệp sáng tạo, chuyển đổi số và làm giàu hợp pháp, chính đáng.
+
+(5) Tăng cường vai trò lãnh đạo của Đảng, kiến tạo của Nhà nước, lấy doanh nghiệp là trung tâm, là chủ thể; chú trọng đào tạo, bồi dưỡng đội ngũ doanh nhân có đạo đức, văn hoá kinh doanh, bản lĩnh, trí tuệ, năng động, sáng tạo, nỗ lực vươn lên; tôn vinh, cổ vũ, phát triển đội ngũ doanh nhân lớn mạnh, có tinh thần yêu nước, tự tôn dân tộc, khát vọng cống hiến, thượng tôn pháp luật, tích cực thực hiện trách nhiệm xã hội.
+
+Theo đó Nghị quyết 68-NQ/TW năm 2025 nêu rõ kinh tế tư nhân được bảo đảm điều kiện trong quá trình phát triển:** ****cạnh tranh bình đẳng với các thành phần kinh tế khác trong tiếp cận cơ hội kinh doanh và các nguồn lực của nền kinh tế.**
+
+*Nghị quyết 68 nêu rõ kinh tế tư nhân được bảo đảm điều kiện gì trong quá trình phát triển? (Hình từ Internet)*
+
+**Nhiệm vụ, giải pháp phát triển kinh tế tư nhân theo Nghị quyết 68-NQ/TW năm 2025 là gì?**
+
+8 Nhiệm vụ, giải pháp phát triển kinh tế tư nhân theo Nghị quyết 68-NQ/TW năm 2025 được quy định bao gồm:
+
+(1) Đổi mới tư duy, thống nhất cao về nhận thức và hành động, khơi dậy niềm tin, khát vọng dân tộc, tạo xung lực mới, khí thế mới để phát triển kinh tế tư nhân.
+
+(2) Đẩy mạnh cải cách, hoàn thiện, nâng cao chất lượng thể chế, chính sách, bảo đảm và bảo vệ hữu hiệu quyền sở hữu, quyền tài sản, quyền tự do kinh doanh, quyền cạnh tranh bình đẳng của kinh tế tư nhân và bảo đảm thực thi hợp đồng của kinh tế tư nhân
+
+- Đẩy mạnh cải cách, hoàn thiện, nâng cao chất lượng thể chế, chính sách
+
+- Bảo đảm và bảo vệ hữu hiệu quyền sở hữu, quyền tự do kinh doanh, quyền tài sản, quyền cạnh tranh bình đẳng và bảo đảm thực thi hợp đồng của kinh tế tư nhân
+
+- Tuân thủ nguyên tắc phân định rõ trách nhiệm hình sự với hành chính, dân sự; giữa pháp nhân và cá nhân trong xử lý vi phạm
+
+(3) Tạo thuận lợi cho kinh tế tư nhân tiếp cận các nguồn lực về đất đai, vốn, nhân lực chất lượng cao
+
+- Tăng cường cơ hội tiếp cận đất đai, mặt bằng sản xuất kinh doanh cho kinh tế tư nhân
+
+- Đẩy mạnh và đa dạng hoá nguồn vốn cho kinh tế tư nhân
+
+- Nâng cao chất lượng nguồn nhân lực cho kinh tế tư nhân
+
+(4) Thúc đẩy khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số, chuyển đổi xanh, kinh doanh hiệu quả, bền vững trong kinh tế tư nhân
+
+(5) Tăng cường kết nối giữa các doanh nghiệp tư nhân, doanh nghiệp tư nhân với doanh nghiệp nhà nước và doanh nghiệp FDI
+
+(6) Hình thành và phát triển nhanh các doanh nghiệp lớn và vừa, các tập đoàn kinh tế tư nhân tầm cỡ khu vực và toàn cầu
+
+(7) Hỗ trợ thực chất, hiệu quả doanh nghiệp nhỏ, siêu nhỏ và hộ kinh doanh
+
+(8) Đề cao đạo đức kinh doanh, phát huy trách nhiệm xã hội, thúc đẩy mạnh mẽ tinh thần kinh doanh, tạo mọi điều kiện thuận lợi để doanh nhân tham gia quản trị đất nước
+
+**Mục tiêu phát triển kinh tế tư nhân theo Nghị quyết 68 ra sao?**
+
+Theo quy định tại Mục II Nghị quyết 68-NQ/TW năm 2025 nêu rõ mục tiêu phát triển kinh tế tư nhân như sau:
+
+**(1) Đến năm 2030**
+
+- Kinh tế tư nhân là một động lực quan trọng nhất của nền kinh tế quốc gia; là lực lượng tiên phong trong phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số, góp phần thực hiện thắng lợi mục tiêu của Nghị quyết 57-NQ/TW năm 2024 của Bộ Chính trị vá các chủ trương, đường lối khác của Đảng.
+
+- Phấn đấu có 2 triệu doanh nghiệp hoạt động trong nền kinh tế, 20 doanh nghiệp hoạt động/nghìn dân. Có it nhất 20 doanh nghiệp lớn tham gia chuỗi giá trị toàn cầu.
+
+- Tốc độ tăng trưởng bình quân của kinh tế tư nhân đạt khoảng 10 - 12%/năm, cao hơn tốc độ tăng trưởng của nền kình tế; đóng góp khoảng 55 - 58% GDP, khoảng 35 - 40% tổng thu ngân sách nhà nước, giải quyết việc làm cho khoảng 84 - 85% tổng số lao động, năng suất lao động tăng bình quân khoảng 8,5 - 9,5%/năm.
+
+- Trình độ, năng lực công nghệ, đổi mới sáng tạo, chuyển đổi số thuộc nhóm 3 nước đứng đầu ASEAN và nhóm 5 nước đứng đầu khu vực châu Á.
+
+**(2) Tầm nhìn đến năm 2045 **
+
+Kinh tế tư nhân Việt Nam phát triển nhanh, mạnh, bền vũng, chủ động tham gia vào chuỗi sân xuất, cung ứng toàn cầu; có năng lực cạnh tranh cao trong khu vực và quốc tế; phấn đấu đến năm 2045 có ít nhất 3 triệu doanh nghiệp hoạt động trong nền kinh tế; đóng góp khoảng trên 60% GDP.
+
+Quý khách cần hỏi thêm thông tin về có thể đặt câu hỏi tại đây.

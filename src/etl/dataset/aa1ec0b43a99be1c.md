@@ -1,0 +1,107 @@
+# Chủ nghĩa cá nhân
+
+**Chủ nghĩa cá nhân** hay còn gọi là **cá nhân chủ nghĩa**, **chủ nghĩa cá thể** là một thuật ngữ được sử dụng để mô tả một cách nhìn nhận trên phương diện xã hội, chính trị hoặc đạo đức trong đó nhấn mạnh đến lợi ích của mỗi cá nhân, sự độc lập của con người và tầm quan trọng của tự do và tự lực của mỗi cá nhân. Những người theo chủ nghĩa cá nhân chủ trương không hạn chế mục đích và ham muốn cá nhân. Họ phản đối sự can thiệp từ bên ngoài lên sự lựa chọn của cá nhân - cho dù sự can thiệp đó là của xã hội, nhà nước, hoặc bất kỳ một nhóm hay một thể chế nào khác. Chủ nghĩa cá nhân do vậy đối lập với chủ nghĩa toàn luận, chủ nghĩa tập thể, chủ nghĩa cộng đồng, và chủ nghĩa công xã, tức là đối lập với những chủ thuyết nhấn mạnh đến việc công xã, nhóm, xã hội, chủng tộc, hoặc các mục đích quốc gia cần được đặt ưu tiên cao hơn các mục đích của cá nhân. Chủ nghĩa cá nhân cũng đối lập với quan điểm truyền thống, tôn giáo, tức đối lập với bất cứ quan niệm nào cho rằng cần sử dụng các chuẩn mực đạo đức hay luân lý ở bên ngoài, khách thể, để hạn chế sự lựa chọn hành động của cá nhân.
+
+Chủ nghĩa cá nhân có mối quan hệ phức tạp với chủ nghĩa vị kỷ (hiểu đơn giản là ích kỷ). Mặc dù một số nhà cá nhân chủ nghĩa cũng là những người vị kỷ, các nhà cá nhân chủ nghĩa thường không tranh luận rằng ích kỷ về bản chất là tốt vốn có ngay từ khi sinh ra. Thay vào đó, họ tranh luận rằng các cá nhân không có trách nhiệm ràng buộc nào đối với các áp đặt của xã hội (đạo đức); họ quan niệm rằng các cá nhân cần được tự do lựa chọn theo đuổi cách sống ích kỷ cũng như bất kỳ cách sống nào khác phù hợp với mong muốn của họ. Một số các nhà các nhân chủ nghĩa khác lại tranh luận rằng vị kỷ là "tính tương đối của đạo đức" và mô tả tính ích kỷ là một bản chất tốt.
+
+## Từ nguyên
+
+[sửa | sửa mã nguồn]Khái niệm "chủ nghĩa cá nhân" lần đầu tiên được các nhà xã hội Pháp theo đuổi học thuyết của Saint-Simon sử dụng để mô tả cái mà họ tin là nguyên nhân của sự phân rã xã hội Pháp sau Cách mạng 1789. Thuật ngữ tuy nhiên đã được sử dụng trước đó một cách tiêu cực bởi các nhà tư tưởng của phe phản đối cuộc Cách mạng Pháp theo trường phái Thần luận như Joseph de Maistre khi họ phản đối chủ nghĩa tự do trong chính trị. Các nhà xã hội chủ nghĩa theo học thuyết của Saint-Simon không phản đối chủ nghĩa tự do chính trị nhưng họ nhìn nhận "chủ nghĩa cá nhân" là một hình thức của "chủ nghĩa vị kỷ" hoặc "vô chính phủ" hay "là sự bóc lột tàn nhẫn giữa con người với chính con người trong xã hội công nghiệp hiện đại". Trong khi các nhà phản đối chủ nghĩa cá nhân theo phái bảo thủ tấn công quan điểm bình đẳng chính trị do cuộc Cách mạng mang lại thì các nhà xã hội theo học thuyết Saint-Simon phê phán *laissez-faire* (chủ nghĩa tự do trong kinh tế), vì sự đổ vỡ của chủ nghĩa tự do trong kinh tế khi không thể giải quyết được vấn đề gia tăng bất bình đẳng giữa người giàu và người nghèo. Chủ nghĩa xã hội, một thuật ngữ được những người theo thuyết Saint-Simon đưa ra, là nhằm mang lại "sự hài hòa xã hội."[1][2][3]
+
+Trong tiếng Anh, thuật ngữ "chủ nghĩa cá nhân" lần đầu được sử dụng là bởi các nhà theo thuyết của Owen vào những năm 1830, mặc dù còn chưa rõ là họ có bị ảnh hưởng của các nhà xã hội Saint-Simon hay không hay là họ tự đưa ra thuật ngữ này một cách độc lập.[3] Tại Anh thuật ngữ được sử dụng với ý nghĩa tích cực hơn trong các tác phẩm của James Elishama Smith. Mặc dù ban đầu ông cũng là một nhà xã hội chủ nghĩa theo phái Owen nhưng sau đó ông đã từ bỏ ý tưởng tập thể về tài sản của chủ nghĩa này và thấy ở chủ nghĩa tự do một "chủ thuyết hoàn mỹ" cho phép phát triển "tính sáng tạo bẩm sinh ban đầu." Không có chủ nghĩa cá nhân, Smith lập luận, các cá nhân không thể tạo ra những tài sản đồ sộ để làm tăng hanh phúc của mỗi cá nhân.[3] William Maccall, một nhà Nhất thể, và có thể là bạn của Smith, đưa ra khái niệm này sau đó với ảnh hưởng của John Stuart Mill, Thomas Carlyle, và Chủ nghĩa Lãng mạn Đức, với cùng một hàm ý tích cực năm 1847 trong tác phẩm "Elements of Individualism".[1]
+
+## Chủ nghĩa cá nhân trong chính trị
+
+[sửa | sửa mã nguồn]Trong triết học chính trị, học thuyết cá nhân về nhà nước quan niệm rằng nhà nước cần giữa vai trò bảo vệ sự tự do hành động của mỗi cá nhân theo đúng mong muốn của cá nhân đó chừng nào mà sự tự do đó không động chạm đến sự tự do của các cá nhân khác. Điều này đối lập với các học thuyết tập thể về chính trị, mà theo các học thuyết này thay vì để cá nhân theo đuổi mục đích của bản thân họ thì nhà nước đảm bảo cá nhân phục vụ cho quyền lợi chung của xã hội. Thuật ngữ cũng được sử dụng để mô tả "sự sáng tạo của cá nhân" và "sự tự do của cá nhân" nói chung, có lẽ được mô tả tốt nhất bằng một từ tiếng Pháp là "laissez faire," nguyên nghĩa là một động từ hàm ý "để [người dân] làm" [đối với những người bản thân họ biết cách làm].
+
+Trên thực tế, các nhà cá nhân chủ nghĩa chủ yếu quan tâm tới việc bảo vệ sự tự trị của mỗi cá nhân trước những ràng buộc của các thể chế xã hội (như nhà nước) áp đặt lên. Nhiều nhà cá nhân chủ nghĩa đặc biệt chú ý đến việc bảo vệ sự tự do của thiểu số trước mong muốn của đa số và xem cá nhân là một thiểu số nhỏ nhất. Ví dụ, các nhà cá nhân chủ nghĩa phản đối các hệ thống dân chủ trừ phi có các bảo đảm hiến pháp bảo vệ sự tự do của cá nhân khỏi bị loại bỏ bởi quyền lợi của đa số. Các quan điểm này mở rộng sang cả lĩnh vực tự do về kinh tế và dân sự. Một mối lo ngại chung điển hình của các nhà cá nhân chủ nghĩa là sự tập trung các doanh nghiệp công nghiệp và thương mại trong tay nhà nước hay chính quyền thành phố. Cơ sở của việc phản đối này là: một, các đại diện do dân bầu không có đủ trình độ, hay không có đủ trách nhiệm cần thiết để quản lý các doanh nghiệp đòi hỏi rất nhiều tháo vát, và cũng còn phải tốn khống ít tiền công trong quản lý hành chính; hai, tình trạng "sức khỏe của nhà nước" phụ thuộc vào việc sự cố gắng của mỗi cá nhân để thực hiện lợi ích riêng của họ (những cá nhân cũng giống như "tế bào" là nơi chứa sự sống của cơ thể). Chủ nghĩa cá nhân có thể có cách tiếp cận cực đoan như chủ nghĩa vô chính phủ cá nhân.
+
+Đối với một số nhà cá nhân chủ nghĩa chính trị, những người có quan điểm được gọi là chủ nghĩa cá nhân phương pháp, thuật ngữ "xã hội" có thể không bao giờ có một ý nghĩa nào khác ngoài nghĩa là tập hợp rất lớn của các cá nhân. Xã hội không bao giờ tồn tại bên ngoài hay ở trên cá nhân, và do vậy không thể được phép tiến hành bất cứ hành động nào vì hành động cần có chủ ý mà chủ ý cần có chủ thể và toàn thể xã hội không phải là một chủ thể; chỉ có cá nhân mới là chủ thể. Cũng quan điểm như vậy nhưng với nhà nước, họ quan niệm nhà nước là tập hợp của các cá nhân. Mặc dù các nhà nước dân chủ được bầu bởi phổ thông đầu phiếu, sự thật vẫn là tất cả các hoạt động của nhà nước vẫn được tiến hành như là phương tiện có chủ ý và là hành động của một số cá nhân. Nói thẳng ra là nhà nước không hề hành động. Ví dụ, đôi khi "chúng ta" cần phải ra quyết định ban hành một chính sách nào đó, và đôi khi việc vận hành chính sách này cũng tức là thực thể gọi là "xã hội" ủng hội chính sách đó và do vậy chính sách đó được xem là hợp lẽ. Các nhà cá nhân chủ nghĩa phương pháp chỉ ra rằng "chúng ta" thực ra không ban hành hay tiến hành chính sách nào cả; trong số những người đi bầu, một nhóm bầu ủng hộ chính sách, tất cả những người này thực ra là cá nhân, và một nhóm khác bầu chống lại. Quyết định được ban hành không phải bởi "nhân dân", hoặc "nhà nước"; mà chỉ bởi những người thắng trong cuộc bầu. Điều này là rất quan trọng vì trong bất cứ một quyết định tập thể nào đều tồn tại các cá nhân phản đối chính sách và do vậy mà nguyện vọng của họ bị phủ quyết hay nói cách khác việc sử dụng từ "chúng ta" xem ra đã bỏ qua sự thật này. Các nhà cá nhân chủ nghĩa muốn nhấn mạnh tầm quan trọng của cá nhân và tránh nhập các quyết định cá nhân này thành cái gọi là tập thể. Vì những lý do này, các nhà cá nhân chủ nghĩa phương pháp không đồng ý với lập luận như "chúng ta xứng đáng với nhà nước mà chúng ta có vì chúng ta đang phục vụ chính chúng ta", vì lẽ các nhà cá nhân chủ nghĩa và có thể cả nhiều người khác nữa không đồng ý với các hành động mà các cá nhân đang nắm quyền lực nhà nước đưa ra. Tuy vậy nhiều cá nhân có thể đã quen dùng từ "chúng ta" để chỉ nhà nước hoặc xã hội vì lý do dùng đã quen cũng không sao nếu nhớ rằng những thực thể này gồm tập hợp các cá nhân.
+
+## Khác biệt văn hóa toàn cầu
+
+[sửa | sửa mã nguồn][4]
+
+| +60 đến +70 +50 đến +60 +40 đến +50 +30 đến +40 +20 đến +30 | +10 đến +20 0 đến +10 | -10 đến 0 -20 đến −10 -30 đến −20 -40 đến −30 Không có dữ liệu |
+
+Những khác biệt văn hóa giữa chủ nghĩa cá nhân và chủ nghĩa tập thể chính là những khác biệt về mức độ chứ không phải là về hình thức. Tất cả các nền văn hóa đều có đặc điểm chủ nghĩa cá nhân và chủ nghĩa tập thể. Có một mối tương quan chặt chẽ giữa phát triển kinh tế và văn hóa chủ nghĩa cá nhân - chủ nghĩa tập thể.[5] Trên thế giới, các khu vực có kinh tế đã phát triển như Tây Âu, Úc, Bắc Mỹ và Nhật Bản có các nền văn hóa cá nhân nhất trong khi các khu vực có nền kinh kế đang phát triển như Trung Đông và Bắc Phi, Châu Phi cận Sahara, Ấn Độ, Đông Nam Á và Trung Mỹ thì hầu hết có nền văn hóa tập thể.[4][6]
+
+## Chủ nghĩa cá nhân và xã hội
+
+[sửa | sửa mã nguồn]Khế ước xã hội của Jean-Jacques Rousseau cho rằng mỗi cá nhân hàm chứa một khế ước giao nộp ý chí nguyện vọng của bản thân cho cái gọi là "ý chí nguyện vọng chung của quần chúng". Quan điểm ủng hộ việc xem ý chí nguyện vọng của cá nhân thấp hơn ý chí nguyện vọng tập thể này về cơ bản là đối lập với triết học cá nhân chủ nghĩa. Một cá nhân tham gia xã hội để mở rộng hơn nữa quyền lợi của mình hay chí ít cũng để đòi hỏi *quyền* phục vụ cho quyền lợi của mình, mà không quan tâm đến quyền lợi của xã hội (ngay cả khi nhà cá nhân chủ nghĩa không phải là nhà vị kỷ). Người cá nhân chủ nghĩa không tin vào bất cứ một học thuyết triết học nào nếu những học thuyết này đòi hỏi họ phải hy sinh quyền lợi của cá nhân họ vì những nguyên nhân xã hội nào đó cao cả hơn. Rousseau có thể sẽ lập luận, dĩ nhiên, rằng quan niệm của ông về "ý chí chung" không phải là một tập hợp giản đơn của các ý chí cá nhân và chính xác ra thì sẽ mở rộng quyền lợi của các cá nhân (ràng buộc của bản thân luật pháp sẽ làm lợi cho cá nhân, vì nếu thiếu sự tôn trọng pháp luật thì theo quan điểm của Rousseau, sẽ xuất hiện một dạng không biết và lệ thuộc vào dục vọng của một cá nhân thay vì là vào lý trí độc lập).
+
+Xã hội và các nhóm có thể khác nhau, trong chừng mực mà xã hội hay các nhóm dựa trên những "bản thể" (cá nhân, và có thể hiểu, còn tranh cãi, là cả quyền lợi của cá nhân) thay vì là những hành vi có tính "thực thể khác" (có định hướng nhóm, hay của nhóm, của xã hội). Còn có sự phân biệt, liên quan đến ngữ cảnh này, giữa xã hội "phường hội" (như thời Trung cổ châu Âu) với "chuẩn mực có liên kết nội tại", và các xã hội "hổ thẹn" (như ở Nhật Bản khi "mang lại sự hổ thẹn cho tổ tiên của ai đó") với "chuẩn mực có liên kết bên ngoài", khi người ta xem phản hồi của người khác lên hành động của mình xem có "chấp nhận được" hay không (còn gọi là "ý nghĩ của cả nhóm").
+
+Phạm vi mà xã hội, hoặc các nhóm là "cá nhân" có thể thay đổi theo thời gian và giữa các quốc gia. Ví dụ, xã hội Nhật Bản có tính định hướng nhóm hơn (ví dụ như các quyết định thường do đồng thuận cả nhóm thay vì là bởi các cá nhân), và có lập luận rằng "tính cá nhân ít phát triển" (so với phương Tây). Ở Mỹ thì có suy nghĩ thông thường rằng là con người là điểm kết cá nhân của hành vi, trong khi ở các xã hội châu Âu lại có xu hướng tin vào "tinh thần công", chi tiêu "xã hội" của nhà nước, và các hoạt động "công cộng".
+
+John Kenneth Galbraith đưa ra một phân tách cổ điển giữa "ảnh hưởng tư nhân và sự nghèo khổ công cộng" ở Mỹ, và sự nghèo khổ tư nhân và ảnh hưởng công cộng tại châu Âu, và có tồn tại mối tương quan giữa chủ nghĩa cá nhân với mức độ can thiệp công và việc đánh thuế.
+
+Chủ nghĩa cá nhân thường là đối lập với chủ nghĩa cực quyền và chủ nghĩa tập thể, nhưng trên thực tế có hàng loạt các hành vi trung gian trải từ mức độ xã hội đến các xã hội có tính cá nhân cao (như tại Mỹ) thông qua các xã hội hỗn hợp (thuật ngữ nước Anh sử dụng sau Thế chiến II) đến xã hội tập thể. Đồng thời, nhiều nhà theo chủ nghĩa tập thể (đặc biệt những người ủng hội chủ nghĩa vô chính phủ hoặc chủ nghĩa xã hội tự do) chỉ ra sự khác nhau khá lớn giữa chủ nghĩa tập thể tự do và thực tiễn trong chủ nghĩa cực quyền.
+
+Chủ nghĩa cá nhân, đôi khi cũng gần gũi với các biến thể của chủ nghĩa vô chính phủ cá nhân, chủ nghĩa tự do hoặc chủ nghĩa tự do cổ điển, thông thường quan niệm rằng cá nhân biết rõ nhất và sâu sắc nhất và các nhà chức trách đại diện cho quyền lực công hoặc xã hội có quyền can thiệp vào quá trình ra quyết định của cá nhân chỉ khi có nhu cầu cấp thiết xuất hiện (và đôi khi có thể không trong những hoành cảnh như vậy). Kiểu tranh luận này thường thấy khi liên hệ tới các tranh cãi về chính sách liên quan đến điều tiết nền công nghiệp.
+
+## Chủ nghĩa cá nhân trong kinh tế
+
+[sửa | sửa mã nguồn]Học thuyết chủ nghĩa cá nhân kinh tế xem mỗi cá nhân cần được tự quyết trong các quyết định kinh tế của mình, đối lập với các quyết định do nhà nước, hoặc cộng đồng đưa ra cho anh ta. Hơn thế, chủ nghĩa cá nhân kinh tế chủ trương sở hữu tư nhân tài sản, đối lập với các cơ cấu tổ chức tập thể hay nhà nước. Chủ nghĩa tư bản thường được nói đến như là một hệ thống kinh tế dựa trên những quan điểm này. Dạng cấp tiến của chủ nghĩa tư bản thừa kế sâu sắc tư tưởng cá nhân chủ nghĩa trong kinh tế và được gọi là chủ nghĩa tư bản *laissez-faire*.
+
+Các nhà phê bình chủ nghĩa tư bản hiện đại đôi khi lập luận rằng chủ nghĩa tư bản không chỉ dựa trên các cá nhân mà chủ yếu dựa trên các hãng và các thể chế, và vai trò của các cá nhân là phụ thuộc vào các thể chế này. Tuy nhiên, so sánh với nhiều dạng khác nhau của chủ nghĩa tập thể trong chính trị, chủ nghĩa tư bản thường vẫn được xem là cá nhân vì sự tham gia của các thể chế là tự nguyện và là sự lựa chọn của cá nhân. Dĩ nhiên, chủ nghĩa tư bản có thể cũng phát triển cả trong những xã hội tập thể với sự lựa chọn của cá nhân. Sự khác biệt ở đây là sự lựa chọn này dựa trên cái gì: nhu cầu cá nhân hay nhu cầu tập thể.
+
+## Chủ nghĩa cá nhân và lịch sử nước Mỹ
+
+[sửa | sửa mã nguồn]Vào thời kỳ hình thành nước Mỹ, nhiều công dân tại đây đã đến nước Mỹ do chạy trốn từ những áp bức tôn giáo hay nhà nước ở châu Âu và do vậy chịu ảnh hưởng của các tư tưởng bình đẳng bác ái mà sau này được diễn tả trong cuộc Cách mạng Pháp. Những ý tưởng như vậy cũng đã ảnh hưởng đến những Cha đẻ của Hiến pháp Hoa Kỳ (chủ nghĩa Jefferson) những người tin rằng nhà nước cần đảm bảo bảo vệ quyền cá nhân bằng bản thân hiến pháp; ý tưởng này đã dẫn đến việc thông qua Tu chính Hiến pháp về Quyền Công dân. Theo Ronald Scollon, "ý tưởng căn bản Mỹ của chủ nghĩa nghĩa cá nhân " có thể tóm tắt bằng hai mệnh đề: 1. Cá nhân là cơ sở của tất cả các thực tại và tất cả các xã hội. 2. Cá nhân được xác định bởi những gì không phải là anh ta hay chị ta". Giải thích mệnh đề thứ hai, ông nói chủ nghĩa cá nhân Mỹ nhấn mạnh rằng cá nhân là chủ thể *không* phụ thuộc vào bất kỳ một sự tài phán nào của pháp luật và là một chủ thể "không" phụ thuộc tiền lệ hay truyền thống.[7]
+
+## Các quan điểm đối lập
+
+[sửa | sửa mã nguồn]Chủ nghĩa cá nhân có ý tiêu cực trong một số xã hội và môi trường nhất định, những nơi xem chủ nghĩa cá nhân gắn liền với chủ nghĩa vị kỷ. Ví dụ, chủ nghĩa cá nhân bị phê phán nặng nề nhất ở các nước Đông Á nơi mà các hành vi vị kỷ theo truyền thống bị xem là những hành vi phản bội của người đó trước những người mà cá nhân đó có nghĩa vụ (ví dụ gia đình hay công ty). Sự thiếu vắng của hệ thống y tế toàn diện tại Mỹ, bắt nguồn từ niềm tin vào trách nhiệm của cá nhân (chứ không phải là xã hội), bị chỉ trích nặng nề tại châu Âu và các nước khác nơi có hệ thống y tế toàn diện (thường sử dụng vốn từ nguồn thuế) nhằm bảo vệ cá nhân trước những thăng trầm của đời sống hay những vấn đề về sức khỏe.
+
+Những người ủng hộ những hoạt động công cộng và trách nhiệm xã hội tranh luận rằng chính sách của họ là có lợi cho cá nhân, và chủ nghĩa cá nhân cực đoan có thể làm tổn thương chính bản thân cá nhân. Nhưng những người không ủng hộ lại cho rằng những hoạt động công có thể có hậu quả không lường trước nằm ngoài phạm vi mà những chính sách này dự định giải quyết. Nhiều nhà cá nhân chủ nghĩa cho rằng lập luận "có lợi cho cá nhân" là không thích hợp và rằng chủ nghĩa cá nhân không phải là nói nhiều về quyền lợi cá nhân mà là sự lựa chọn của cá nhân.
+
+Alexis de Tocqueville, với tác phẩm Dân chủ ở Mỹ được dịch sang tiếng Anh năm 1840 (xuất bản bằng tiếng Pháp năm 1835) cũng sử dụng thuật ngữ này.[3][8] Tocqueville mô tả người Mỹ có tính cá nhân rất cao và tin rằng chủ nghĩa cá nhân không thể tách rời khỏi quan điểm kiểu Mỹ về nền dân chủ bình đẳng.[9] Ông viết, "*Không chỉ nền dân chủ khiến người ta quên đi tổ tiên của họ, mà còn ảnh hưởng đến con cháu họ và tách rời họ ra khỏi hiện tại, Mỗi một con người giờ đây bị quẳng vĩnh viễn trở lại với bản thể của mình, và có nguy cơ là anh ta sẽ bị nhốt trong nỗi cô đơn của tâm hồn*." Và, "*Chủ nghĩa cá nhân là một cảm nhận lạnh lùng và chín muồi, nó vứt bỏ từng thành viên của cộng đồng bằng cách chặt đứt bản thân anh ta rời khỏi cộng đồng của anh ta và kéo anh ta rời khỏi gia đình và bạn bè của anh ta, vì vậy sau khi anh ta đã tự tạo cho mình một vòng tròn nhỏ của riêng mình, anh ta sẵn sàng rời bỏ xã hội chung để đi tới chính mình. Ích kỷ nảy sinh ngay từ khi sinh như là một bản chất mù quáng; chủ nghĩa cá nhân tiến triển từ những phán xét sai lầm hơn là từ những cảm nhận đồi trụy; chủ nghĩa cá nhân phát sinh từ sự thiếu hiểu biết của trí óc hơn là từ sự bướng bỉnh của con tim. Tính tự kỷ nhốt chặt hòn ngọc của đức hạnh trong tối tăm; chủ nghĩa cá nhân, ban đầu, chỉ liếm đức hạnh của cuộc sống chung; nhưng lâu dài chủ nghĩa cá nhân tấn công và phá hủy tất cả các đức hạnh khác và với thời gian nhốt tất cả trong tầm thấp hèn của ích kỷ.*"[10]
+
+Phát biểu của Nguyễn Phú Trọng tại lễ kỷ niệm sinh nhật 125 năm ngày sinh Hồ Chí Minh, có đoạn trích dẫn các quan điểm Hồ Chí Minh về xây dựng Đảng: "*Kiên quyết đấu tranh chống chủ nghĩa cá nhân, gột rửa chủ nghĩa cá nhân, bởi vì "chủ nghĩa cá nhân là kẻ thù hung ác của đạo đức cách mạng, của chủ nghĩa xã hội"; "là thứ gian giảo, xảo quyệt", "là mẹ đẻ ra tất cả mọi tính hư, nết xấu", nó "kéo người ta xuống dốc không phanh*..."[11]. Tuy nhiên một thực tế kinh tế thị trường kéo theo tâm lý cá nhân chủ nghĩa phát triển.
+
+## Tham khảo
+
+[sửa | sửa mã nguồn]- ^
+**a**Swart, Koenraad W. (1962). ""Individualism" in the Mid-Nineteenth Century (1826-1860)".**b***Journal of the History of Ideas*. Quyển 23 số 1. tr. 77–90. **^**Lukes, Steven (1971). "The Meanings of "Individualism"".*Journal of the History of Ideas*. Quyển 32 số 1. tr. 45–66.- ^
+**a****b****c**Claeys, Gregory (1986). ""Individualism," "Socialism," and "Social Science": Further Notes on a Process of Conceptual Formation, 1800-1850".**d***Journal of the History of Ideas*. Quyển 47 số 1. tr. 81–93. - ^
+**a**Beugelsdijk, S., & Welzel, C. (2018). Dimensions and dynamics of national culture: Synthesizing Hofstede with Inglehart.**b***Journal of Cross-Cultural Psychology*,*49*(10), 1469-1505. **^**Inglehart, Ronald F. (2018). "Chapter 3. Global Cultural Patterns". Cultural Evolution:*People's Motivations are Changing, and Reshaping the World*. Cambridge University Press. p. 40.**^**Minkov, M., Dutt, P., Schachner, M., Morales, O., Sanchez, C., Jandosova, J., ... & Mudd, B. (2017). A revision of Hofstede’s individualism-collectivism dimension.*Cross Cultural & Strategic Management*.**^**Scollon, Ronald. Intercultural Communication. Blackwell Publishing. 2001. p. 221**^**"Individualism",*Encyclopædia Britannica*, 2005.**^**Scollon, Ronald. Intercultural Communication. Blackwell Publishing. 2001. p. 220**^**"Democracy in America," Volume 2, Book Two, Chapter 2. [1] Lưu trữ ngày 14 tháng 2 năm 2007 tại Wayback Machine**^**Phát biểu của Tổng Bí thư Nguyễn Phú Trọng tại kỷ niệm sinh nhật Bác
+
+- Adam Smith
+*The Wealth of Nations* - Frederic Bastiat
+*The State* - Ayn Rand
+*Capitalism: The Unknown Ideal* - Karl Popper The Open Society and Its Enemies
+- Lawrence Kohlberg
+*Six Stages of Moral Development*
+
+## Đọc thêm
+
+[sửa | sửa mã nguồn]- Dumont, Louis (1992).
+*Essays on Individualism: Modern Ideology in Anthropological Perspective*. Chicago: University Of Chicago Press. ISBN 0-226-16958-8. - Lukes, Steven (1973).
+*Individualism*. New York: Harper & Row. ISBN 0-631-14750-0. - Renaut, Alain (1999).
+*The Era of the Individual*. Princeton, NJ: Princeton University Press. ISBN 0-691-02938-5. - Rand, Ayn (1964).
+*The Virtue of Selfishness*. Signet Book. ISBN 0-451-16393-1.
+
+## Xem thêm
+
+[sửa | sửa mã nguồn]- Chủ nghĩa vô chính phủ
+- Chủ nghĩa tập thể
+- Chủ nghĩa tư bản vô chính phủ
+- Chủ nghĩa khế ước
+- Chủ nghĩa vô chính phủ cá nhân
+- chủ nghĩa tự do
+- Chủ nghĩa khách thể
+- Chủ nghĩa hiện sinh
+- Chủ thể cá nhân
+- Nghịch lý của cái chung
+- Nghịch lý của cái phản-cái chung
+- Chủ nghĩa công xã
+- Ayn Rand
+- Chủ nghĩa khách quan
+
+## Liên kết ngoài
+
+[sửa | sửa mã nguồn]- Tạp chí
+*The New Individualist*Lưu trữ ngày 4 tháng 6 năm 2021 tại Wayback Machine - Individual-I Lưu trữ ngày 26 tháng 11 năm 2020 tại Wayback Machine
+- Where the Individual Counts
+- The Ayn Rand Institute

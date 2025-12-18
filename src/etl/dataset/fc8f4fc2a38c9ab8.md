@@ -1,0 +1,92 @@
+# Mẫu Báo cáo kết quả tổ chức ngày 20 tháng 11? Tải về Mẫu Báo cáo kết quả tổ chức ngày Nhà giáo Việt Nam file word?
+
+**Mẫu Báo cáo kết quả tổ chức ngày 20 tháng 11? Tải về Mẫu Báo cáo kết quả tổ chức ngày Nhà giáo Việt Nam chi tiết file word? Hướng dẫn thực hiện Ngày Nhà giáo Việt Nam ngày 20 tháng 11 ra sao theo Thông tư 26?**
+
+**Mẫu Báo cáo kết quả tổ chức ngày 20 tháng 11? Tải về Mẫu Báo cáo kết quả tổ chức ngày Nhà giáo Việt Nam file word?**
+
+**Tham khảo**** Mẫu Báo cáo kết quả tổ chức ngày 20 tháng 11 - Mẫu Báo cáo kết quả tổ chức ngày Nhà giáo Việt Nam dưới đây:**
+
+**Tải về Mẫu Báo cáo kết quả tổ chức ngày 20 tháng 11 - Mẫu Báo cáo kết quả tổ chức ngày Nhà giáo Việt Nam**
+
+*Xem thêm:*
+
+Tên Mẫu | Tải về |
+Biểu Mẫu Tổng kết phong trào thi đua chào mừng ngày Nhà giáo Việt Nam 20/11 | |
+Tổng hợp Mẫu Thông báo ngày 20 tháng 11 dành cho trường học | |
+Mẫu Biên bản cuộc họp Ngày nhà giáo Việt Nam |
+
+*Mẫu Báo cáo kết quả tổ chức ngày 20 tháng 11? Tải về Mẫu Báo cáo kết quả tổ chức ngày Nhà giáo Việt Nam file word? (Hình từ Internet)*
+
+**Hướng dẫn thực hiện Ngày Nhà giáo Việt Nam ngày 20 tháng 11 ra sao theo Thông tư 26?**
+
+Hướng dẫn thực hiện Ngày Nhà giáo Việt Nam ngày 20 tháng 11 được nêu tại Thông tư 26-TT-1982, cụ thể:
+
+(1) Ngày Nhà giáo Việt Nam được tổ chức thống nhất trong cả nước vào ngày 20 tháng 11 hàng năm trong tất cả các trường học ở các cấp, thuộc các ngành học mẫu giáo, bổ túc văn hoá, phổ thông và sư phạm.
+
+(2)
+
+2.1 Hàng năm, từ tháng 10, các cấp quản lý giáo dục Công đoàn giáo dục cần chủ động báo cáo với các cấp chính quyền, đoàn thể để có cuộc họp nhằm xem xét tình hình công tác và hoạt động của đội ngũ giáo viên; kiểm điểm việc đã làm và đề ra những việc cần tiếp tục làm.
+
+Cần chú ý những vấn đề quan trọng sau:
+
+- Thực hiện đầy đủ và kịp thời các chế độ, chính sách của Nhà nước đã ban hành cho giáo viên như cung cấp lương thực, thực phẩm, phân phối vải, chăm sóc sức khoẻ, điều kiệm ăn ở, làm việc, nghỉ ngơi, chế độ lương và quan tâm giáo dục, bồi dưỡng chính trị, đạo đức phát triển Đảng... để từng bước nâng cao đời sống vật chất và tinh thần cho giáo viên góp phần xây dựng đội ngũ giáo viên ngày càng vững mạnh.
+
+- Trên cơ sở đánh giá đầy đủ tình hình đội ngũ hiện nay, yêu cầu cô giáo, thầy giáo nâng cao hơn nữa nhận thức về vinh dự, trách nhiệm, ra sức phấn đấu làm tốt nhiệm vụ của mình góp phần đào tạo lớp người mới xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa.
+
+2.2 Trước hoặc trong ngày 20 tháng 11, cán bộ quản lý giáo dục cần có kế hoạch để các đồng chí lãnh đạo cấp uỷ, chính quyền, hội đồng giáo dục, hội cha mẹ học sinh, cơ quan, xí nghiệp, đoàn thể, phụ nữ, thanh niên đi thăm hỏi, tổ chức họp mặt thân mật và động viên khen thưởng những giáo viên, công nhân viên, cán bộ giáo dục có thành tích (kể cả các cán bộ, giáo viên đã nghỉ hưu).
+
+2.3 Cần tuyên truyền sâu rộng ý nghĩa ngày Nhà giáo Việt Nam trong mọi ngành mọi giới ở các cấp.
+
+Nên tận dụng các phương tiện thông tin, các cuộc họp để tuyên truyền, biểu dương những việc làm thiết thực thể hiện sự thấm nhuần sâu sắc ý nghĩa ngày Nhà giáo Việt Nam của mọi ngành, mọi giới trong xã hội ta.
+
+(3) Trong ngày 20 tháng 11, các trường học có thể sắp xếp lại việc học tập, giảng dạy để giáo viên được nghỉ và tham gia các sinh hoạt của trường và địa phương.
+
+Từng trường học cần có những hình thức sinh hoạt phong phú, gọn nhẹ như giới thiệu truyền thống nhà giáo; kể lại những kỷ niệm sâu sắc nhất trong nghề dạy học; trích đọc thư của học sinh gửi về trường; mời học sinh có nhiều thành tích trong sản xuất, học tập, công tác và chiến đấu về trường nói chuyện; hội thảo về vinh dự, trách nhiệm của cô giáo, thầy giáo; giáo dục lòng yêu nghề, yêu trẻ cho học sinh trường sư phạm; tổ chức các hoạt động văn nghệ, thể dục thể thao ...
+
+Các trường học cần sơ kết thi đua và phát động đợt thi đua mới nhằm thực hiện tốt các nhiệm vụ đề ra trong học kỳ I.
+
+Từ nhiều năm nay, các địa phương đã có kinh nghiệm tổ chức ngày 20 tháng 11. Chấp hành nghiêm chỉnh quyết định của Hội đồng Bộ trưởng bảo dảm được ý nghĩa của ngày Nhà giáo Việt Nam, các địa phương cần thực hiện thông tư này và vận dụng các kinh nghiệm tốt để ngày 20 tháng 11 hàng năm được tổ chức thật trọng thể, thiết thực, tránh hình thức phô trương, gây phiền hà cho học sinh và cha mẹ học sinh.
+
+**Quyền và nghĩa vụ của nhà giáo được quy định thế nào?**
+
+Quyền và nghĩa vụ của nhà giáo được quy định tại Điều 8, Điều 9 Luật Nhà giáo 2025, cụ thể như sau:
+
+**Quyền của nhà giáo**
+
+**(1) **Nhà giáo trong cơ sở giáo dục công lập thực hiện các quyền theo quy định của pháp luật về viên chức và quy định khác của pháp luật có liên quan. Nhà giáo trong cơ sở giáo dục ngoài công lập thực hiện các quyền theo quy định của pháp luật về lao động và quy định khác của pháp luật có liên quan.
+
+**(2)** Ngoài quy định tại mục (1), nhà giáo còn có các quyền sau đây:
+
+- Được giảng dạy, giáo dục phù hợp chuyên môn đào tạo; chủ động phân phối thời lượng, sắp xếp nội dung theo chương trình giáo dục; lựa chọn, sử dụng tài liệu, học liệu phục vụ hoạt động giảng dạy, giáo dục; nhận xét, đánh giá, tham gia khen thưởng, xử lý kỷ luật người học theo quy định của pháp luật, quy chế tổ chức và hoạt động của cơ sở giáo dục;
+
+- Được nghiên cứu khoa học và chuyển giao sản phẩm nghiên cứu khoa học, hưởng chính sách ưu đãi trong hoạt động nghiên cứu khoa học; tham gia quản lý, điều hành doanh nghiệp do cơ sở giáo dục đại học thành lập, hoạt động trong lĩnh vực phát triển khoa học, đổi mới sáng tạo, ứng dụng và chuyển giao công nghệ theo quy định của pháp luật;
+
+- Được tôn trọng, bảo vệ uy tín, danh dự, nhân phẩm; được đối xử bình đẳng trong hoạt động và phát triển nghề nghiệp;
+
+- Được nghỉ hè và các ngày nghỉ khác theo quy định của pháp luật;
+
+- Được đào tạo, bồi dưỡng nâng cao trình độ;
+
+- Được tham gia giảng dạy, nghiên cứu khoa học tại cơ quan, tổ chức, đơn vị khác theo quy định của pháp luật, quy chế tổ chức và hoạt động của cơ sở giáo dục.
+
+**Nghĩa vụ của nhà giáo**
+
+**(1)** Nhà giáo trong cơ sở giáo dục công lập thực hiện các nghĩa vụ theo quy định của pháp luật về viên chức và quy định khác của pháp luật có liên quan. Nhà giáo trong cơ sở giáo dục ngoài công lập thực hiện các nghĩa vụ theo quy định của pháp luật về lao động và quy định khác của pháp luật có liên quan.
+
+**(2) **Ngoài quy định tại **mục (1)**, nhà giáo còn có các nghĩa vụ sau đây:
+
+- Giảng dạy, giáo dục đúng mục tiêu, nguyên lý giáo dục; thực hiện đầy đủ và có chất lượng chương trình giáo dục;
+
+- Giữ gìn phẩm chất, uy tín, danh dự, nhân phẩm, đạo đức nhà giáo; mẫu mực, nêu gương trong hoạt động nghề nghiệp và ứng xử trong quan hệ xã hội; bảo đảm liêm chính học thuật;
+
+- Phát huy phẩm chất, năng lực và phát hiện, bồi dưỡng năng khiếu của người học;
+
+- Tôn trọng, đối xử công bằng, bảo vệ quyền, lợi ích hợp pháp, chính đáng của người học;
+
+- Thực hiện nhiệm vụ nghiên cứu khoa học; nghiên cứu và áp dụng khoa học giáo dục; cập nhật nâng cao kỹ năng thực hành, tiếp cận công nghệ mới theo quy định của pháp luật;
+
+- Tham gia xây dựng môi trường giáo dục an toàn, dân chủ, đổi mới, sáng tạo.
+
+**Lưu ý: **Luật Nhà giáo 2025 có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.
+
+Quý khách cần hỏi thêm thông tin về có thể đặt câu hỏi tại đây.

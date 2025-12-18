@@ -1,0 +1,185 @@
+*Vụ án Tống Văn Sơ*
+
+| Vụ án Tống Văn Sơ | |
+|---|---|
+| Tòa án | Ủy ban Tư pháp Cơ mật viện Vương quốc Anh |
+| Tên đầy đủ | Sung Man Cho v. Superintendent of Prisons Hong Kong, PC Appeal No. 9, 1932 |
+| Tranh tụng | Không diễn ra do bên nguyên đơn rút kháng cáo |
+| Phán quyết | 21 tháng 7 năm 1932 |
+| Lịch sử vụ việc | |
+| Trước đó | Nguyên đơn (Tống Văn Sơ) nộp đơn kiện habeas corpus (tháng 7 năm 1931)Đơn bị Tòa án Tối cao Hồng Kông bác bỏ (tháng 9 năm 1931) Kháng cáo lên Ủy ban Tư pháp Cơ mật viện (tháng 9 năm 1931) |
+| Tiếp theo | Tống Văn Sơ được thả tự do (tháng 1 năm 1933) |
+| Kết luận cuối cùng | |
+Bên nguyên đơn tự rút đơn kháng cáo. Tòa án ra phán quyết giữ nguyên lệnh trục xuất Tống Văn Sơ khỏi Hồng Kông với 4 điều khoản:
+| |
+| Thành viên phiên tòa | |
+| Phụ thẩm | Thomas Tomlin William Watson Robert Wright |
+
+**Vụ án Tống Văn Sơ** là sự kiện liên quan đến Nguyễn Ái Quốc (Hồ Chí Minh) khi ông bị bắt giam ở Hồng Kông từ ngày 6 tháng 6 năm 1931 đến ngày 22 tháng 1 năm 1933. Trong vụ án này, nhóm luật sư dẫn đầu bởi Francis Henry Loseby đứng ra bào chữa cho Nguyễn Ái Quốc nhằm giúp ông không bị dẫn độ về Đông Dương thuộc Pháp. Vụ án cho thấy vai trò của Quốc tế Cộng sản, thông qua tổ chức Cứu tế Đỏ Quốc tế, trong việc hỗ trợ về mặt pháp lý và tuyên truyền,[1] cũng như những cảm tình viên Quốc tế Cộng sản trong hệ thống tư pháp Anh, như Richard Stafford Cripps, đã giúp Nguyễn Ái Quốc thoát khỏi nhà tù Hồng Kông an toàn.
+
+Trong giai đoạn 1930–31, Nguyễn Ái Quốc hoạt động chủ yếu tại Hồng Kông dưới tên giả **Tống Văn Sơ** (tiếng Anh phiên âm từ tiếng Quảng Đông: **Sung Man Cho**, chữ Hán: 宋文初).[2] Trong thời gian này, mạng lưới tình báo Pháp–Anh tăng cường hoạt động nhằm ngăn chặn sự bành trướng của Quốc tế Cộng sản. Sau khi Joseph Ducroux, đặc phái viên của Quốc tế Cộng sản, bị Sở Liêm phóng Pháp đọc trộm thư từ liên lạc, tung tích của Nguyễn Ái Quốc cũng bị bại lộ. Ông bị cảnh sát thuộc địa tại Hồng Kông bắt giam khi đang trú tại Cửu Long. Chính quyền Hồng Kông dự định trục xuất ông về Đông Dương, điều này dẫn đến khả năng ông sẽ bị chính quyền Pháp bắt giữ và xét xử ngay khi rời khỏi Hồng Kông. Luật sư Francis Henry Loseby đã đệ đơn kiện Tổng đốc các trại giam Hồng Kông lên Toà án Tối cao Hồng Kông. Vụ án được xét xử lần đầu từ ngày 14 tháng 8 năm 1931 đến ngày 11 tháng 9 năm 1931 và Nguyễn Ái Quốc bị tòa tuyên bố trục xuất. Nhóm luật sư đại diện Nguyễn Ái Quốc tiếp tục kháng án lên Ủy ban Tư pháp thuộc Cơ mật viện Vương quốc Anh. Vụ án được dàn xếp ngoài tòa nên phiên tòa tranh tụng phúc thẩm không được diễn ra. Cơ mật viện Vương quốc Anh tuyên bố trục xuất Nguyễn Ái Quốc với điều kiện đảm bảo ông không bị bắt giữ bởi Pháp sau khi rời khỏi Hồng Kông. Sau khi bị trục xuất lần đầu tiên ngày 6 tháng 1 năm 1933, ông bị bắt lại ở Singapore và trở lại Hồng Kông. Nhờ sự giúp đỡ của Loseby và Thống đốc Hồng Kông, ông chính thức rời khỏi Hồng Kông vào ngày 22 tháng 1 năm 1933 để đến Liên Xô tiếp tục hoạt động.
+
+## Bối cảnh
+
+[sửa | sửa mã nguồn]Trong giai đoạn từ 1928 đến 1930, Nguyễn Ái Quốc hoạt động cách mạng bí mật tại Thái Lan. Đầu năm 1930, theo yêu cầu của Quốc tế Cộng sản, ông rời Thái Lan đến Hồng Kông. Tại đây, với danh nghĩa Phái viên Quốc tế Cộng sản, Nguyễn Ái Quốc cùng với 6 người gồm Hồ Tùng Mậu, Lê Hồng Sơn, Trịnh Đình Cửu, Nguyễn Đức Cảnh, Châu Văn Liêm và Nguyễn Thiệu đã tiến hành Hội nghị hợp nhất 3 đảng: An Nam Cộng sản Đảng, Đông Dương Cộng sản Đảng và Đông Dương Cộng sản Liên đoàn (đại diện không kịp có mặt tại hội nghị) thành một đảng, lấy tên là Đảng Cộng sản Việt Nam.[3]
+
+Tuy nhiên, Quốc tế Cộng sản chủ trương chỉ thành lập ở Đông Dương một đảng duy nhất, thay vì riêng rẽ từng nước. Do vậy, tại Hội nghị lần thứ nhất của Ban chấp hành Trung ương Đảng ở Hồng Kông tháng 10 năm 1930, tên của đảng được đổi thành Đảng Cộng sản Đông Dương, với Trần Phú làm Tổng bí thư đầu tiên.
+
+Trong giai đoạn 1930–1931, những cuộc nổi dậy trong phong trào Xô Viết Nghệ Tĩnh do Đảng cộng sản lãnh đạo bị chính quyền thực dân Pháp đàn áp dữ dội. Những thành viên lãnh đạo như Nguyễn Đức Cảnh, Nguyễn Phong Sắc, Lê Mao... bị Pháp truy bắt và tử hình. Nguyễn Ái Quốc bị tuyên án tử hình vắng mặt tại Tòa đại hình Vinh trước đó vào tháng 10 năm 1929 và lần hai vào tháng 2 năm 1930.[4][5]
+
+Tháng 4 năm 1930, Nguyễn Ái Quốc đến Thái Lan, Singapore, và Malaysia hoạt động thời gian ngắn. Trong thời gian ở Singapore, ông được Tổng lãnh sự Trung Quốc ở Singapore cấp hộ chiếu số B.98, mang tên "Tống Văn Sơ", quốc tịch Trung Quốc.[6] Tháng 5 năm 1930, ông trở về Hồng Kông.[7]
+
+## Diễn biến
+
+[sửa | sửa mã nguồn]### Bị bắt tại Cửu Long
+
+[sửa | sửa mã nguồn]Khoảng đầu thập niên 1930, nhằm chống lại sự bành trướng của Quốc tế Cộng sản, mạng lưới tình báo Anh-Pháp tăng cường hoạt động tại Châu Á, đặc biệt khu vực Đông Nam Á.[8] Một đặc phái viên của Quốc tế Cộng sản, Joseph Ducroux[5] (còn có tên khác là Serge Lefranc) đã bị Sở Liêm phóng Pháp đọc trộm thư từ liên lạc rồi thông báo cho cơ quan tình báo Anh tại xứ Mã Lay thuộc Anh. Ngày 1 tháng 6 năm 1931, Ducroux bị bắt cùng 16 thành viên khác khi đang hoạt động tại Singapore.[9]
+
+Từ những sổ tay và thư từ của Ducroux, tình báo Anh lần ra thông tin những thành viên Quốc tế Cộng sản đang hoạt động tại Trung Quốc và Hồng Kông. Cấp trên của Lefranc kiêm Thư ký Chi nhánh Bộ Phương Đông (Bộ Liên lạc Quốc tế) Hilaire Noulens[a] bị bắt tại Thượng Hải (Trung Quốc) vào tháng 6 năm 1931.[11] Ngoài ra tình báo Anh còn phát hiện địa chỉ Nguyễn Ái Quốc ở Hồng Kông. Vào lúc 2:00 sáng ngày 6 tháng 6 năm 1931, tại nhà số 186 phố Tam Kung, Cửu Long, một tốp cảnh sát ập vào bắt giữ Nguyễn Ái Quốc khi đó đang ở cùng Lý Phương Thuận (tên tiếng Anh: *Li Sam*[12] hoặc *Ly Ung Thuan*, vợ của Hồ Tùng Mậu[13]). Thời điểm bị bắt, Nguyễn Ái Quốc mang giấy tờ tùy thân tên "Tống Văn Sơ", quốc tịch Trung Quốc.[12] Nguyễn Ái Quốc bị bắt với nghi vấn tuyên truyền chống chính quyền Anh quốc theo "Sắc lệnh cấm xuất bản tài liệu chống chính quyền năm 1914"[b] của chính quyền thuộc địa Hồng Kông rồi bị đưa về Nhà tù Victoria (Hồng Kông).[11]
+
+### Lệnh trục xuất đầu tiên
+
+[sửa | sửa mã nguồn]Sau khi bắt giữ, chính quyền Hồng Kông lùng sục nơi ở của Tống Văn Sơ nhưng không tìm được tài liệu nào chứng minh ông có liên quan đến các hoạt động âm mưu lật đổ của Quốc tế Cộng sản, cũng như ông không phạm tội nào ở Hồng Kông.[14] Toàn quyền Pháp tại Hà Nội, René Robin, nhận được tin báo về việc bắt được Nguyễn Ái Quốc và đề nghị chính quyền Anh tại Hồng Kông thực hiện dẫn độ về Đông Dương để xét xử. Đổi lại, Pháp hứa sẽ giao cho phía Anh số tù nhân là đảng viên cộng sản Ấn Độ và Myanmar bị bắt trên đất thuộc Pháp.[15] Nhưng vì giữa Anh và Pháp lúc đó không có hiệp ước dẫn độ riêng đối với các phạm nhân chính trị, nên chính quyền thuộc địa Anh ở Hồng Kông chỉ có thể tìm cách trục xuất Nguyễn Ái Quốc ra khỏi lãnh thổ Hồng Kông.[16][17] Sau 6 ngày tạm giam, chính quyền Hồng Kông ra quyết định trục xuất Nguyễn Ái Quốc: ông sẽ bị áp giải với lính canh trên một chiếc tàu của Pháp đến một điểm được định trước,[18] cụ thể là Việt Nam (nơi sinh của ông) — đây là kết quả thỏa thuận ngầm giữa họ và Tổng lãnh sự Pháp tại Hồng Kông,[19] vì tòa án Vinh ở tỉnh Nghệ An đã kết án tử hình vắng mặt Nguyễn Ái Quốc vào tháng 10 năm 1929.[20]
+
+Ngày 19 tháng 6 năm 1931, dưới sự hậu thuẫn thông tin từ Quốc tế Cộng sản, tờ báo *Nhân Đạo* thuộc Đảng Cộng sản Pháp và các tờ báo thiên tả khác đồng loạt đăng tin về vụ bắt giữ Tống Văn Sơ; qua ngày 22 và 23 tháng 6 có thêm hai tờ báo lớn ở Hồng Kông là *Hương Cảng Điện Báo* (*Hong Kong Telegraph*) và *Bưu điện Hoa Nam Buổi sáng* (*South China Morning Post*).[19][21] Ngày 23 tháng 6, báo *The Times* (Anh) cáo buộc Nguyễn Ái Quốc bị chính quyền Hồng Kông bắt theo yêu cầu của Pháp và phía Pháp đề nghị dẫn độ.[22] Bộ Thuộc địa Anh[c] —cơ quan nhà nước có trách nhiệm xử lý các vấn đề thuộc địa— bày tỏ quan ngại và chống lại việc dẫn độ. Sắc lệnh Trục xuất năm 1917 quy định việc Thống đốc Hồng Kông phải báo cáo cho Bộ Thuộc Địa Anh về những vấn đề liên quan đến lệnh trục xuất.[22]
+
+Sử gia William Duiker cho biết, theo luật trục xuất thời đó, chính quyền phải thực hiện thẩm vấn trục xuất để xác định nhân thân và nơi sinh nghi phạm trước khi chính thức trục xuất.[18] Một cuộc thẩm vấn (hay lấy cung) bằng tiếng Anh diễn ra vào ngày 10 tháng 7 năm 1931. Nghi phạm phủ nhận việc mình tên là Nguyễn Ái Quốc cũng như việc mang quốc tịch Việt Nam. Theo lời khai, ông tên Tống Văn Sơ và là người Trung Quốc, sinh ra ở một thị trấn nhỏ ở tỉnh Quảng Tây gần biên giới Việt Nam, từng đến Pháp nhưng chưa từng đến Liên Xô cũng như chưa bao giờ liên hệ với nhóm Quốc tế Cộng sản. Ông phủ nhận việc quen biết Serge Lefranc, nhưng thừa nhận đã ký tên trên tấm bưu thiếp được tìm thấy tại nơi ở của Lefranc. Ông liên tục phản đối việc bị trục xuất đến Đông Dương mà muốn được trục xuất đến Anh quốc.[18][23] Nếu đối chiếu với quy định thời đó thì cuộc thẩm vấn này đã trái luật, vì Tống Văn Sơ bị bắt ngày 6 tháng 6 nhưng mãi đến hơn một tháng sau thì nhà chức trách mới thẩm vấn ông.[d] Hơn nữa, người lấy cung không phải là người của tòa án mà là một người Anh làm việc tại Vụ Hoa kiều Hồng Kông.[24]
+
+Để cứu Tống Văn Sơ, tổ chức Cứu tế Đỏ Quốc tế, một cơ quan thuộc Quốc tế Cộng sản, đã thuê luật sư Francis Henry Loseby để hỗ trợ pháp lý.[25] Loseby cảnh báo với chính quyền Hồng Kông rằng nếu bị trục xuất, Tống Văn Sơ sẽ bị Pháp bắt giữ ngay khi vừa rời khỏi đất Hồng Kông để đưa về Đông Dương xét xử; đồng thời yêu cầu chính quyền Hồng Kông phải thả Tống Văn Sơ ra và cho phép Tống tự do đến nơi mà anh muốn.[26]
+
+Thống đốc Hồng Kông William Peel đành phải miễn cưỡng chấp thuận yêu cầu của luật sư Loseby. Trong bức điện tín báo cáo với Bộ Thuộc địa Anh tại London, Thống đốc Peel đề nghị nên thả tự do Tống Văn Sơ với điều kiện Tống phải rời Hồng Kông trong vòng 7 ngày. Theo ông, việc trục xuất Tống Văn Sơ về Đông Dương sẽ giống như một vụ dẫn độ trá hình và đi ngược lại những nguyên tắc công pháp của Anh quốc.[27] Tuy nhiên, phía chính quyền Pháp cũng quyết tâm thực hiện kế hoạch dẫn độ Tống Văn Sơ. Đại sứ Pháp tại London, Jules Cambon, bày tỏ sự quan điểm với chính phủ Anh rằng: "Tống Văn Sơ (Nguyễn Ái Quốc) là một 'mối hiểm họa trên bình diện quốc tế'[e] và đề nghị không được thả tự do". Bộ Ngoại giao Anh quốc (*Foreign Office*) muốn làm hài lòng phía chính phủ Pháp vì hai bên sẽ cùng hợp tác trong những hoạt động đàn áp nổi dậy trong khu vực Châu Á, nên đề nghị phải trục xuất Tống về Việt Nam như ý Pháp mong muốn.[28] Do vậy, Thống đốc Hồng Kông đành phải tống đạt lệnh trục xuất thứ hai cho Tống Văn Sơ.[29]
+
+Để ngăn cản lệnh trục xuất của Thống đốc Hồng Kông, ngày 31 tháng 7 năm 1931, luật sư Loseby tống đạt đơn kiện yêu cầu đình quyền giam giữ (*Habeas corpus*, hay còn gọi là lệnh bảo thân) lên Toà án Tối cao Hồng Kông —tòa án cao nhất trong hệ thống tư pháp Hồng Kông[30]— nhằm đưa vụ bắt giữ Tống Văn Sơ ra xét xử phiên tòa công khai.[29][31] Loseby thuê hai luật sư tranh tụng (*barrister*) để tham gia vụ kiện.[32]
+
+Trong khi đó, chính quyền Pháp tin tưởng rằng sẽ bắt được Nguyễn Ái Quốc và áp giải về Việt Nam. Vào ngày 8 tháng 8, Toàn quyền Đông Dương gửi bức điện mật mã số 843 đến Bộ Thuộc địa Pháp ở Paris như sau:
+
+| “ | Tiếp theo những bức điện của tôi số 784 và 835, tôi lấy làm phấn khởi báo tin Ngài Bộ trưởng biết rằng Nguyễn Ái Quốc đã bị bắt ở Hồng Kông ngày 6 tháng 6 tại địa chỉ ghi trên giấy tờ tịch thu được tại Singapore trên người Serge Lefranc. Việc bắt bớ này thực hiện được là nhờ có sự phối hợp giữa giám đốc Sở Liêm phóng Đông Dương với Sở Cảnh sát Anh tại Hồng Kông và Singapore, cùng với Sở cảnh sát tại tô giới Pháp ở Thượng Hải. Sự phối hợp đó đã tạo điều kiện cho chúng ta từ một tháng nay tiến hành những vụ bắt quan trọng ở Singapore, ở Hồng Kông, ở Thượng Hải, những tên chống đối như Hồ Tùng Mậu, Nguyễn Huy Bốn, Serge Lefranc, Đỗ Ngọc Du. Sở Liêm phóng Đông Dương còn bắt được tất cả những người lãnh đạo Đảng Cộng sản Đông Dương và chín người từ Moskva về...[33]
+|
+” |
+
+### Tranh tụng tại Tòa án Tối cao Hồng Kông
+
+[sửa | sửa mã nguồn]Từ ngày 14 tháng 8 đến 11 tháng 9 năm 1931, Toà án Tối cao Hồng Kông tổ chức tổng cộng 9 phiên tranh tụng vụ án giữa bên nguyên đơn (Tống Văn Sơ) và bên bị đơn (gồm Tổng đốc các trại giam Hồng Kông[f] và Thống đốc Hồng Kông).[34] Nhóm luật sư do Loseby dẫn đầu cùng với 2 luật sư tranh tụng F. C. Jenkin và A. M. L. Soares đứng ra bảo vệ bên nguyên đơn.[21]
+
+Sau hai phiên tranh tụng đầu tiên (ngày 14 và 15 tháng 8), Thẩm phán tối cao[g] Joseph Kemp cảnh báo với bên bị đơn rằng có thể tòa sẽ bác lệnh trục xuất ban đầu của Thống đốc Hồng Kông. Ngay trong ngày 15 tháng 8 năm 1931, Thống đốc Hồng Kông tống đạt lệnh trục xuất mới dành cho Tống Văn Sơ ngay tại tòa, viện dẫn một điều khoản khác trong "Sắc lệnh Trục xuất năm 1917" (*Deportation Ordinance 1917*).[29] Luật sư Jenkin phản đối lệnh trục xuất thứ hai này của Thống đốc Hồng Kông. Jenkin gọi lệnh trục xuất này là "một sự lạm dụng quyền hành pháp"[35] của chính quyền Hồng Kông.
+
+Ngày 11 tháng 9 năm 1931, Toà án Tối cao Hồng Kông xác nhận tính hợp pháp cho lệnh trục xuất thứ hai của chính quyền Hồng Kông. Tòa cho rằng, tuy lệnh trục xuất này có thể liên quan đến việc dẫn độ nếu xét trên phương diện chính trị, nhưng hoàn toàn không vi phạm luật Anh quốc. Lệnh bảo thân *Habeas Corpus* của Tống Văn Sơ bị tòa án bác và Tống lại đứng trước nguy cơ bị trục xuất đến Đông Dương; trong khi đó, Lý Phương Thuận được thả tự do và được phép rời Hồng Kông.[29][36]
+
+### Kháng án lên Cơ mật viện Vương quốc Anh
+
+[sửa | sửa mã nguồn]Phía luật sư của Tống Văn Sơ ngay lập tức kháng án đến Ủy ban Tư pháp thuộc Viện Cơ mật Vương quốc Anh, nơi có thẩm quyền tối cao đối với các vụ án xảy ra tại các xứ thuộc địa của Anh. Họ cho rằng lệnh trục xuất Tống Văn Sơ không có giá trị pháp lý theo luật Hồng Kông[37] và đây là "một sự lạm dụng quyền hành pháp" của chính quyền Hồng Kông.[35][38]
+
+Vì lịch làm việc của Viện Cơ mật chỉ có thể xử vụ việc của Tống Văn Sơ sớm nhất là đến tháng 11 năm 1932, tức hơn một năm sau đó,[25] nên Tống Văn Sơ vẫn phải bị giam tại Hồng Kông. Tuy nhiên, do ông không phạm tội hình sự nào, nên chính quyền Hồng Kông chuyển ông từ Nhà tù Victoria về bệnh xá nhà tù Bowen Road (sau này là Bệnh viện Quân y Anh quốc[39]). Thời điểm đó, sức khỏe ông suy nhược, thể trạng tiều tụy do mắc bệnh lao phổi.[38] Trong lá thư gửi đồng chí của ông là Lâm Đức Thụ, vào tháng 11 năm 1931, Tống Văn Sơ nói sức khỏe ông đang rất yếu và thường nôn ra máu.[40] Hoàng thân Cường Để đã gửi thư cho Tống Văn Sơ khi biết ông bệnh nặng và còn gửi 300 yên để hỗ trợ viện phí.[41][42]
+
+Đến đầu năm 1932, đơn kháng cáo của Tống Văn Sơ được đưa ra xét xử tại Ủy ban Luật pháp thuộc Viện Cơ mật Hoàng gia Anh. Lần này, luật sư đại diện Tống Văn Sơ là Denis Nowell Pritt —một luật sư danh tiếng người Anh thuộc công ty luật "Messrs Light & Fulton",[4][43] thành viên Công Đảng Anh, quan điểm thiên tả cực đoan và có xu hướng ủng hộ Liên Xô.[h] Còn đại diện Cơ mật viện là Richard Stafford Cripps[4] —đang giữ cương vị Phó Chưởng lý (*Solicitor General*) tại Anh, cũng thuộc Công Đảng Anh, quan điểm thiên tả, sau này trở thành Đại sứ Anh tại Liên Xô[32] và Bộ trưởng Bộ Tài chính Anh.[47]
+
+Sau khi tìm hiểu vụ kiện, Cripps cho rằng đơn kháng cáo của nguyên đơn đối với lệnh trục xuất từ chính quyền Hồng Kông sẽ được ủng hộ tại tòa Cơ mật viện và Tống Văn Sơ sẽ được thả tự do.[48] Theo nhà nghiên cứu Dennis Duncanson và chuyên viên pháp lý của Bộ Thuộc địa Anh Harold Bushe, Cripps có xu hướng thiên về quan điểm chính trị của bên nguyên đơn (Tống Văn Sơ) nên đã tìm cớ từ chối tranh tụng trước Viện Cơ mật.[49][50] Ngày 27 tháng 6 năm 1932, Cripps thay mặt Bộ Thuộc địa và chính quyền Hồng Kông, dàn xếp ngoài tòa (*out-of-court arrangement*) với Luật sư Pritt. Sau đó, phía nguyên đơn của Pritt chủ động rút đơn kháng án với điều kiện kết quả phải có lợi cho Tống Văn Sơ. Phiên tranh tụng giữa hai bên, do vậy, chưa bao giờ diễn ra trước tòa Cơ mật viện.[43][51]
+
+Ngày 21 tháng 7 năm 1932, vì bên nguyên đơn đã rút kháng án, Cơ mật viện đưa ra phán quyết với 4 điều khoản. Thứ nhất, bỏ việc chỉ định "áp giải bằng tàu biển" trong lệnh trục xuất. Thứ hai, sau khi trục xuất, nơi đến không được là lãnh thổ Pháp, thuộc địa bảo hộ của Pháp, hoặc đi bằng tàu biển của Pháp. Thứ ba, chính quyền Hồng Kông sẽ nỗ lực tối đa đảm bảo nguyên đơn được trục xuất đến nơi mà nguyên đơn mong muốn. Cuối cùng, chính quyền Hồng Kông sẽ góp 250 bảng Anh[43] vào chi phí tố tụng cho bên nguyên đơn.[52][53]
+
+### Thoát khỏi nhà tù Hồng Kông
+
+[sửa | sửa mã nguồn]Sau phiên kháng cáo tại Cơ mật viện, Nguyễn Ái Quốc có thể được thả tự do. Nhưng ông lo sợ sẽ bị chính quyền Pháp bắt khi đang trên đường đến London. Do tàu Liên Xô không cập cảng Hồng Kông được, Luật sư Loseby yêu cầu chính quyền Anh quốc hỗ trợ một địa điểm tị nạn tạm thời thuộc lãnh thổ Anh cho Nguyễn Ái Quốc. Vì lo sợ sẽ bị chính quyền Pháp bắt khi đi ngang kênh đào Suez và thành phố Port Said (Ai Cập), Nguyễn Ái Quốc yêu cầu được tị nạn tại Úc hoặc Nam Phi trước khi đến Châu Âu. Hai nước này đều từ chối.[51] Đứng trước tình thế này, ông đành phải từ bỏ ý định đến Anh, và chọn Moskva làm điểm đến sau khi được thả.
+
+Ngày 28 tháng 12 năm 1932, Nguyễn Ái Quốc được rời khỏi bệnh viện nhà tù Bowden Road, chính thức được tự do sau 18 tháng bị giam giữ. Chính quyền Hồng Kông ra lệnh ông phải rời khỏi Hồng Kông trong vòng 21 ngày. Gia đình Loseby đón ông và giúp ông thu xếp để rời Hồng Kông. Nguyễn Ái Quốc cải trang thành một nhà nho Trung Hoa với bộ râu giả, tạm trú bí mật tại Hiệp hội Thanh niên Cơ Đốc (YMCA) tại bán đảo Cửu Long chờ ngày rời Hồng Kông.[54] Nguyễn Ái Quốc quyết định sẽ đến Moskva. Tuy nhiên, nếu muốn đến Moskva từ Hồng Kông, phải chuyển tàu tại Thượng Hải hoặc Singapore,[55] rồi cập cảng Vladivostok, thành phố biển phía Đông nước Nga. Nguyễn Ái Quốc chọn đi Singapore.[51]
+
+Ngày 6 tháng 1 năm 1933, với sự hỗ trợ sắp xếp của Loseby, Nguyễn Ái Quốc đến Singapore. Tuy nhiên, nhà cầm quyền Hồng Kông lại điện mật cho Singapore biết việc này.[56][57] Cảnh sát thuộc địa tại bán đảo Malay (Singapore ngày nay) đã từ chối cho Nguyễn Ái Quốc nhập cảnh; do vậy, đến ngày 15 tháng 1 năm 1933, Nguyễn Ái Quốc buộc phải đi tàu trở lại Hồng Kông trên chiếc tàu *Ho Sang*.[54][58] Khi tàu cập cảng Hồng Kông ngày 19 tháng 1 năm 1933, cảnh sát Hồng Kông bắt Nguyễn Ái Quốc lần hai vì vi phạm lệnh của tòa (tức là cấm trở lại Hồng Kông trong vòng 10 năm).[59]
+
+Khi nghe tin Nguyễn Ái Quốc bị bắt lần hai, Loseby khẩn cầu Thống đốc Hồng Kông William Peel can thiệp và đứng ra bảo lãnh cho Nguyễn Ái Quốc. Thống đốc Peel ra lệnh thả Nguyễn Ái Quốc và yêu cầu ông phải rời khỏi Hồng Kông trong vòng 3 ngày. Để tránh tai mắt của mật thám Pháp, lần này Loseby cho ông ở tại một địa điểm bí mật tại Tân Giới, đồng thời tìm một hướng khác để thoát khỏi Hồng Kông. Lung Ting-chang, một thư ký của Loseby, cũng được sắp xếp để đi cùng Nguyễn Ái Quốc.[8]
+
+Khoảng 17 giờ ngày 22 tháng 1 năm 1933, cải trang thành một thương nhân giàu có,[60] Nguyễn Ái Quốc bí mật rời Hồng Kông trên một chiếc thuyền nhỏ, được sắp xếp bởi chính quyền Hồng Kông và thống đốc Peel, vượt ra eo biển Lý Ngư Môn (*Lei Yue Mun*) để đến chiếc tàu lớn An Huy (*An Hui*) đang chờ sẵn ngoài khơi.[54][58][61] Sau đó, Nguyễn Ái Quốc đã chính thức rời Hồng Kông trên tàu An Huy để đến Hạ Môn (tỉnh Phúc Kiến, Trung Quốc),[i] từ đó đi Thượng Hải, Vladivostok và Moskva.[62]
+
+## Tranh cãi
+
+[sửa | sửa mã nguồn]### Phát biểu của luật sư Loseby
+
+[sửa | sửa mã nguồn]Theo nguồn từ Đảng Cộng sản Việt Nam, ấn tượng của luật sư Loseby khi gặp Nguyễn Ái Quốc là "một người thanh niên Việt Nam gầy, xanh, song vẻ cương nghị, sự thông minh trong từng câu nói bằng tiếng Anh và đôi mắt sáng",[63] ngoài ra còn nói với Nguyễn Ái Quốc rằng: "Tôi nhận giúp anh vì danh dự chứ không phải vì tiền".[11][63][64]
+
+Tuy nhiên, không có học giả phương Tây nào xác nhận câu nói trên. Theo các sử gia phương Tây, tổ chức Cứu tế Đỏ Quốc tế (MOPR) đã sắp xếp và trả thù lao cho Loseby.[18][22][25] Với nguồn vốn dồi dào từ Quốc tế Cộng sản, đây là tổ chức chuyên hỗ trợ giúp đỡ các thành viên cộng sản. Họ "duy trì một lực lượng luật sư trên nhiều quốc gia để tham gia tranh tụng bảo vệ những đồng chí cộng sản của họ khi bị bắt".[1][22][65]
+
+### Người liên hệ luật sư Loseby
+
+[sửa | sửa mã nguồn]Theo nguồn của Đảng Cộng sản Việt Nam, Hồ Tùng Mậu là người đã đến gặp luật sư Loseby nhờ giúp đỡ.[63][64] Nhưng theo nhà nghiên cứu Dennis Duncanson, tổ chức Cứu tế Đỏ Quốc tế mới là người chủ động liên lạc với Loseby.[22] Cũng theo Duncanson, có giả thuyết cho rằng, một thư ký gốc Việt tên Goh Kim-chiong làm việc trong văn phòng luật sư của Loseby đã nói về vụ Tống Văn Sơ này cho Loseby, nên ông quyết định tham gia. Tuy nhiên, Lung Ting-chang lại nói rằng ông Goh là người Phúc Kiến và không có gì liên quan đến Việt Nam.[23] Theo sử gia William Duiker, trong hồi ký, Hồ Chí Minh kể rằng ông và Loseby có một người bạn trung gian (không tiết lộ tên) ở Hồng Kông.[18]
+
+### Bệnh tình của Nguyễn Ái Quốc tại Hồng Kông
+
+[sửa | sửa mã nguồn]Trong giai đoạn 1930–1932, Nguyễn Ái Quốc bị lao phổi rất nặng, cơ thể suy nhược.[38][42] Vào mùa hè 1932, tin tức báo chí về "một người Việt Nam nhỏ bé, có thân thể bị suy nhược vì lao lực và tinh thần của một lãnh tụ" bắt đầu xuất hiện. Hoàng thân Cường Để đã gửi thư cho Tống Văn Sơ khi biết ông bệnh nặng và còn gửi 300 yên để hỗ trợ viện phí. Theo Hồ Tuấn Hùng, tác giả cuốn *Hồ Chí Minh sinh bình khảo* xuất bản năm 2008 tại Đài Loan, Nguyễn Ái Quốc đã thực sự chết vì bệnh lao phổi trong nhà tù Hồng Kông từ tháng 8 năm 1932.[66][67]
+
+Tuy nhiên, theo nhiều nhà nghiên cứu khác, thông tin về cái chết của Nguyễn Ái Quốc chỉ là tin giả. Theo các nhà nghiên cứu như Duiker[54] và Quinn-Judge,[42] nguồn tin này xuất phát từ Quốc tế Cộng sản. Từ tháng 8 năm 1932, Quốc tế Cộng sản đã chủ động loan truyền tin Nguyễn Ái Quốc đã chết vì bệnh lao phổi trong bệnh viện nhà tù Hồng Kông. Báo *The Daily Worker* (Anh),[j] xuất bản số ngày 11 tháng 8 năm 1932, đã thông báo tin Nguyễn Ái Quốc chết dưới "sự tàn bạo của chính quyền thực dân" trong nhà tù Hồng Kông.[68] Báo *Nhân Đạo* (Pháp) số 12292, ra ngày 9 tháng 8 năm 1932 với nội dung: "*Nguyễn Ái Quốc, sáng lập viên kiên cường của Đảng cộng sản Đông Dương đã chết vì bệnh lao phổi trong tù*".[69] Sau khi được thả ra ngày 28 tháng 12 năm 1932, để tránh sự theo dõi của mật thám Pháp, Loseby cũng loan tin rằng Nguyễn Ái Quốc đã chết vì bệnh lao phổi trong bệnh viện.[70] Một số sinh viên người Việt ở Moskva thời điểm đó còn tổ chức lễ tưởng niệm khi nghe tin ông Nguyễn qua đời; một đại diện của Quốc tế Cộng sản đọc điếu văn trong lễ tưởng niệm này.[71][72] Tuy nhiên, thông tin về cái chết của Nguyễn Ái Quốc chỉ nhằm tránh sự theo dõi của chính quyền Pháp đối với ông.[54][70]
+
+### Tình trạng đối xử Tống Văn Sơ khi bị giam giữ
+
+[sửa | sửa mã nguồn]Theo sử gia William Duiker, trong những tác phẩm được cho là "hồi ký của Hồ Chí Minh" như *Những mẩu chuyện về đời hoạt động của Hồ Chủ tịch* và *Vừa đi đường vừa kể chuyện*, ông Hồ than phiền rằng, khi ở Hồng Kông, ông bị giam giữ trong điều kiện rất tệ.[38] Trong tác phẩm *Những mẩu chuyện về đời hoạt động của Hồ Chủ tịch* dưới bút danh Trần Dân Tiên[k], Hồ Chí Minh thuật lại hoàn cảnh khi bị giam tại nhà tù Victoria (Hồng Kông) như sau:[73]
+
+| “ | Mỗi ngày hai lần, chúng cho ông ăn cơm gạo xay và mắm thối. Mỗi tuần hai lần, chúng cho ông ăn thịt bò, cơm trắng. Thật là một bữa tiệc sang! (...) Mỗi ngày, chúng cho ông ra ngoài sân đi bách bộ mười lăm phút với những người tù khác. (...) Sau mười lăm phút đi dạo, ông suốt ngày bị nhốt trong tối. Ăn, ngủ, rửa, ỉa, tất cả đều ở trong xà lim. (...) Trong xà lim, mái nhà là chỗ sáng nhất vì có một cái cửa sổ nhỏ hình mặt trăng khuyết. (...) Một ánh sáng hắt vào cửa sổ mờ và nhạt như con mắt người hấp hối. | ” |
+
+Đôi lúc ông rơi vào tuyệt vọng rằng ông sẽ không bao giờ được thả. Ông cho biết, thú tiêu khiển của ông khi trong tù là bắt rệp hoặc đọc kinh thánh Cơ Đốc.[73][74]
+
+Tuy nhiên, theo Duiker, khi ở bệnh xá nhà tù Bowen Road (sau này là Bệnh viện Quân y Anh quốc), ông Hồ được ở trong điều kiện thoải mái và thường có khách viếng thăm gồm chính khách và rất nhiều người Châu Âu. Luật sư Frank Loseby thậm chí còn đặt thêm bữa ăn từ một nhà hàng địa phương gần đó mang vào cho ông.[38]
+
+## Chuyển thể điện ảnh
+
+[sửa | sửa mã nguồn]Vụ án Tống Văn Sơ đã được thể hiện trong phim truyện *Nguyễn Ái Quốc ở Hồng Kông*, do Hãng phim Hội Nhà văn Việt Nam và Hãng phim Châu Giang (Trung Quốc) hợp tác sản xuất năm 2003 với kinh phí 15 tỉ đồng. Diễn viên NSƯT Trần Lực vào vai Nguyễn Ái Quốc và diễn viên Oleg Krapchenko (người Nga) thể hiện nhân vật luật sư Loseby.[75] Bộ phim được chỉ đạo bởi đạo diễn Khắc Lợi.[76] Khi đối chiếu với các sự kiện ngoài đời thật, tác phẩm đã vấp phải một số sai phạm khách quan, ví dụ như việc Lê Duy Điếm (người đã mất ở Xiêm vào năm 1929) có mặt ở Hồng Kông để giúp Nguyễn Ái Quốc,[77][78] hay một tướng cướp già đánh xe ngựa đến cứu ông.[79]
+
+## Ghi chú
+
+[sửa | sửa mã nguồn]### Chú giải
+
+[sửa | sửa mã nguồn]**^**Tên thật: Yakov Rudnik hay Jakob Rudnik. Còn có bí danh hoạt động khác: Paul Ruegg[10]**^***Seditious Publications Ordinance 1914***^**Tạm dịch từ tiếng Anh:*Colonial Office*– CO**^**Luật lệ quy định rằng sau khi bắt một người nào đó thì trong vòng hai mươi bốn giờ phải thẩm vấn ngay**^**Nguyên văn:*an international danger*.[28]**^***The Superintendent of Prisons Hong Kong***^**Tạm dịch từ tiếng Anh:*Chief Justice***^**Theo nhà văn George Orwell, Denis Nowell Pritt là người ủng hộ Liên Xô nổi tiếng nhất trong số những chính trị gia tại Anh[44]và là "đảng viên Cộng sản chìm".[45]Năm 1940, D.N. Pritt bị khai trừ khỏi Công Đảng vì tuyên bố ủng hộ cuộc xâm lược Phần Lan của Hồng quân Liên Xô.[44][46]**^**Tên phiên âm tiếng Anh hiện nay của Hạ Môn là*Xiemen*. Trong các văn bản về vụ án Tống Văn Sơ cũng như tài liệu của các sử gia phương Tây, Hạ Môn có tên tiếng Anh là*Amoy*.**^**Từ 1966 đến nay có tên là*Morning Star***^**William Duiker cho rằng Trần Dân Tiên là bút danh của Hồ Chí Minh, nhưng nhiều quan điểm gần đây phản bác điều này.
+
+### Chú thích
+
+[sửa | sửa mã nguồn]- ^
+**a**Lacouture 1968, tr. 63-64**b** **^**"共产主义者阮爱国在香港期间的革命本领" [Bản lĩnh cách mạng của người cộng sản Nguyễn Ái Quốc trong thời gian ở Hương Cảng].*Quân đội Nhân dân Trung ngữ*(bằng tiếng Trung). Báo Quân đội nhân dân. ngày 18 tháng 5 năm 2020. Truy cập ngày 6 tháng 6 năm 2020.**^**"Ngày thành lập Đảng Cộng sản Việt Nam 3-2-1930 - Hồ sơ - Sự kiện - Nhân chứng".*Báo điện tử Đảng Cộng Sản Việt Nam*. ngày 9 tháng 12 năm 2018. Bản gốc lưu trữ ngày 7 tháng 5 năm 2020. Truy cập ngày 9 tháng 12 năm 2020.- ^
+**a****b**Duiker 2000, tr. 207**c** - ^
+**a**Lacouture 1968, tr. 62**b** **^**Học viện Chính trị Quốc gia Hồ Chí Minh 2016, tr. 16**^**Học viện Chính trị Quốc gia Hồ Chí Minh 2016, tr. 17- ^
+**a**Duncanson 1974, tr. 85**b** **^**Duncanson 1974, tr. 85-88**^**Duncanson 1974, tr. 88- ^
+**a****b**Học viện Chính trị Quốc gia Hồ Chí Minh 2016, tr. 32**c** - ^
+**a**Duncanson 1974, tr. 89**b** **^**Quinn-Judge 2002, tr. 191**^**Duiker 2000, tr. 201-202**^**Quinn-Judge 2002, tr. 191-192**^**Duiker 2000, tr. 202 "*Since an existing Franco-British agreement did not permit extradition for political offenses, the only recourse was to obtain a warrant to banish him from Hong Kong territory.*"**^**Tom Vaizey, Tom (ngày 16 tháng 1 năm 2020). "Deporting Ho Chi Minh".*History Today*. Bản gốc lưu trữ ngày 16 tháng 1 năm 2020. Truy cập ngày 7 tháng 7 năm 2020. "*At the time, the terms for extradition came under a Franco-British treaty annexed to the British Extradition Act, which, even if the French could demonstrate that ‘Sung’ was ‘Nguyen’, did not permit extradition on political grounds. Sung or Nguyen had not infringed any Hong Kong law, so Peel concluded that the best option was deportation, a matter for his very wide discretion, on the simple basis that Ho’s presence in Hong Kong was undesirable, even though deportation ordinarily permits the deportee some leeway in choice of destination.*"- ^
+**a****b****c****d**Duiker 2000, tr. 202**e** - ^
+**a**"Deporting Ho Chi Minh".**b***History Today*. ngày 16 tháng 1 năm 2020. Bản gốc lưu trữ ngày 16 tháng 1 năm 2020. Truy cập ngày 7 tháng 7 năm 2020. **^**Nguyễn Văn Khoan 2004, tr. 13- ^
+**a**Guo Jian’an (2019). "The First Prison in Hong Kong (3)".**b***Lawinfochina.com*. Bản gốc lưu trữ ngày 25 tháng 11 năm 2020. Truy cập ngày 1 tháng 7 năm 2020. - ^
+**a****b****c****d**Duncanson 1974, tr. 92**e** - ^
+**a**Duncanson 1974, tr. 91**b** **^**Nguyễn Văn Khoan 2004, tr. 43- ^
+**a****b**Quinn-Judge 2002, tr. 193**c** **^**Duiker 2000, tr. 203 Trích: "*Loseby, however, warned Hong Kong authorities that if normal deportation procedures were followed, Nguyen Ai Quoc and Ly Sam, (...) would undoubtedly be placed in serious jeopardy, since the French would seize him at his point of disembarkation and return him to Indochina for trial. Loseby therefore requested that Quoc and Ly Sam be allowed to leave under their own arrangements, and to a destination of their choice.*"**^**Duiker 2000, tr. 203 "*(...) a disguised form of extradition and repugnant to British principles.*"- ^
+**a**Duiker 2000, tr. 203**b** - ^
+**a****b****c**Duiker 2000, tr. 204**d** **^**"Library Guides: China & Hong Kong Legal Research Guide: Case Law".*Library Guides at University of Melbourne*. ngày 16 tháng 3 năm 2017. Bản gốc lưu trữ ngày 5 tháng 10 năm 2020. Truy cập ngày 9 tháng 12 năm 2020.**^**Duncanson 1974, tr. 92–94- ^
+**a**"Bộ trưởng Anh từng thả Hồ Chí Minh".**b***BBC Vietnamese*. 2015. Bản gốc lưu trữ ngày 9 tháng 7 năm 2016. Truy cập ngày 25 tháng 3 năm 2015. **^**Nguyễn Văn Khoan 2004, tr. 18**^**Học viện Chính trị Quốc gia Hồ Chí Minh 2016, tr. 35-40- ^
+**a**Nguyên văn: "abuse of executive power". Duncanson 1974, tr. 96**b** **^**Duncanson 1974, tr. 95**^**Quinn-Judge 2002, tr. 193 Trích: "*They claimed that the deportation order was not valid under Hong Kong law.*"- ^
+**a****b****c****d**Duiker 2000, tr. 205**e** **^**"BMH Hong Kong".*Regiment History, War & Military Records & Archives*. ngày 3 tháng 6 năm 2019. Bản gốc lưu trữ ngày 22 tháng 10 năm 2020. Truy cập ngày 9 tháng 12 năm 2020.**^**Duiker 2000, tr. 206**^**Học viện Chính trị Quốc gia Hồ Chí Minh 2016, tr. 42-43- ^
+**a****b**Quinn-Judge 2002, tr. 194**c** - ^
+**a****b**Duncanson 1974, tr. 97**c** - ^
+**a**Ward 2015, tr. 197 "**b***A supporter of Stalin, George Orwell said he was 'perhaps the most effective pro-Soviet publicist in this country'. In 1940, Pritt was expelled from the Labour Party for defending the Soviet invasion of Finland.*" **^**Wheatcroft, Geoffrey (ngày 22 tháng 10 năm 2011). "Big Brother with a high moral sense".*The Independent*. Lưu trữ bản gốc ngày 5 tháng 6 năm 2020. Truy cập ngày 28 tháng 3 năm 2021. Trích: "*DN Pritt is described as an "almost certainly underground" Communist (...)*"**^**Morgan 2009**^**Lacouture 1968, tr. 64 "*(...) Sir Stafford Cripps, future Chancellor of the Exchequer, who was then a militant left-winger.*"**^**Duncanson 1974, tr. 98 Trích: "*Cripps’s opinion (…) was that the appeal, if heard, would have been bound to succeed.*"**^**Duncanson 1974, tr. 97-98 Trích: "*The Colonial Office Legal Adviser, Bushe, privately accused Cripps of "declining, intolerably, to argue points of law before the Privy Council because he objected to the politics of the case".*"**^**Duiker 2000, tr. 208 Trích: "*(...) accused Cripps of refusing to argue the case because he sympathized with the politics of the defendant.*"- ^
+**a****b**Duiker 2000, tr. 208**c** **^**Borton & Ngoc Thai Trinh 2006, tr. 216**^**Học viện Chính trị Quốc gia Hồ Chí Minh 2016, tr. 45- ^
+**a****b****c****d**Duiker 2000, tr. 209**e** **^**Duncanson 1974, tr. 98**^**Nguyễn Văn, Toàn (ngày 19 tháng 10 năm 2017). "Luật sư Lô-dơ-bi kể chuyện bào chữa cho Hồ Chủ tịch".*Kiểm soát.vn*. Truy cập ngày 20 tháng 4 năm 2021.**^**Nguyễn Văn Khoan 2004, tr. 127- ^
+**a**Duncanson 1974, tr. 99**b** **^**Học viện Chính trị Quốc gia Hồ Chí Minh 2016, tr. 47**^**Neumann-Hoditz 1972, tr. 120 "*Disguised as a wealthy Chinese merchant (...)*"**^**Học viện Chính trị Quốc gia Hồ Chí Minh 2016, tr. 48**^**Duncanson 1974, tr. 100- ^
+**a****b**"Vụ án Nguyễn Ái Quốc ở Hồng Kông và tình bạn thủy chung Hồ Chí Minh - Lôdơbi".**c***Tạp chí Ban Tuyên giáo Trung ương*. ngày 25 tháng 1 năm 2011. Lưu trữ bản gốc ngày 4 tháng 6 năm 2020. Truy cập ngày 4 tháng 6 năm 2020. - ^
+**a**T.Lan 2008, tr. 50**b** **^**Ryle 1970**^**"Việt Nam - Nhận xét về cuốn Hồ Chí Minh Sinh Bình Khảo".*BBC News Tiếng Việt*. ngày 8 tháng 12 năm 2008. Bản gốc lưu trữ ngày 11 tháng 12 năm 2015. Truy cập ngày 7 tháng 7 năm 2020.**^**"Thật giả khi nghiên cứu Hồ Chí Minh".*BBC News Tiếng Việt*. ngày 24 tháng 9 năm 2013. Bản gốc lưu trữ ngày 26 tháng 11 năm 2015. Truy cập ngày 7 tháng 7 năm 2020.**^**Duncanson 1974, tr. 99 Trích: "*(...) the death of Nguyen Ai Quoc, founder of the Communist Party of Indo-China, secured by imperialist terror, in the prison hospital at Hong Kong.*"**^**Bài báo*L’Humanité*ra ngày 9 tháng 8 năm 1932 "L'Humanité: journal socialiste quotidien".*Gallica*(bằng tiếng Pháp). ngày 9 tháng 8 năm 1932. Bản gốc lưu trữ ngày 4 tháng 6 năm 2020. Truy cập ngày 7 tháng 7 năm 2020. Trích: "*Nguyen Ai Quoc, la vaillant fondateur du Parti communiste indochinois, est mort emprisonnée. (...) Nguyen Ai Quoc, fondateur du Parti communiste indochinois, emprisonne par l’imperialisme britamique, de complicite avec l’Imperialisme francais est mort de la tuberculose a l’infirmerie de la prison de Hong Kong.*"- ^
+**a**Nguyễn Văn Khoan 2004, tr. 88**b** **^**Lacouture 1968, tr. 64**^**Sainteny 1972, tr. 27- ^
+**a**Trần Dân Tiên 2004, tr. 82-83**b** **^**T.Lan 2008, tr. 58**^**"Nguyễn Ái Quốc ở Hồng Kông: Tái hiện chân thực lịch sử".*nld.com.vn*. ngày 3 tháng 9 năm 2003. Bản gốc lưu trữ ngày 28 tháng 3 năm 2021. Truy cập ngày 28 tháng 3 năm 2021.**^**"Đạo diễn Khắc Lợi nói về "Nguyễn Ái Quốc ở Hong Kong"".*Báo điện tử VnExpress*. ngày 3 tháng 9 năm 2002. Bản gốc lưu trữ ngày 28 tháng 3 năm 2021. Truy cập ngày 28 tháng 3 năm 2021.**^**Nguyễn Văn Khoan 2004, tr. 26-27**^**Ngữ Yên; Vân Hạc (ngày 15 tháng 9 năm 2011). "Lối thoát hay… giá treo cổ? (Bài kết)". Báo Thể thao & Văn hóa - Thông tấn xã Việt Nam. Bản gốc lưu trữ ngày 16 tháng 4 năm 2021. Truy cập ngày 10 tháng 3 năm 2015.**^**Nguyễn Văn Khoan 2004, tr. 28-29
+
+## Tham khảo
+
+[sửa | sửa mã nguồn]### Sách
+
+[sửa | sửa mã nguồn]- Borton, Lady; Ngoc Thai Trinh (2006).
+*The legal case of Nguyễn Ái Quốc (Hồ Chí Minh) in Hong Kong, 1931-1933 (documents and photographs)*. Hà Nội: National Political Publishers. OCLC 798387725. - Duiker, William J. (2000).
+*Ho Chi Minh: A Life*. Hyperion Books. tr. 201–209. ISBN 9780786887019. - Hoàng Thanh Đạm (2008).
+*Nguyễn Ái Quốc trên đường về nước*. Nhà xuất bản Thanh niên. tr. 130–150. - Lacouture, Jean (1968).
+*Ho Chi Minh: A Political Biography*. Vintage Books. tr. 59–65. ISBN 9780786887019. - Neumann-Hoditz, Reinhold (1972).
+*Portrait of Ho Chi Minh: An Illustrated Biography*. Herder and Herder. tr. 110–122. ISBN 9780070737884. - Nguyễn Văn Khoan (2004).
+*Nguyễn Ái Quốc và vụ án Hồng Kông năm 1931*. Nhà xuất bản Văn học. tr. 25–83. - Học viện Chính trị Quốc gia Hồ Chí Minh (2016).
+*Hồ Chí Minh - Biên niên tiểu sử - Tập 2 (1930 - 9/1945)*. Hà Nội: Nhà xuất bản Chính trị Quốc gia Sự Thật. tr. 31–48. ISBN 9786045723661. Bản gốc lưu trữ ngày 5 tháng 6 năm 2020. Truy cập ngày 5 tháng 6 năm 2020. - Quinn-Judge, Sophie (2002).
+*Ho Chi Minh: The Missing Years, 1919-1941*. University of California Press. tr. 191–195. ISBN 0520235339. - Sainteny, Jean (1972).
+*Ho Chi Minh and his Vietnam: A Personal Memoir*. Cowles Book Company. tr. 26–27. - T.Lan (2008).
+*Vừa đi đường vừa kể chuyện*. Thành phố Hồ Chí Minh: Nhà xuất bản Trẻ. tr. 49–64. - Trần Dân Tiên (2004).
+*Những mẩu chuyện về đời hoạt động của Hồ Chủ tịch*. Nhà xuất bản Nghệ An. tr. 82–83. - Ward, Arthur (2015).
+*A Guide to War Publications of the First & Second World War: From Training Guides to Propaganda Posters*. Pen and Sword. tr. 197. ISBN 1473852897.
+
+### Tạp chí
+
+[sửa | sửa mã nguồn]- Duncanson, Dennis J. (1974). "Ho-Chi-Minh In Hong Kong, 1931–32".
+*The China Quarterly*. Quyển 57. tr. 84–100 – qua JSTOR. - Handley, K.R.; Lemercier, K. (2008). "Ho Chi Minh and the Privy Council".
+*Law Quarterly Review*. Quyển 124. tr. 318–330. - Morgan, Kevin (2009). "Pritt, Denis Nowell (1887–1972)".
+*Oxford Dictionary of National Biography*. doi:10.1093/ref:odnb/31570. Bản gốc lưu trữ ngày 5 tháng 6 năm 2020. Truy cập ngày 5 tháng 6 năm 2020 – qua Oxford University Press. - Ryle, J. (1970). "International Red Aid and Comintern Strategy, 1922–1926".
+*International Review of Social History*. Quyển 15 số 1. tr. 43–68. doi:10.1017/S0020859000003758.

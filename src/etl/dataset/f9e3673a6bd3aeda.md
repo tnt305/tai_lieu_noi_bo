@@ -1,0 +1,87 @@
+# Khi bán căn hộ Feliz En Vista có nhiều chủ sở hữu thì ai là người có nghĩa vụ nộp thuế thu nhập cá nhân?
+
+### Nội dung chính
+
+## Khi bán căn hộ Feliz En Vista có nhiều chủ sở hữu thì ai là người có nghĩa vụ nộp thuế thu nhập cá nhân?
+
+Căn cứ theo điểm b khoản 3 Điều 1 Thông tư 111/2013/TT-BTC, quy định về người nộp thuế như sau:
+
+Điều 1. Người nộp thuế
+
+[...]
+
+3. Người nộp thuế trong một số trường hợp cụ thể được xác định như sau:
+
+[...]
+
+b) Đối với cá nhân có thu nhập chịu thuế khác.
+
+b.1) Trường hợpchuyển nhượng bất động sản là đồng sở hữu, người nộp thuếlà từng cá nhân đồng sở hữu bất động sản.
+
+b.2) Trường hợp ủy quyền quản lý bất động sản mà cá nhân được ủy quyền có quyền chuyển nhượng bất động sản hoặc có các quyền như đối với cá nhân sở hữu bất động sản theo quy định của pháp luật thì người nộp thuế là cá nhân ủy quyền bất động sản.
+
+b.3) Trường hợp chuyển nhượng, chuyển giao quyền sở hữu, quyền sử dụng các đối tượng được bảo hộ theo quy định của Luật Sở hữu trí tuệ, Luật Chuyển giao công nghệ mà đối tượng chuyển giao, chuyển quyền là đồng sở hữu, đồng tác giả của nhiều cá nhân (nhiều tác giả) thì người nộp thuế là từng cá nhân có quyền sở hữu, quyền tác giả và hưởng thu nhập từ việc chuyển giao, chuyển quyền nêu trên.
+
+b.4) Trường hợp cá nhân nhượng quyền thương mại theo quy định của Luật Thương mại mà đối tượng nhượng quyền thương mại là nhiều cá nhân tham gia nhượng quyền thì người nộp thuế là từng cá nhân được hưởng thu nhập từ nhượng quyền thương mại.
+
+[...]
+
+Như vậy, khi bán căn hộ Feliz En Vista có nhiều chủ sở hữu (đồng sở hữu), thì mỗi cá nhân đồng sở hữu sẽ có nghĩa vụ nộp thuế thu nhập cá nhân tương ứng với phần quyền sở hữu của mình.
+
+Khi bán căn hộ Feliz En Vista có nhiều chủ sở hữu thì ai là người có nghĩa vụ nộp thuế thu nhập cá nhân?(Hình từ Internet)
+
+## Thuế thu nhập cá nhân phải nộp khi bán căn hộ Feliz En Vista được tính như thế nào?
+
+Căn cứ khoản 4 Điều 12 Thông tư 111/2013/TT-BTC (được sửa đổi bởi Điều 17 Thông tư 92/2015/TT-BTC) quy định thuế thu nhập cá nhân đối với thu nhập từ việc bán căn hộ Feliz En Vista được tính như sau:
+
+|
+
+- Trường hợp bán căn hộ Feliz En Vista là đồng sở hữu thì nghĩa vụ thuế được xác định riêng cho từng người nộp thuế theo tỷ lệ sở hữu bất động sản.
+
++ Căn cứ xác định tỷ lệ sở hữu là tài liệu hợp pháp như: thỏa thuận góp vốn ban đầu, di chúc hoặc quyết định phân chia của tòa án,...
+
+- Trường hợp không có tài liệu hợp pháp thì nghĩa vụ thuế của từng người nộp thuế được xác định theo tỷ lệ bình quân.
+
+## Các đối tượng nào được miễn thuế thu nhập cá nhân khi bán căn hộ Feliz En Vista?
+
+Căn cứ điểm a, b khoản 1 Điều 3 Thông tư 111/2013/TT-BTC (được sửa đổi bởi khoản 1 Điều 12 Thông tư 92/2015/TT-BTC) quy định như sau:
+
+Điều 3. Các khoản thu nhập được miễn thuế
+
+1. Căn cứ quy định tại Điều 4 của Luật Thuế thu nhập cá nhân, Điều 4 của Nghị định số 65/2013/NĐ-CP, các khoản thu nhập được miễn thuế bao gồm:
+
+a) Thu nhập từ chuyển nhượng bất động sản (bao gồm cả nhà ở hình thành trong tương lai, công trình xây dựng hình thành trong tương lai theo quy định pháp luật về kinh doanh bất động sản) giữa: vợ với chồng; cha đẻ, mẹ đẻ với con đẻ; cha nuôi, mẹ nuôi với con nuôi; cha chồng, mẹ chồng với con dâu; bố vợ, mẹ vợ với con rể; ông nội, bà nội với cháu nội; ông ngoại, bà ngoại với cháu ngoại; anh chị em ruột với nhau.
+
+Trường hợp bất động sản (bao gồm cả nhà ở hình thành trong tương lai, công trình xây dựng hình thành trong tương lai theo quy định pháp luật về kinh doanh bất động sản) do vợ hoặc chồng tạo lập trong thời kỳ hôn nhân được xác định là tài sản chung của vợ chồng, khi ly hôn được phân chia theo thỏa thuận hoặc do tòa án phán quyết thì việc phân chia tài sản này thuộc diện được miễn thuế.
+
+b) Thu nhập từ chuyển nhượng nhà ở, quyền sử dụng đất ở và tài sản gắn liền với đất ở của cá nhân trong trường hợp người chuyển nhượng chỉ có duy nhất một nhà ở, quyền sử dụng đất ở tại Việt Nam.
+
+[...]
+
+Như vậy, theo quy định, các đối tượng được miễn thuế thu nhập cá nhân khi bán căn hộ Feliz En Vista gồm:
+
+[1] Chuyển nhượng giữa các đối tượng có quan hệ thân nhân sau:
+
+- Giữa vợ và chồng.
+
+- Giữa cha mẹ đẻ và con đẻ.
+
+- Giữa cha mẹ nuôi và con nuôi.
+
+- Giữa cha mẹ chồng và con dâu.
+
+- Giữa bố mẹ vợ và con rể.
+
+- Giữa ông bà nội và cháu nội.
+
+- Giữa ông bà ngoại và cháu ngoại.
+
+- Giữa anh, chị, em ruột với nhau.
+
+[2] Trường hợp phân chia tài sản chung của vợ chồng khi ly hôn:
+
+- Căn hộ Feliz En Vista là tài sản chung hình thành trong thời kỳ hôn nhân, khi ly hôn được chia theo thỏa thuận hoặc tòa án phán quyết, thì việc phân chia cũng được miễn thuế thu nhập cá nhân.
+
+[3] Cá nhân chỉ có duy nhất một nhà ở hoặc quyền sử dụng đất ở tại Việt Nam:
+
+- Người bán căn hộ chỉ sở hữu duy nhất căn hộ Feliz En Vista tại Việt Nam, thì thu nhập từ việc bán căn hộ cũng được miễn thuế thu nhập cá nhân.

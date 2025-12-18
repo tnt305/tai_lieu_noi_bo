@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.DS_Store
+.agent/
+############################
+# Qdrant local data
+############################
+
+# Ignore toàn bộ qdrant_data
+qdrant_data/**
+
+!qdrant_data/
+!qdrant_data/collection/
+!qdrant_data/collection/correction_rules/
+!qdrant_data/collection/correction_rules/**
+
+
+############################
+# Python cache
+############################
+
+# Thư mục cache
+__pycache__/
+**/__pycache__/
+
+# File bytecode
+*.pyc
+*.pyo
+*.pyd

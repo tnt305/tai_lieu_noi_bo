@@ -1,0 +1,157 @@
+# Phó Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam
+
+Bài viết này cần thêm chú thích nguồn gốc để kiểm chứng thông tin. |
+
+| Phó Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam | |
+|---|---|
+| Kính ngữ | Phó Chủ tịch nước Việt Nam |
+| Thành viên của | Quốc hội Việt Nam |
+| Trụ sở | Phủ Chủ tịch, Hà Nội |
+| Bổ nhiệm bởi | Quốc hội Việt Nam (theo đề cử của Chủ tịch nước) |
+| Nhiệm kỳ | 5 năm |
+| Người đầu tiên nhậm chức | Nguyễn Hải Thần |
+| Kế vị | Thứ nhất |
+| Website | Văn phòng Chủ tịch nước |
+
+| Chính trị và chính phủ Việt Nam |
+
+**Phó Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam** là chức vụ phó nguyên thủ quốc gia tại Việt Nam. Theo Hiến pháp Việt Nam, chức vụ này do Quốc hội bầu trong số các đại biểu Quốc hội, có nhiệm vụ giúp đỡ Chủ tịch nước trong một số công việc. Ngoài ra, Phó Chủ tịch nước sẽ là quyền Chủ tịch nước khi đất nước khuyết chức danh này. Trên thực tế, từ năm 1992 đến nay, vị trí này đều do phụ nữ đảm nhiệm.
+
+## Lịch sử chức vụ
+
+[sửa | sửa mã nguồn]Tại phiên họp ngày 27 tháng 9 năm 1945, Hội đồng Chính phủ Cách mạng lâm thời Việt Nam Dân chủ Cộng hòa đã bàn bạc và nhất trí để Nguyễn Hải Thần giữ chức Phó Chủ tịch Chính phủ mà không thông qua bầu cử. Ông giữ chức vụ này từ tháng 1 đến tháng 7 năm 1946, khi tranh chấp giữa Việt Minh và các phe phái đối lập xảy ra, Nguyễn Hải Thần phải bỏ trốn sang Trung Quốc.
+
+Điều thứ 44 Hiến pháp Việt Nam Dân chủ Cộng hòa 1946 lần đầu tiên quy định chức vụ Phó Chủ tịch Nước. Điều 46 cũng quy định *"Phó chủ tịch nước Việt Nam dân chủ cộng hoà chọn trong Nghị viện Nhân dân và bầu theo lệ thường"*. Tuy nhiên, chức vụ này trên thực tế không có người đảm nhiệm.
+
+Tôn Đức Thắng được bầu vào chức vụ này năm 1960 và ông cũng là người kế vị chức vụ Chủ tịch nước sau khi Chủ tịch Hồ Chí Minh qua đời vào năm 1969. Ông tiếp tục giữ chức vụ Chủ tịch nước cho đến khi qua đời vào năm 1980. Thay thế ông ở chức vụ Phó Chủ tịch nước là Nguyễn Lương Bằng (từ 1969 đến 1979).
+
+## Mối quan hệ với Đảng Cộng sản Việt Nam
+
+[sửa | sửa mã nguồn]Để đáp ứng khả năng lãnh đạo cấp cao trong tổ chức Đảng, không bị chồng chéo quyền lực về mặt Đảng, cho tới nay, các vị Phó Chủ tịch nước thường phải là Ủy viên Ban Chấp hành Trung ương trong số các đại biểu Quốc hội. Các ứng viên Phó Chủ tịch nước phải đạt các tiêu chuẩn như tốt nghiệp Đại học trở lên, lý luận chính trị cử nhân hoặc cao cấp; quản lý nhà nước ngạch chuyên viên cao cấp; trình độ ngoại ngữ, tin học phù hợp*;* tuyệt đối trung thành với lợi ích của Đảng Cộng sản Việt Nam, kiên định chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh. Ngoài ra còn phải đáp ứng các tiêu chuẩn sau:
+
+### Tiêu chuẩn ứng cử viên Phó Chủ tịch nước của Đảng Cộng sản Việt Nam
+
+[sửa | sửa mã nguồn]Theo Quy định 214-QĐ/TW năm 2020 [1] về khung tiêu chuẩn chức danh, tiêu chí đánh giá cán bộ thuộc diện Ban Chấp hành Trung ương, Bộ Chính trị, Ban Bí thư quản lý do Ban Chấp hành Trung ương ban hành, Phó Chủ tịch nước phải là người:
+
+*"Bảo đảm đầy đủ các tiêu chuẩn chung của Uỷ viên Ban Chấp hành Trung ương, đồng thời, cần có những phẩm chất, năng lực: Có kiến thức cần thiết về các lĩnh vực đối nội, đối ngoại, an ninh, quốc phòng, tư pháp. Có uy tín cao trong xã hội. Có khả năng tập hợp, quy tụ, tăng cường khối đại đoàn kết toàn dân tộc, tạo sự đồng thuận xã hội theo đường lối của Đảng. Có năng lực lãnh đạo, điều hành theo chức năng, nhiệm vụ, quyền hạn được phân công. Là Uỷ viên chính thức Ban Chấp hành Trung ương trọn một nhiệm kỳ, đồng thời kinh qua và hoàn thành tốt nhiệm vụ ở chức vụ lãnh đạo chủ chốt cấp tỉnh hoặc chủ chốt các ban, bộ, ngành, đoàn thể Trung ương."*
+
+## Vai trò trong chính phủ
+
+[sửa | sửa mã nguồn]Phó Chủ tịch nước do Chủ tịch nước đề nghị trong số đại biểu Quốc hội, và được Quốc hội thông qua bằng cách bầu chọn. Phó Chủ tịch giúp Chủ tịch nước làm nhiệm vụ và có thể được Chủ tịch ủy quyền làm một số nhiệm vụ hoặc làm quyền Chủ tịch nước khi Chủ tịch nước từ chức, qua đời hoặc bị cách chức lúc đương nhiệm.
+
+Thông thường, chức vụ Phó chủ tịch nước được lựa chọn và là vị trí cân bằng với chức vụ Chủ tịch nước. Trong thời gian 1976-1980, ngoài Nguyễn Lương Bằng, còn có Nguyễn Hữu Thọ, nguyên Chủ tịch Hội đồng Cố vấn Cộng hòa miền Nam Việt Nam, được bổ sung vào chức vụ này. Đến giữa năm 1980, Nguyễn Hữu Thọ làm quyền Chủ tịch nước một thời gian ngắn sau khi chủ tịch Tôn Đức Thắng qua đời.
+
+## Danh sách Phó Chủ tịch nước
+
+[sửa | sửa mã nguồn]Từ năm 1981 đến 1992, Phó Chủ tịch nước có tên gọi là Phó Chủ tịch Hội đồng Nhà nước. Sau sửa đổi Hiến pháp năm 1992 thì trở lại với tên gọi là Phó Chủ tịch nước.
+
+| Thứ tự | Hình ảnh | Tên | Nhiệm kỳ | Chủ tịch nước | Thời gian tại nhiệm | Ghi chú | |
+|---|---|---|---|---|---|---|---|
+Bắt đầu
+|
+Kết thúc
+| ||||||
+1
+|
+Nguyễn Hải Thần
+(1869-1959) |
+27 tháng 9 năm 1945 | 1 tháng 7 năm 1946 | Hồ Chí Minh | 277 ngày | Phó Chủ tịch Chính phủ; Phó Chủ tịch Nước, Phó Chủ tịch Kháng chiến Uỷ Viên Hội; là thành viên Việt Nam Cách mạng Đồng minh Hội | |
+2
+|
+Tôn Đức Thắng
+(1888-1980) |
+15 tháng 7 năm 1960 | 23 tháng 9 năm 1969 | 9 năm, 70 ngày | Quyền Chủ tịch nước (2/9/1969 - 23/9/1969) sau khi Chủ tịch Hồ Chí Minh mất ngày 2 tháng 9 năm 1969 | ||
+3
+|
+Nguyễn Lương Bằng
+(1904-1979) |
+23 tháng 9 năm 1969 | 20 tháng 7 năm 1979 | Tôn Đức Thắng | 9 năm, 300 ngày | Qua đời khi đương nhiệm | |
+4
+|
+Nguyễn Hữu Thọ
+(1910-1996) |
+24 tháng 6 năm 1976 | 19 tháng 7 năm 1992 | Tôn Đức Thắng | 16 năm, 25 ngày | Quyền Chủ tịch nước sau khi Chủ tịch Tôn Đức Thắng mất ngày 30 tháng 3 năm 1980 (30/3/1980 - 4/7/1981)
+Kiêm Chủ tịch Quốc hội | |
+5
+|
+Đại tướng Chu Huy Mân
+(1913-2006) |
+4 tháng 7 năm 1981 | 18 tháng 6 năm 1987 | Trường Chinh | 5 năm, 349 ngày | Đại tướng Quân đội đầu tiên giữ chức
+Kiêm Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam (1976 - 16/2/1987) | |
+6
+|
+Xuân Thủy
+(1912-1985) |
+28 tháng 6 năm 1982 | 359 ngày | Kiêm Tổng Thư ký Hội đồng Nhà nước, từ chức vì lý do sức khỏe | |||
+7
+|
+Lê Thanh Nghị
+(1911-1989) |
+28 tháng 6 năm 1982 | 18 tháng 6 năm 1987 | 4 năm, 355 ngày | Kiêm Tổng Thư ký Hội đồng Nhà nước, thay Xuân Thủy năm 1982 | ||
+8
+|
+Huỳnh Tấn Phát
+(1913-1989) |
+30 tháng 9 năm 1989 | Trường Chinh | 7 năm, 94 ngày | Qua đời khi đương nhiệm | ||
+9
+|
+Đại tướng Nguyễn Quyết
+(1922-2024) |
+18 tháng 6 năm 1987 | 23 tháng 9 năm 1992 | Võ Chí Công | 5 năm, 97 ngày | Đại tướng Quân đội thứ hai giữ chức
+Kiêm Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam (16/2/1987 - 30/9/1991) | |
+10
+|
+Thượng tướng Đàm Quang Trung
+(1921-1995) |
+Kiêm Chủ tịch Hội đồng Dân tộc (1987-1988) | |||||
+11
+|
+Trung tướng Lê Quang Đạo
+(1921-1999) |
+17 tháng 6 năm 1987 | Trường Chinh | 5 năm, 98 ngày | Kiêm Chủ tịch Quốc hội | ||
+12
+|
+Thiếu tướng Nguyễn Thị Định
+(1920-1992) |
+19 tháng 4 năm 1987 | 26 tháng 8 năm 1992 | 5 năm, 129 ngày | Nữ Phó Chủ tịch đầu tiên và là nữ Phó Chủ tịch Hội đồng Nhà nước duy nhất
+Qua đời khi đương nhiệm | ||
+13
+|
+Nguyễn Thị Bình
+(1927) |
+23 tháng 9 năm 1992 | 25 tháng 7 năm 2002 | Lê Đức Anh | 9 năm, 305 ngày | Nữ Phó Chủ tịch thứ hai và là nữ Phó Chủ tịch nước đầu tiên sau khi Hiến pháp 1992 quy định | |
+14
+|
+Trương Mỹ Hoa
+(1945) |
+25 tháng 7 năm 2002 | 25 tháng 7 năm 2007 | Trần Đức Lương | 5 năm, 0 ngày | Chủ tịch Quỹ Học bổng Vừ A Dính
+Chủ nhiệm Câu lạc bộ "Vì Hoàng Sa - Trường Sa thân yêu" Thành viên Câu lạc bộ Truyền thống Thành Đoàn Thành phố Hồ Chí Minh | |
+15
+|
+Nguyễn Thị Doan
+(1951) |
+25 tháng 7 năm 2007 | 7 tháng 4 năm 2016 | Nguyễn Minh Triết | 8 năm, 257 ngày | Chủ tịch Hội Khuyến học Việt Nam (22 tháng 9 năm 2016 - nay)
+| |
+16
+|
+Đặng Thị Ngọc Thịnh
+(1959) |
+8 tháng 4 năm 2016 | 6 tháng 4 năm 2021 | Trần Đại Quang | 4 năm, 363 ngày | Quyền Chủ tịch nước sau khi Chủ tịch Trần Đại Quang qua đời ngày 21 tháng 9 năm 2018 (21/9/2018 - 23/10/2018) | |
+17
+|
+Võ Thị Ánh Xuân
+(1970) |
+6 tháng 4 năm 2021 | đương nhiệm
+|
+Nguyễn Xuân Phúc | 4 năm, 255 ngày | Trẻ nhất khi nhậm chức ở tuổi 51.
+Quyền Chủ tịch nước sau khi Chủ tịch Nguyễn Xuân Phúc từ chức ngày 18 tháng 1 năm 2023. (18/1/2023 - 2/3/2023) Quyền Chủ tịch nước sau khi Chủ tịch Võ Văn Thưởng từ chức ngày 21 tháng 3 năm 2024 (21/3/2024 - 22/5/2024) |
+
+## Các nguyên Phó Chủ tịch nước còn sống
+
+[sửa | sửa mã nguồn]Hiện tại có 4 nguyên Phó Chủ tịch nước còn sống. Nguyên Phó Chủ tịch nước còn sống cao tuổi nhất là Nguyễn Thị Bình và trẻ tuổi nhất là Đặng Thị Ngọc Thịnh. Người qua đời gần nhất là ông Nguyễn Quyết vào ngày 23 tháng 12 năm 2024 ở tuổi 102. Các nguyên Phó Chủ tịch nước dưới đây được xếp theo thứ tự nhiệm kỳ.
+
+## Xem thêm
+
+[sửa | sửa mã nguồn]- Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam
+- Phó Chủ tịch Quốc hội Việt Nam
+- Phó Thủ tướng Chính phủ Việt Nam

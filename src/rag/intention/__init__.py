@@ -1,0 +1,2 @@
+from .intention_base import VNPTAI_INTENT_CLASSIFIER_BASE
+from .knowledge_base import VNPTAI_KNOWLEDGE_BASE

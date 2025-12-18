@@ -1,0 +1,39 @@
+{
+  "target_names": [
+    "reasoning",
+    "contextual_knowledge",
+    "domain_knowledge",
+    "constraints"
+  ],
+  "category_labels": [
+    "General",
+    "LongContext",
+    "NeutralPOV",
+    "Correctness",
+    "Refusal",
+    "MathLogic"
+  ],
+  "complexity_weights": {
+    "constraints": 0.2,
+    "contextual_knowledge": 0.2,
+    "domain_knowledge": 0.3,
+    "reasoning": 0.3
+  },
+  "max_length": 256,
+  "id2label": {
+    "0": "General",
+    "1": "LongContext",
+    "2": "NeutralPOV",
+    "3": "Correctness",
+    "4": "Refusal",
+    "5": "MathLogic"
+  },
+  "label2id": {
+    "General": 0,
+    "LongContext": 1,
+    "NeutralPOV": 2,
+    "Correctness": 3,
+    "Refusal": 4,
+    "MathLogic": 5
+  }
+}

@@ -1,0 +1,1 @@
+Nghị quyết 62/2025/NQ-HĐND quy định mức hỗ trợ chi trả an sinh xã hội trên địa bàn Thành phố Hà Nội

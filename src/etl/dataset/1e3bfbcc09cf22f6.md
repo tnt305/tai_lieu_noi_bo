@@ -1,0 +1,107 @@
+# Trịnh Văn Quyết (quân nhân)
+
+Trịnh Văn Quyết | |
+|---|---|
+Chức vụ | |
+| Nhiệm kỳ | 4 tháng 11 năm 2025 – nay35 ngày |
+| Tổng Bí thư | Tô Lâm |
+| Phó Trưởng ban | Lại Xuân Môn (Thường trực)Phạm Tất Thắng Ngô Đông Hải Huỳnh Thành Đạt Phan Xuân Thủy Vũ Thanh Mai Đinh Thị Mai Triệu Tài Vinh Nguyễn Quang Đức Trần Thanh Lâm |
+| Tiền nhiệm | Nguyễn Trọng Nghĩa |
+| Kế nhiệm | đương nhiệm |
+| Nhiệm kỳ | 16 tháng 8 năm 2024 – nay1 năm, 115 ngày |
+| Tổng Bí thư | |
+| Thường trực Ban Bí thư | |
+| Nhiệm kỳ | 3 tháng 6 năm 2024 – 4 tháng 11 năm 2025 1 năm, 154 ngày |
+| Chủ tịch nước | |
+| Tiền nhiệm | Lương Cường |
+| Kế nhiệm | Nguyễn Trọng Nghĩa |
+| Vị trí | Việt Nam |
+| Nhiệm kỳ | 4 tháng 5 năm 2021 – 31 tháng 5 năm 2024 3 năm, 27 ngày |
+| Chủ nhiệm | Lương Cường |
+| Tiền nhiệm | Lê Hiền Vân |
+| Kế nhiệm | Trương Thiên Tô |
+| Vị trí | Việt Nam |
+| Nhiệm kỳ | 30 tháng 1 năm 2021 – nay 4 năm, 313 ngày |
+| Tổng Bí thư | |
+| Nhiệm kỳ | 23 tháng 5 năm 2016 – 28 tháng 4 năm 2021 4 năm, 340 ngày |
+| Tiền nhiệm | Lê Hiền Vân |
+| Kế nhiệm | Phạm Đức Duyên |
+Thông tin cá nhân | |
+| Quốc tịch | Việt Nam |
+| Sinh | 22 tháng 1, 1966 Thanh Hà, Hải Dương, Việt Nam Dân chủ Cộng hòa |
+| Nơi ở | Hà Nội, Việt Nam |
+| Nghề nghiệp | Quân nhân Chính khách |
+| Dân tộc | Kinh |
+| Tôn giáo | Không |
+| Đảng chính trị | Đảng Cộng sản Việt Nam |
+| Học vấn | Cử nhân xây dựng Đảng và chính quyền nhà nước Cao cấp lí luận chính trị |
+| Alma mater | Học viện Chính trị Quốc gia Hồ Chí Minh |
+Binh nghiệp | |
+| Thuộc | Quân đội nhân dân Việt Nam |
+| Phục vụ | Việt Nam |
+| Năm tại ngũ | ? - 2025 |
+| Cấp bậc | Đại tướng |
+| Đơn vị | Quân khu 2 Tổng cục Chính trị |
+
+**Trịnh Văn Quyết** (sinh ngày 22 tháng 1 năm 1966 tại Hải Dương) là một chính trị gia người Việt Nam, Tướng lĩnh Quân đội nhân dân Việt Nam, hàm Đại tướng. Ông hiện là Bí thư Trung ương Đảng Cộng sản Việt Nam khóa XIII, Trưởng Ban Tuyên giáo và Dân vận Trung ương.[1] Trước đó, ông từng là Ủy viên Thường vụ Quân ủy Trung ương, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam, Chủ nhiệm Ủy ban Kiểm tra Quân ủy Trung ương.[2]
+
+## Thân thế binh nghiệp
+
+[sửa | sửa mã nguồn]Ông sinh ngày 22 tháng 1 năm 1966 tại xã Thanh Quang, huyện Thanh Hà, tỉnh Hải Dương (nay là xã Hà Đông, thành phố Hải Phòng).
+
+Trịnh Văn Quyết là Đảng viên Đảng Cộng sản Việt Nam, kết nạp vào tháng 3 năm 1988.
+
+Trước năm 2015, ông từng giữ chức Chính ủy Bộ chỉ huy quân sự tỉnh Hà Giang, Phó Chủ nhiệm Chính trị Quân khu 2.
+
+Năm 2015, bổ nhiệm giữ chức Phó Chính ủy Quân khu 2.
+
+Tháng 5 năm 2016, ông được bổ nhiệm giữ chức Chính ủy Quân khu 2, Bí thư Đảng ủy Quân khu.
+
+Tháng 08 năm 2016, được thăng quân hàm Thiếu tướng.
+
+Từ ngày 06 tháng 8 đến ngày 28 tháng 10 năm 2019, ông tham gia Lớp bồi dưỡng kiến thức mới cho cán bộ quy hoạch cấp chiến lược khóa XIII của Đảng tại Học viện Chính trị Quốc gia Hồ Chí Minh.
+
+Năm 2020, ông được thăng quân hàm Trung tướng.
+
+Ngày 30 tháng 01 năm 2021, Tại Đại hội đại biểu toàn quốc lần thứ XIII của Đảng, đồng chí được bầu là Ủy viên Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam khóa XIII, nhiệm kỳ 2021-2026.
+
+Ngày 28 tháng 4 năm 2021, Tại Quyết định số 616/QĐ-TTg, Thủ tướng Chính phủ Phạm Minh Chính bổ nhiệm Trung tướng Trịnh Văn Quyết, Ủy viên Trung ương Đảng, Bí thư Đảng ủy, Chính ủy Quân khu 2, giữ chức Phó Chủ nhiệm Tổng cục chính trị Quân đội nhân dân Việt Nam.[3]
+
+Ngày 16 tháng 7 năm 2021, Thủ tướng Chính phủ Phạm Minh Chính ký Quyết định số 1240/QĐ-TTg, bổ nhiệm ông làm Ủy viên Hội đồng Thi đua - Khen thưởng Trung ương.
+
+Sáng ngày 8 tháng 8 năm 2023, tại Phủ Chủ tịch, Chủ tịch nước Võ Văn Thưởng, Thống lĩnh lực lượng vũ trang, Chủ tịch Hội đồng Quốc phòng và An ninh đã trao quyết định thăng quân hàm từ Trung tướng lên Thượng tướng cho Phó Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam Trịnh Văn Quyết.[4]
+
+Ngày 1 tháng 6 năm 2024, Chủ tịch nước Cộng hòa xã hội chủ nghĩa Việt Nam đã ký Quyết định bổ nhiệm Thượng tướng Trịnh Văn Quyết giữ chức Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam.[2]
+
+Ngày 16 tháng 8 năm 2024, Ban Chấp hành Trung ương Đảng đã quyết định giới thiệu nhân sự và cho ý kiến để Bộ Chính trị giới thiệu nhân sự kiện toàn lãnh đạo một số cơ quan nhà nước nhiệm kỳ 2021 - 2026 theo quy định.
+
+Ban Chấp hành Trung ương Đảng đã bầu bổ sung Thượng tướng Trịnh Văn Quyết, Chủ nhiệm Tổng cục Chính trị Quân đội Nhân dân Việt Nam làm Ủy viên Ban Bí thư khóa XIII (2021 - 2026).
+
+Sáng ngày 14 tháng 7 năm 2025, tại Phủ Chủ tịch, Chủ tịch nước Lương Cường, Chủ tịch Hội đồng Quốc phòng và An ninh, Thống lĩnh các lực lượng vũ trang nhân dân, đã thăng quân hàm từ Thượng tướng lên Đại tướng đối với đồng chí Trịnh Văn Quyết, Bí thư Trung ương Đảng, Chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam.[5]
+
+Sáng ngày 4 tháng 11 năm 2025 tại Hà Nội, Văn phòng Trung ương Đảng tổ chức Lễ công bố Quyết định của Bộ Chính trị về công tác cán bộ. Theo quyết định, Đại tướng Trịnh Văn Quyết, Bí thư Trung ương Đảng, thôi tham gia Quân ủy Trung ương, Ban Thường vụ Quân ủy Trung ương nhiệm kỳ 2025-2030, được Bộ Chính trị điều động, phân công, bổ nhiệm giữ chức Trưởng Ban Tuyên giáo và Dân vận Trung ương.[6]
+
+## Lịch sử thụ phong quân hàm
+
+[sửa | sửa mã nguồn]| Năm thụ phong | 2016 | 2020 | 2023 | 2025 |
+|---|---|---|---|---|
+Quân hàm
+|
+||||
+Cấp bậc
+|
+Thiếu tướng
+|
+Trung tướng
+|
+Thượng tướng
+|
+Đại tướng
+|
+
+
+
+## Tham khảo
+
+[sửa | sửa mã nguồn]**^**"Tiểu sử tân Trưởng ban Tuyên giáo và Dân vận TW Trịnh Văn Quyết".*Znews.vn*. ngày 4 tháng 11 năm 2025. Truy cập ngày 4 tháng 11 năm 2025.- ^
+**a**xaydungchinhsach.chinhphu.vn (ngày 5 tháng 6 năm 2024). "Bổ nhiệm Thượng tướng Trịnh Văn Quyết giữ chức Chủ nhiệm Tổng cục Chính trị".**b***xaydungchinhsach.chinhphu.vn*. Truy cập ngày 5 tháng 6 năm 2024. **^**"Trung tướng Trịnh Văn Quyết được bổ nhiệm làm Phó Chủ nhiệm Tổng cục Chính trị".*Đài Tiếng nói Việt Nam*. Truy cập ngày 5 tháng 6 năm 2024.**^**"Quân Khu 7 Online".*baoquankhu7.vn*. Truy cập ngày 5 tháng 6 năm 2024.**^**baochinhphu.vn (ngày 14 tháng 7 năm 2025). "Chủ tịch nước trao Quyết định thăng quân hàm; cấp bậc hàm Đại tướng, Thượng tướng đối với sĩ quan Quân đội và Công an".*baochinhphu.vn*. Truy cập ngày 14 tháng 7 năm 2025.**^**ONLINE, TUOI TRE (ngày 4 tháng 11 năm 2025). "Ông Trịnh Văn Quyết làm Trưởng Ban Tuyên giáo và Dân vận Trung ương".*TUOI TRE ONLINE*. Truy cập ngày 4 tháng 11 năm 2025.

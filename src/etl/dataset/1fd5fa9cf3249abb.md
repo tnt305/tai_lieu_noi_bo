@@ -1,0 +1,60 @@
+# Chủ nghĩa dân tộc
+
+Bài viết hoặc đoạn này cần người am hiểu về chủ đề này trợ giúp biên tập mở rộng hoặc cải thiện. (tháng 9/2024) |
+
+| Bài viết thuộc một phần của loại bài về |
+| Chủ nghĩa dân tộc |
+|---|
+|
+|
+
+| Một phần của loạt bài về Chính trị |
+| Chính trị đảng phái |
+|---|
+
+
+**Chủ nghĩa dân tộc** (tiếng Anh: *nationalism*) là một quan niệm và ý thức hệ chính trị cho rằng dân tộc nên đồng nhất với nhà nước.[1][2] Khái niệm này hay được cho là ra đời vào cuối thế kỷ XVIII, trong các tác phẩm của các nhà Khai sáng. Trong Cách mạng Pháp, chủ nghĩa dân tộc đặt dân tộc, những người dân là hiện thân của đất nước, đưa ra khái niệm quốc gia dân tộc, trái ngược với tầm nhìn của chế độ cũ vua Pháp là hiện thân đất nước. Khi đó chủ nghĩa dân tộc là cánh tả, nó đi kèm với khái niệm quốc tịch, quyền công dân, quyền tự quyết dân tộc, các giá trị tự do dân chủ. Johann Gottfried von Herder một người được cho là theo chủ nghĩa dân tộc bảo thủ Đức, hay được xem như là một trong những người định nghĩa sớm nhất về chủ nghĩa dân tộc, khi ông cho rằng Vua cũng như nông dân, đều là thuộc về một giai cấp, là Volk (mọi người), nhằm bác bỏ lý
+thuyết giai cấp của những người cộng sản, và đề cao văn hóa dân tộc bác bỏ lý thuyết khế ước xã hội của chủ nghĩa tự do.[3]
+
+Theo Anthony D. Smith, Ý thức hệ chính trị này hướng đến việc giành được, và duy trì sự tự trị (self-governance), hoặc chủ quyền hoàn toàn (full sovereignty), trên một vùng lãnh thổ có ý nghĩa lịch sử quan trọng đối với một nhóm người (như là tổ quốc của họ). Chủ nghĩa dân tộc do đó cho rằng một dân tộc nên tự mình cai trị, không bị ảnh hưởng từ bên ngoài, và được kết nối với khái niệm self-determination (tự xác định, tự định hướng). Xa hơn nữa, chủ nghĩa dân tộc còn hướng đến sự phát triển và duy trì bản sắc dân tộc (national identity) dựa trên các đặc trưng chung như văn hóa, ngôn ngữ, chủng tộc, tôn giáo, các mục tiêu chính trị và/hoặc niềm tin về tổ tiên chung.[4][5] Vì vậy, chủ nghĩa dân tộc tìm cách bảo tồn văn hóa của dân tộc. Nó cũng thường liên quan cảm giác tự hào về những thành tựu của dân tộc, và có sự liên kết chặt chẽ với khái niệm chủ nghĩa yêu nước. Chủ nghĩa dân tộc theo các nghĩa này có thể tích cực hay tiêu cực.[6]
+
+Do đa số các quốc gia là đa sắc tộc hoặc có nhiều nhóm tự nhận vị thế quốc gia.[7] Chủ nghĩa dân tộc là một hiện tượng xã hội mạnh mẽ trên thế giới, khi các quốc kỳ, quốc ca, và những sự phân biệt quốc gia là các ví dụ về chủ nghĩa dân tộc sáo rỗng (*banal nationalism*) mà người ta thường thể hiện một cách vô thức.[8] Hơn nữa, một số học giả cho rằng chủ nghĩa dân tộc với hình thức tình cảm hoặc văn hóa, mà đôi khi được miêu tả bằng từ 'bản sắc dân tộc' (*national identity*) để tránh ảnh hưởng của nghĩa "hệ tư tưởng", là nền tảng xã hội hiện đại. Công nghiệp hóa, dân chủ hóa, và sự ủng hộ đối với sự tái phân bố kinh tế đã phần nào đóng góp cho sự đoàn kết xã hội mà chủ nghĩa dân tộc mang lại.[9][10][11] Chủ nghĩa dân tộc đã giữ vai trò ảnh hưởng chính hay nguyên nhân của Chiến tranh thế giới thứ nhất, và đặc biệt là Chiến tranh thế giới thứ hai do sự nổi lên của chủ nghĩa phát xít), một hệ tư tưởng dân tộc chủ nghĩa cấp tiến và độc đoán.[12][13][14][15]
+
+Chủ nghĩa dân tộc lý giải quyền lực nhà nước hình thành trên cơ sở dân tộc, khác với những người theo chủ nghĩa Marx cho quyền lực nhà nước trên cơ sở phân hóa giai cấp, hay chủ nghĩa tự do quyền lực Nhà nước trên cơ sở khế ước xã hội của các cá nhân. Chủ nghĩa dân tộc góp phần quan trọng hình thành nên các quốc gia từ các phong trào giải phóng dân tộc hay ly khai, hoặc có ảnh hưởng các chính sách dân tộc của nhà nước. Chính sách dân tộc chủ nghĩa có thể biểu hiện qua chính sách kinh tế, văn hóa, ví dụ cấm (hạn chế) nhập một hàng hóa từ bên ngoài vào để bảo vệ hàng nội, hay cấm (hạn chế) các tư tưởng, văn hóa, sản phẩm nghệ thuật từ bên ngoài vào để bảo vệ văn hóa, tư tưởng dân tộc, hay các sản phẩm văn hóa quốc nội, những chính sách mang màu sắc dân tộc chủ nghĩa này không đồng nghĩa có lợi cho toàn thể dân tộc, mà có khi chỉ cho một nhóm người (ví dụ những người đang sản xuất mặt hàng, sản phẩm đó,...). Chủ nghĩa dân tộc thường được xem là rộng hơn, có tính chính trị hơn và không hoàn toàn trùng nhau với chủ nghĩa yêu nước, một khái niệm có tính mơ hồ hơn. Nó khởi nguồn cho rất nhiều các cuộc chiến tranh hoặc các tư tưởng bài ngoại, đóng cửa, phân biệt chủng tộc (như Đảng Dân tộc ở Nam Phi trước đây), kỳ thị sắc tộc thiểu số hay tôn giáo thiểu số (như ở Myanmar một thời), đối xử tệ với thổ dân (như ở châu Mỹ và Úc một thời), sự xích lại của một dân tộc trong một khu vực không phân biệt lãnh thổ. Sở dĩ từ chủ nghĩa dân tộc hay được những người cánh tả gọi là để phân biệt với chủ nghĩa quốc gia, vì mục tiêu dân tộc gắn với chủ nghĩa quốc tế, không tách rời nhau (như giải phóng dân tộc gắn với giải phóng nhân loại), chứ không hiểu là chủ nghĩa quốc gia hay được họ xem là gắn với phân biệt, kỳ thị chủng tộc, đế quốc hay nhân danh chủ nghĩa quốc gia để bảo vệ lợi ích những người cai trị. Quốc gia gắn liền với cương vực lãnh thổ, địa lý, còn dân tộc là một khái niệm khác.
+
+Về cơ bản hầu hết các khuynh hướng chính trị ở các quốc gia đều chịu ảnh hưởng ít nhiều của chủ nghĩa dân tộc nhưng lý giải khác nhau. Thông thường chủ nghĩa dân tộc hay gắn bó với cánh hữu hơn vì họ coi trọng đoàn kết dân tộc, bảo vệ quyền lợi quốc gia - dân tộc hơn là tính đến các vấn đề giai cấp, và ít chịu ảnh hưởng hơn của chủ nghĩa quốc tế. Đôi khi chủ nghĩa dân tộc đi kèm với chủ nghĩa quân phiệt, chủ nghĩa nhà nước, và đối trọng với chủ nghĩa tự do coi trọng bảo vệ quyền cá nhân hơn. Do bản chất dân tộc là một khái niệm tranh cãi, cho nên chủ nghĩa dân tộc cũng hay được xem là mơ hồ, trong một sự cố gắng liên kết của những nhóm người có cùng huyết thống, màu da, hay ngôn ngữ, văn hóa, tôn giáo,...
+
+Một số phong trào chủ nghĩa dân tộc hiện nay có thể có hình thức hùng biện chính trị mị dân hoặc chiến lược liên kết với chủ nghĩa dân túy.
+
+Trong thời gian Đại dịch COVID-19, Tổng thư ký Liên hợp quốc António Guterres nhiều lần cảnh báo nguy cơ thuyết âm mưu kích động chủ nghĩa dân tộc đe dọa hòa bình thế giới, gây ra các cuộc xung đột, phân biệt sắc tộc, bài ngoại, dân túy, thi hành các chính sách độc đoán, vi phạm quyền con người...[16][17][18]
+
+## Thuật ngữ
+
+Trước năm 1800, ở châu Âu, từ *nation* (dân tộc) được dùng để chỉ những cư dân (inhabitant) của một quốc gia (country) hoặc chỉ những bản sắc tập thể (collective identity) có thể có chung lịch sử, luật pháp, các quyền chính trị, tôn giáo và truyền thống, với nghĩa tương đối giống với quan niệm hiện nay.[19]
+
+## Lịch sử
+
+Chủ nghĩa dân tộc đã trở thành một nét đặc trưng xã hội phổ biến của các nền văn minh loài người kể từ thời cổ đại, đã được thể hiện qua nhận thức hiện đại về sự tự trị và sự độc lập chính trị của các dân tộc trên thế giới và đã được chính thức thực hiện hóa vào cuối thế kỷ thứ XVIII.[20] Ví dụ về các cuộc cách mạng chủ nghĩa dân tộc có thể được quan sát thấy trong suốt chiều dài lịch sử nhân loại, từ những cuộc nổi loạn của người Do Thái ở thế kỷ thứ II, cho tới sự vực dậy của nền văn minh Ba Tư trong giai đoạn Đế quốc Sassanid, và cho đến sự trở lại của nền văn minh Latin ở Đế chế Tây La Mã vào thế kỷ thứ IV và tại thế kỷ thứ V, và cũng hiện tượng này cũng xuất hiện ở nhiều dân tộc khác. Trong thời hiện đại, có thể thấy những ví dụ rõ ràng về sự hưng thịnh của chủ nghĩa dân tộc Đức như là một phản ứng chống lại sự kiểm soát của Napoleon lên dân tộc Đức, phản ứng dữ dội của dân tộc Đức chính là sự thành lập Liên bang Rhein khoảng năm 1805-14.[21][22]
+
+## Xem thêm
+
+- Chủ nghĩa Tam Dân
+- Chủ nghĩa duy dân
+- Chủ nghĩa Sô vanh
+- Chủ nghĩa yêu nước
+- Chủ nghĩa dân túy
+- Chủ nghĩa dân tộc da trắng
+
+## Tham khảo
+
+**^**Hechter, Michael (2000).*Containing Nationalism*(bằng tiếng Anh). Oxford University Press. tr. 7. ISBN 978-0198297420.**^**Gellner, Ernest (1983).*Nations and Nationalism*(bằng tiếng Anh). Cornell University Press. tr. 1. ISBN 978-0801475009.**^**ơ Johann Gottfried von Herder (1744−1803)**^**Triandafyllidou, Anna (1998). "National identity and the other".*Ethnic and Racial Studies*. Quyển 21 số 4. tr. 593–612.**^**Smith, A.D. (1981).*The Ethnic Revival in the Modern World*. Cambridge University Press.**^**Nairn, Tom; James, Paul (2005).*Global Matrix: Nationalism, Globalism and State-Terrorism*. London and New York: Pluto Press.; and James, Paul (2006).*Globalism, Nationalism, Tribalism: Bringing Theory Back In – Volume 2 of Towards a Theory of Abstract Community*. London: Sage Publications.**^**Connor, Walker (1994).*Ethnonationalism: The Quest for Understanding*. Princeton, New Jersey: Princeton University Press. tr. 29.**^**Billig, Michael (1995).*Banal Nationalism*. London: Sage. ISBN 0803975252.**^**Gellner, Ernest (2005).*Nations and Nationalism*. Blackwell. ISBN 1405134429.**^**Canovan, Margaret (1996).*Nationhood and Political Theory*. Cheltenham: Edward Elgar. ISBN 1840640111.[*liên kết hỏng*]**^**Miller, David (1995).*On Nationality*. Oxford: Oxford University Press. ISBN 0198293569.[*liên kết hỏng*]**^**Laqueuer, Walter." Comparative Study of Fascism" by Juan J. Linz. Fascism, A Reader's Guide: Analyses, interpretations, Bibliography. Berkeley and Los Angeles: University of California Press, 1976. Pp. 15 "Fascism is above all a nationalist movement and therefore wherever the nation and the state are strongly identified."**^**Laqueur, Walter.*Fascism: Past, Present, Future*. Oxford University Press, 1997. Pp. 90. "the common belief in nationalism, hierarchical structures, and the leader principle."**^**"Goebbels on National-Socialism, Bolshevism and Democracy,*Documents on International Affairs*, vol. II, 1938, pp. 17-19. Truy cập from the Jewish Virtual Library on 5 tháng 2 năm 2009. [1] Joseph Goebbels describes the Nazis as being allied with countries which had "authoritarian nationalist" ideology and conception of the state "It enables us to see at once why democracy and Bolshevism, which in the eyes of the world are irrevocably opposed to one another, meet again and again on common ground in their joint hatred of and attacks on authoritarian nationalist concepts of State and State systems. For the authoritarian nationalist conception of the State represents something essentially new. In it the French Revolution is superseded.".**^**Koln, Hans; Calhoun, Craig.*The Idea of Nationalism: A Study in its Origins and Background.*Transaction Publishers. Pp 20.
+
+University of California. 1942.*Journal of Central European Affairs*. Volume 2.**^**We Are All in This Together: Human Rights and COVID-19 Response and Recovery - Video Message by the Secretary-General**^**Coronavirus Has Sparked "Tsunami Of Hate And Xenophobia": UN Chief**^**Shared Vulnerability to COVID-19 Reveals Common Humanity, Secretary-General Tells Faith Leaders, Stressing Their Key Role in Fighting Intolerance, Disinformation**^**Gat, Azar (2012).*Nations: The Long History and Deep Roots of Political Ethnicity and Nationalism*. Cambridge University Press. tr. 214.**^**Hans Kohn,*The idea of nationalism: A study in its origins and background*(1944).**^**Gregorio F. Zaide (1965).*World History*. . tr. 274. ISBN 9789712314728.**^**Calhoun, Craig (1993). "Nationalism and Ethnicity".*Annual Review of Sociology*. Quyển 19. tr. 211–39. doi:10.1146/annurev.soc.19.1.211.
+
+## Liên kết ngoài
+
+- Tư liệu liên quan tới Nationalism tại Wikimedia Commons
+- Nationalism — entry at
+*Encyclopædia Britannica* - "Nationalism".
+*Internet Modern History Sourcebook*. Fordham University. Bản gốc lưu trữ ngày 28 tháng 10 năm 2014. Truy cập ngày 31 tháng 3 năm 2021. - "The Nationalism Project".
+*Association for Research on Ethnicity and Nationalism in the Americas*. University of South Carolina. Bản gốc lưu trữ ngày 2 tháng 10 năm 2019. Truy cập ngày 31 tháng 3 năm 2021. - Nationalism: selected references
