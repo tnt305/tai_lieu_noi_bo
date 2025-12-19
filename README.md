@@ -1,4 +1,4 @@
-# VNPT AI QA System - AIO-Hitman
+# QA System - AIO-Hitman
 
 Hệ thống Hỏi đáp Tự động (QA System) sử dụng kiến trúc RAG (Retrieval-Augmented Generation) kết hợp với Router thông minh và quy trình suy luận đa bước (Multi-step Reasoning) để giải quyết các câu hỏi trắc nghiệm đa lĩnh vực.
 
