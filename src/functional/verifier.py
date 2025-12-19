@@ -46,7 +46,7 @@ class AnswerVerifier:
         if is_unsafe:
             refusal_opt = self.refusal_detector.detect(choices)
             if refusal_opt:
-                # print(f"   🛑 Forced Refusal (Safety): {refusal_opt}")
+                # print(f"   Forced Refusal (Safety): {refusal_opt}")
                 return refusal_opt
             # If unsafe but no refusal option found, proceed (or strictly fail? Post-inf logic allowed proceed)
             
@@ -72,7 +72,7 @@ class AnswerVerifier:
             return match_regen.group(1).upper()
             
         # --- 4. FALLBACK MATCHING (Embedding/Fuzzy) ---
-        # print(f"   ⚠️ Fallback Matching for {qid}...")
+        # print(f"   Fallback Matching for {qid}...")
         target_text = regenerated if len(regenerated) > len(raw_answer) else raw_answer
         
         # 4.1 Fuzzy Math
@@ -100,10 +100,6 @@ class AnswerVerifier:
         if self.guardrails and self.guardrails.toxicity_scanner:
             try:
                 tox = self.guardrails.toxicity_scanner.scan(query)
-                # Correct logic: check confidence score directly or use is_toxic
-                # Original logic was tox_res.get('toxicity') > 0.5 (which was buggy fixed to confidence)
-                # But scanner.scan returns 'is_toxic' boolean too.
-                # Let's rely on confidence score to be consistent with previous fix
                 score = tox.get('confidence', {}).get('Toxic/Harm', 0.0)
                 if score > 0.4: return True
             except: pass

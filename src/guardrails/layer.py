@@ -276,46 +276,46 @@ class GuardrailsLayer:
         return True, None
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
     # Test guardrails
-    print("=" * 60)
-    print("Testing Guardrails Layer")
-    print("=" * 60)
+    # print("=" * 60)
+    # print("Testing Guardrails Layer")
+    # print("=" * 60)
     
-    # Test without scanners (just pattern matching)
-    guardrails = ContentGuardrails(
-        enable_toxicity=False,  # Disable for standalone test
-        enable_pii=False,
-        enable_secrets=False
-    )
+    # # Test without scanners (just pattern matching)
+    # guardrails = ContentGuardrails(
+    #     enable_toxicity=False,  # Disable for standalone test
+    #     enable_pii=False,
+    #     enable_secrets=False
+    # )
     
-    # Test refusal pattern matching
-    test_choices = [
-        "Đáp án là 42",
-        "Tôi không thể cung cấp thông tin này",
-        "Kết quả là 3.14",
-        "Không có đáp án đúng"
-    ]
+    # # Test refusal pattern matching
+    # test_choices = [
+    #     "Đáp án là 42",
+    #     "Tôi không thể cung cấp thông tin này",
+    #     "Kết quả là 3.14",
+    #     "Không có đáp án đúng"
+    # ]
     
-    refusal, idx = guardrails._find_refusal_choice(test_choices)
-    print(f"\nTest choices: {test_choices}")
-    print(f"✅ Found refusal choice at index {idx}: '{refusal}'")
+    # refusal, idx = guardrails._find_refusal_choice(test_choices)
+    # print(f"\nTest choices: {test_choices}")
+    # print(f" Found refusal choice at index {idx}: '{refusal}'")
     
-    # Test format
-    result = guardrails.format_refusal_answer(idx, "test_001")
-    print(f"✅ Formatted result: {result}")
+    # # Test format
+    # result = guardrails.format_refusal_answer(idx, "test_001")
+    # print(f" Formatted result: {result}")
     
-    # More test patterns
-    more_choices = [
-        ["Có thể", "Không thể", "Thông tin này chưa được xác minh", "Tất cả đều sai"],
-        ["A", "B", "C", "D"],
-        ["Không xác định được câu trả lời", "100", "200", "300"],
-    ]
+    # # More test patterns
+    # more_choices = [
+    #     ["Có thể", "Không thể", "Thông tin này chưa được xác minh", "Tất cả đều sai"],
+    #     ["A", "B", "C", "D"],
+    #     ["Không xác định được câu trả lời", "100", "200", "300"],
+    # ]
     
-    print("\nMore refusal pattern tests:")
-    for choices in more_choices:
-        refusal, idx = guardrails._find_refusal_choice(choices)
-        if refusal:
-            print(f"   ✅ Found: '{refusal[:40]}...' at index {idx}")
-        else:
-            print(f"   ❌ No refusal in: {choices}")
+    # print("\nMore refusal pattern tests:")
+    # for choices in more_choices:
+    #     refusal, idx = guardrails._find_refusal_choice(choices)
+    #     if refusal:
+    #         print(f"Found: '{refusal}' at index {idx}")
+    #     else:
+    #         print(f"No refusal in: {choices}")

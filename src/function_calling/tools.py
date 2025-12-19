@@ -238,20 +238,20 @@ class ToolRegistry:
         return tool.handler(**kwargs)
 
 
-if __name__ == "__main__":
-    # Test registry
-    registry = ToolRegistry()
+# if __name__ == "__main__":
+#     # Test registry
+#     registry = ToolRegistry()
     
-    print("📋 All registered tools:")
-    for name, tool in registry.tools.items():
-        print(f"\n  • {name}")
-        print(f"    {tool.description[:80]}...")
+#     print("All registered tools:")
+#     for name, tool in registry.tools.items():
+#         print(f"\n  • {name}")
+#         print(f"    {tool.description[:80]}...")
     
-    print("\n\n📝 OpenAI Schema format:")
-    import json
-    schemas = registry.get_all_schemas()
-    print(json.dumps(schemas[0], indent=2, ensure_ascii=False))
+#     print("\n\n OpenAI Schema format:")
+#     import json
+#     schemas = registry.get_all_schemas()
+#     print(json.dumps(schemas[0], indent=2, ensure_ascii=False))
     
-    print("\n\n🎯 Tools for 'math' intent:")
-    math_tools = registry.get_tools_for_intent("math")
-    print([t["function"]["name"] for t in math_tools])
+#     print("\n\n Tools for 'math' intent:")
+#     math_tools = registry.get_tools_for_intent("math")
+#     print([t["function"]["name"] for t in math_tools])
