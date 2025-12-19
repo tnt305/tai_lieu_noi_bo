@@ -104,12 +104,12 @@ class CorrectionBank:
             with open(self.rules_file, 'wb') as f:
                 pickle.dump(vector_cache, f)
             
-            print(f"💾 CorrectionBank saved:")
+            print(f" CorrectionBank saved:")
             print(f"   - Rules (JSONL): {jsonl_file} ({len(self.rules)} rules)")
             print(f"   - Vectors (PKL): {self.rules_file}")
             self._unsaved_changes = 0
         except Exception as e:
-            print(f"⚠️ Failed to save CorrectionBank: {e}")
+            print(f" Failed to save CorrectionBank: {e}")
     
     def load(self):
         """Load rules from JSONL and vectors from pickle"""

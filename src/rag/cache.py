@@ -33,10 +33,10 @@ class SemanticQACache:
             }
             with open(self.cache_file, 'wb') as f:
                 pickle.dump(data, f)
-            print(f"💾 Cache saved to {self.cache_file} ({len(self.entries)} entries)")
+            print(f"## Cache saved to {self.cache_file} ({len(self.entries)} entries)")
             self._unsaved_changes = 0
         except Exception as e:
-            print(f"⚠️ Failed to save cache: {e}")
+            print(f"## Failed to save cache: {e}")
 
     def load(self):
         """Load cache from disk"""
@@ -51,9 +51,9 @@ class SemanticQACache:
                 if self.vectors and not isinstance(self.vectors[0], list):
                     self.vectors = [v.tolist() for v in self.vectors]
                     
-                print(f"📂 Loaded cache from {self.cache_file} ({len(self.entries)} entries)")
+                print(f"## Loaded cache from {self.cache_file} ({len(self.entries)} entries)")
             except Exception as e:
-                print(f"⚠️ Failed to load cache: {e}")
+                print(f"## Failed to load cache: {e}")
 
     def lookup(self, query_vector: List[float], current_query: str, context_hash: str = None) -> Optional[Dict]:
         """
@@ -100,14 +100,14 @@ class SemanticQACache:
                 
                 if has_numbers:
                     if current_query.strip().lower() != cached_query.strip().lower():
-                        # print(f"⚠️ Cache Miss (Math Mismatch): '{current_query}' vs '{cached_query}'")
+                        # print(f"## Cache Miss (Math Mismatch): '{current_query}' vs '{cached_query}'")
                         return None
                 
-                print(f"⚡ Cache Hit! Sim: {best_score:.3f}")
+                print(f"## Cache Hit! Sim: {best_score:.3f}")
                 return entry['result']
                 
         except Exception as e:
-            print(f"⚠️ Cache lookup error: {e}")
+            print(f"## Cache lookup error: {e}")
             import traceback
             traceback.print_exc()
             

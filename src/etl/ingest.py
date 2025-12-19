@@ -35,7 +35,7 @@ def run_ingestion(batch_size: int = 10, upload_batch_size: int = 50):
     
     # 3. STREAMING EMBED + UPSERT (Tránh OOM)
     print(f"\n--- STEP 3: STREAMING EMBED & UPLOAD ---")
-    print(f"📊 Batch size: {batch_size} (embedding) | {upload_batch_size} (upload)")
+    print(f"## Batch size: {batch_size} (embedding) | {upload_batch_size} (upload)")
     
     # Đảm bảo collection tồn tại với đúng kích thước vector
     db.create_collection_if_not_exists(vector_size=embedder.dimension)
@@ -44,7 +44,7 @@ def run_ingestion(batch_size: int = 10, upload_batch_size: int = 50):
     uploaded_count = 0
     
     # Process theo batches để streaming
-    for i in tqdm(range(0, total_chunks, upload_batch_size), desc="📦 Upload batches", unit="batch"):
+    for i in tqdm(range(0, total_chunks, upload_batch_size), desc="## Upload batches", unit="batch"):
         # Lấy batch hiện tại
         batch_chunks = chunks_obj[i:i+upload_batch_size]
         

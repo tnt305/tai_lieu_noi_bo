@@ -12,7 +12,7 @@ class VNPTAIEmbedder:
         Args:
             model_name: Name of the model to use (default: vnptai_hackathon_embedding)
         """
-        print(f"🔄 Initializing API embedder: {model_name}...")
+        print(f"## Initializing API embedder: {model_name}...")
         self.config = load_llm_config("embeddings")
         self.model_name = model_name
         self.api_url = "https://api.idg.vnpt.vn/data-service/vnptai-hackathon-embedding"
@@ -55,7 +55,7 @@ class VNPTAIEmbedder:
             safe_batch_texts = []
             for text in batch_texts:
                 if len(text) > 8192:
-                    print(f"⚠️ Truncating text from {len(text)} to 8192 chars to avoid API Error.")
+                    print(f"## Truncating text from {len(text)} to 8192 chars to avoid API Error.")
                     safe_batch_texts.append(text[:8192])
                 else:
                     safe_batch_texts.append(text)
@@ -83,7 +83,7 @@ class VNPTAIEmbedder:
                     # If 4xx error (client side), typical raise_for_status might act different
                     # but usually we want to crash on 400 (bad request) vs retry on 500/timeout
                     if 400 <= response.status_code < 500:
-                        print(f"❌ Client Error {response.status_code}: {response.text}")
+                        print(f"## Client Error {response.status_code}: {response.text}")
                         response.raise_for_status() 
 
                     response.raise_for_status()
@@ -98,18 +98,18 @@ class VNPTAIEmbedder:
                     break
                     
                 except Exception as e:
-                    print(f"⚠️ Embedding API error for batch index {i} (Attempt {attempt+1}/{max_retries}): {e}")
+                    print(f"## Embedding API error for batch index {i} (Attempt {attempt+1}/{max_retries}): {e}")
                     
                     if hasattr(e, 'response') and e.response is not None:
-                         print(f"❌ Server Response: {e.response.text}")
+                         print(f"## Server Response: {e.response.text}")
 
                     # User requested: Wait 60s and continue running (retry)
                     if attempt < max_retries - 1:
-                        print(f"   ⏳ Waiting 60s before retrying current batch...")
+                        print(f"   ## Waiting 60s before retrying current batch...")
                         for _ in tqdm(range(60), desc="Retry Wait"):
                             time.sleep(1)
                     else:
-                        print(f"❌ Failed after {max_retries} attempts.")
+                        print(f"## Failed after {max_retries} attempts.")
                         raise e
             
             # Rate limiting check

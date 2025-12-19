@@ -15,7 +15,7 @@ try:
         rest_models.CreateCollection.model_config['extra'] = 'allow'
         # CRITICAL for Pydantic V2: Rebuild the model to apply config changes
         rest_models.CreateCollection.model_rebuild(force=True)
-        print("🔧 Qdrant Client patched: CreateCollection now allows extra fields (Rebuilt).")
+        print("## Qdrant Client patched: CreateCollection now allows extra fields (Rebuilt).")
 except ImportError:
     pass
 # ---------------------------------------------------------------------------------
@@ -27,7 +27,7 @@ class VNPTAIVectorDB:
         
         # path="./qdrant_data" giúp lưu dữ liệu xuống ổ cứng, tắt code đi bật lại vẫn còn
         if _GLOBAL_QDRANT_CLIENT is None:
-            print(f"📦 Initializing Global Qdrant Client at {path}...")
+            print(f"## Initializing Global Qdrant Client at {path}...")
             _GLOBAL_QDRANT_CLIENT = QdrantClient(path=path)
         
         self.client = _GLOBAL_QDRANT_CLIENT
@@ -36,13 +36,13 @@ class VNPTAIVectorDB:
     def create_collection_if_not_exists(self, vector_size: int):
         """Tạo collection nếu chưa có"""
         if not self.client.collection_exists(self.collection_name):
-            print(f"📦 Creating collection '{self.collection_name}' with size {vector_size}...")
+            print(f"## Creating collection '{self.collection_name}' with size {vector_size}...")
             self.client.create_collection(
                 collection_name=self.collection_name,
                 vectors_config=VectorParams(size=vector_size, distance=Distance.COSINE),
             )
         else:
-            print(f"✅ Collection '{self.collection_name}' already exists.")
+            print(f"## Collection '{self.collection_name}' already exists.")
 
     def upsert_chunks(self, chunks: List[Dict], vectors: List[List[float]]):
         """
@@ -74,7 +74,7 @@ class VNPTAIVectorDB:
             wait=True,
             points=points
         )
-        print(f"🚀 Upserted {len(points)} points. Status: {operation_info.status}")
+        print(f"## Upserted {len(points)} points. Status: {operation_info.status}")
 
     def search(self, query_vector: List[float], limit: int = 5, query_filter=None):
         """

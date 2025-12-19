@@ -60,7 +60,7 @@ class CorrectionBankQdrant:
         import src.rag.vectordb as vdb_module
         
         if shared_client is None:
-            print(f"📦 Initializing Shared Qdrant Client (from CorrectionBank)...")
+            print(f"## Initializing Shared Qdrant Client (from CorrectionBank)...")
             client = QdrantClient(path=qdrant_path)
             vdb_module._GLOBAL_QDRANT_CLIENT = client
             self.client = client
@@ -79,7 +79,7 @@ class CorrectionBankQdrant:
     def _ensure_collection(self):
         """Create collection if not exists"""
         if not self.client.collection_exists(self.COLLECTION_NAME):
-            print(f"📦 Creating Qdrant collection '{self.COLLECTION_NAME}'...")
+            print(f"## Creating Qdrant collection '{self.COLLECTION_NAME}'...")
             self.client.create_collection(
                 collection_name=self.COLLECTION_NAME,
                 vectors_config=VectorParams(
@@ -87,11 +87,11 @@ class CorrectionBankQdrant:
                     distance=Distance.COSINE
                 )
             )
-            print(f"✅ Collection '{self.COLLECTION_NAME}' created.")
+            print(f"## Collection '{self.COLLECTION_NAME}' created.")
         else:
             # Get collection info
             info = self.client.get_collection(self.COLLECTION_NAME)
-            print(f"✅ Qdrant CorrectionBank: {info.points_count} rules loaded")
+            print(f"## Qdrant CorrectionBank: {info.points_count} rules loaded")
     
     def lookup(
         self, 
@@ -163,13 +163,13 @@ class CorrectionBankQdrant:
                 best_hit = results[0]
                 if best_hit.score >= self.threshold:
                     correction_tip = best_hit.payload.get('correction_tip', '')
-                    print(f"📖 Found Correction Rule (Qdrant, Score: {best_hit.score:.3f})")
+                    print(f"## Found Correction Rule (Qdrant, Score: {best_hit.score:.3f})")
                     return correction_tip
             
             return None
             
         except Exception as e:
-            print(f"⚠️ CorrectionBank Qdrant lookup error: {e}")
+            print(f"## CorrectionBank Qdrant lookup error: {e}")
             return None
     
     def add_rule(
@@ -222,10 +222,10 @@ class CorrectionBankQdrant:
                 ]
             )
             
-            print(f"✅ Added rule to Qdrant: {correction_tip[:50]}...")
+            print(f"## Added rule to Qdrant: {correction_tip[:50]}...")
             
         except Exception as e:
-            print(f"⚠️ Failed to add rule to Qdrant: {e}")
+            print(f"## Failed to add rule to Qdrant: {e}")
     
     def upload_from_jsonl(self, jsonl_file: str = "dataset/correction_rules.jsonl"):
         """
@@ -233,12 +233,12 @@ class CorrectionBankQdrant:
         This is a one-time migration to populate Qdrant.
         """
         if not os.path.exists(jsonl_file):
-            print(f"❌ JSONL file not found: {jsonl_file}")
+            print(f"## JSONL file not found: {jsonl_file}")
             return
         
         # Initialize embedder if not provided
         if not self.embedder:
-            print("🔧 Initializing embedder for upload...")
+            print("## Initializing embedder for upload...")
             self.embedder = VNPTAIEmbedder()
         
         # Read JSONL
@@ -249,14 +249,14 @@ class CorrectionBankQdrant:
                     rules.append(json.loads(line.strip()))
         
         if not rules:
-            print("❌ No rules found in JSONL file")
+            print("## No rules found in JSONL file")
             return
         
-        print(f"📂 Found {len(rules)} rules to upload")
+        print(f"## Found {len(rules)} rules to upload")
         
         # Embed all queries
         queries = [rule['query'] for rule in rules]
-        print("🔄 Embedding queries...")
+        print("## Embedding queries...")
         vectors = self.embedder.embed(queries)
         
         # Upload to Qdrant
@@ -288,7 +288,7 @@ class CorrectionBankQdrant:
             points=points
         )
         
-        print(f"✅ Uploaded {len(points)} rules to Qdrant collection '{self.COLLECTION_NAME}'")
+        print(f"## Uploaded {len(points)} rules to Qdrant collection '{self.COLLECTION_NAME}'")
     
     def get_stats(self) -> Dict:
         """Get collection statistics"""
@@ -321,7 +321,7 @@ def main():
         
     elif command == "stats":
         stats = bank.get_stats()
-        print(f"\n📊 CorrectionBank Stats:")
+        print(f"\n## CorrectionBank Stats:")
         for key, value in stats.items():
             print(f"   {key}: {value}")
             
@@ -335,10 +335,10 @@ def main():
         
         tip = bank.lookup(vector)
         if tip:
-            print(f"\n✅ Found correction tip:")
+            print(f"\n## Found correction tip:")
             print(f"   {tip}")
         else:
-            print("\n❌ No matching rule found")
+            print("\n## No matching rule found")
     else:
         print(f"Unknown command: {command}")
 

@@ -74,11 +74,11 @@ class RefusalDetector:
             
             # Safety Threshold
             if similarities[best_idx] < 0.4:
-                # print(f"   ⚠️ Refusal Detection: Max similarity {similarities[best_idx]:.2f} < 0.4. Ignoring.")
+                # print(f" Refusal Detection: Max similarity {similarities[best_idx]:.2f} < 0.4. Ignoring.")
                 return None
                 
             return chr(65 + int(best_idx))
             
         except Exception as e:
-            print(f"⚠️ Refusal Detection Error: {e}")
+            print(f" Refusal Detection Error: {e}")
             return None
