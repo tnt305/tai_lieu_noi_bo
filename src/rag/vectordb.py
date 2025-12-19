@@ -4,7 +4,22 @@ from typing import List, Dict
 import uuid
 
 # Global singleton client
+# Global singleton client
 _GLOBAL_QDRANT_CLIENT = None
+
+# --- HOTFIX: Patch Qdrant Client to allow extra fields (Fix Pydantic V2 Error) ---
+try:
+    from qdrant_client.http import models as rest_models
+    # Force 'extra' to 'allow' for CreateCollection to ignore unexpected None fields
+    if hasattr(rest_models.CreateCollection, 'model_config'):
+        rest_models.CreateCollection.model_config['extra'] = 'allow'
+        # CRITICAL for Pydantic V2: Rebuild the model to apply config changes
+        rest_models.CreateCollection.model_rebuild(force=True)
+        print("🔧 Qdrant Client patched: CreateCollection now allows extra fields (Rebuilt).")
+except ImportError:
+    pass
+# ---------------------------------------------------------------------------------
+
 
 class VNPTAIVectorDB:
     def __init__(self, collection_name: str = "vnptai_xinchao", path: str = "./qdrant_data"):
@@ -37,7 +52,7 @@ class VNPTAIVectorDB:
         """
         points = []
         # Namespace UUID để tạo deterministic UUID từ string ID
-        NAMESPACE_VNPTAI = uuid.UUID('6ba7b810-9dad-11d1-80b4-00c04fd430c8')  # Standard DNS namespace
+        NAMESPACE_VNPTAI = uuid.UUID('6ba7b810-9dad-11d1-80b4-00c04fd430c8')
         
         for chunk, vector in zip(chunks, vectors):
             # Payload là nơi chứa metadata để lọc (ví dụ: tìm điều 1 của văn bản X)
@@ -70,9 +85,20 @@ class VNPTAIVectorDB:
             limit: Số lượng kết quả trả về
             query_filter: Qdrant Filter object để lọc kết quả
         """
-        return self.client.query_points(
-            collection_name=self.collection_name,
-            query=query_vector,
-            limit=limit,
-            query_filter=query_filter
-        ).points
+        # Try new API first (1.8+), fallback to old API if not available
+        try:
+            results = self.client.query_points(
+                collection_name=self.collection_name,
+                query=query_vector,
+                limit=limit,
+                query_filter=query_filter
+            )
+            return results.points if hasattr(results, 'points') else results
+        except (AttributeError, TypeError):
+            # Fallback to old API
+            return self.client.search(
+                collection_name=self.collection_name,
+                query_vector=query_vector,
+                limit=limit,
+                query_filter=query_filter
+            )

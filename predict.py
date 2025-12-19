@@ -397,10 +397,10 @@ class HITMAN_VNPTAI(VNPTAI_QA):
 if __name__ == "__main__":
     # Robust Dataset Loading Logic
     candidate_paths = [
+        "dataset/test.json",                 
         "/code/private_test.json",           # 1. Docker/Scoring Path (Priority)
         "private_test.json",                 # 2. Relative Path (Docker WORKDIR /code or Root)
         "dataset/private_test.json",         # 3. Local Private Test
-        "dataset/test.json",                 
         # "dataset/public_test.json",  
     ]
     

@@ -124,24 +124,43 @@ class CorrectionBankQdrant:
                     ]
                 )
             
-            # Search in Qdrant using query_points (new API)
-            results = self.client.query_points(
-                collection_name=self.COLLECTION_NAME,
-                query=query_vector,
-                limit=top_k,
-                query_filter=search_filter
-            )
-            
-            # If no results with context filter, try without
-            if not results.points and context_hash:
-                results = self.client.query_points(
+            # Search in Qdrant with API compatibility check
+            try:
+                # Try new API (1.8+)
+                search_result = self.client.query_points(
                     collection_name=self.COLLECTION_NAME,
                     query=query_vector,
-                    limit=top_k
+                    limit=top_k,
+                    query_filter=search_filter
+                )
+                results = search_result.points if hasattr(search_result, 'points') else search_result
+            except (AttributeError, TypeError):
+                # Fallback to old API
+                results = self.client.search(
+                    collection_name=self.COLLECTION_NAME,
+                    query_vector=query_vector,
+                    limit=top_k,
+                    query_filter=search_filter
                 )
             
-            if results.points:
-                best_hit = results.points[0]
+            # If no results with context filter, try without
+            if not results and context_hash:
+                try:
+                    search_result = self.client.query_points(
+                        collection_name=self.COLLECTION_NAME,
+                        query=query_vector,
+                        limit=top_k
+                    )
+                    results = search_result.points if hasattr(search_result, 'points') else search_result
+                except (AttributeError, TypeError):
+                    results = self.client.search(
+                        collection_name=self.COLLECTION_NAME,
+                        query_vector=query_vector,
+                        limit=top_k
+                    )
+            
+            if results:
+                best_hit = results[0]
                 if best_hit.score >= self.threshold:
                     correction_tip = best_hit.payload.get('correction_tip', '')
                     print(f"📖 Found Correction Rule (Qdrant, Score: {best_hit.score:.3f})")
